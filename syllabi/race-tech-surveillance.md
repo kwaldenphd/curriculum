@@ -355,10 +355,9 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 2: What do we mean by race and technologies of surveillance?
 
 ### Assigned Material
-- Introduction “Why Data Science Needs Feminism” from Catherine D’Ignazio and Lauren F. Klein,  *Data Feminism* (MIT Press, 2020). https://doi.org/10.7551/mitpress/11805.001.0001
-- Catherine D’Ignazio, “[Data Feminism Reading Group - Week 1 - Introduction](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ec59a19-216f-4775-8e51-ad83004740a5)” *YouTube* (18 April 2020).
-- Combahee River Collective, Combahee River Collective Statement (1977). http://circuitous.org/scraps/combahee.html. 
-  * Option #2: [Link to Google Drive PDF](https://drive.google.com/file/d/1QcJEwzhGoL6T48O6g96z4T-4dFQE3wCw/view?usp=sharing)
+- Simone Browne, “Race and Surveillance” in *Routledge Handbook of Surveillance Studies* (Routledge, 2014): 72-80. [Link to Google Drive PDF](https://drive.google.com/file/d/1Tz-4Lt6SEoZAfn6ZCWE8v0fy3YaDZ39T/view?usp=sharing).
+- Amanda Borquaye, “[The ‘Smart Wall’ Relies on Invasive and Ineffective Experimental Technology](https://www.newamerica.org/oti/blog/the-smart-wall-relies-on-invasive-and-ineffective-experimental-technology-theres-nothing-smart-about-that/)” *New America* (5 August 2021)
+  * For more on border tech activism: [#NoTechForICE reports produced by Mijente, Just Futures Law, and No Border Wall Coalition](https://notechforice.com/resources/)
 
 ### Lab
 - [Lab: Getting started with Python](https://github.com/kwaldenphd/python-refresh)
@@ -374,8 +373,9 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 3: The Poorhouse: Historical context for race and technologies of surveillance (part 1)
 
 ### Assigned Material
-- Chapter 1 “The Power Chapter” from Catherine D’Ignazio and Lauren F. Klein, *Data Feminism* (MIT Press, 2020). https://doi.org/10.7551/mitpress/11805.001.0001
-- Catherine D’Ignazio, “[Data Feminism Reading Group - Chapter 1](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6dc5852-cb19-4201-8c4a-ad830046e837)” *YouTube* (25 April 2020).
+- Virginia Eubanks, *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor* (St. Martin’s, 2017).
+  * [Introduction: Red Flags (1-14)](https://drive.google.com/file/d/1h22SQd7_qZzsaHbLug-hh7f7AtSJ-KRn/view?usp=sharing)
+  * [Chapter 1, From Poorhouse to Database (14-38)](https://drive.google.com/file/d/1jb3MZo9gOPcoFB_7WDt-FcWg-pPnD4oF/view?usp=sharing)
 
 ### Lab
 - [Lab: Getting started with Pandas (for machine learning)](https://github.com/kwaldenphd/pandas-machine-learning-intro)
@@ -391,8 +391,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 4: The Plantation: Historical context for race and technologies of surveillance (part 2)
 
 ### Assigned Material
-- Chapter 2 “Collect, Analyze, Imagine, Teach” from Catherine D’Ignazio and Lauren F. Klein, *Data Feminism* (MIT Press, 2020). https://doi.org/10.7551/mitpress/11805.001.0001
-- Catherine D’Ignazio, “[Data Feminism Reading Group - Chapter 2](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1bcd1a31-1988-43db-82ae-ad8300468cd6)” *YouTube* (2 May 2020).
+- Angela Saini, *Superior: The Return of Race Science* (Beacon Press, 2020).
+  * [Chapter 2 (25-37)](https://drive.google.com/file/d/19RREWQWeD_Fw8ithqAPnEulxTMA6VSnq/view?usp=sharing)
+  * [Chapter 3 (38-52)](https://drive.google.com/file/d/1WVubogX1mi8cVQ_WSaUF-kW42thFkG_H/view?usp=sharing)
+
 
 ### Lab
 - [Lab: Building a job screening algorithm in Python](https://github.com/kwaldenphd/job-screening-algorithm)
@@ -409,9 +411,12 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 5: The Algorithm: Historical context for race and technologies of surveillance (part 3)
 
 ### Assigned Material
-- Chapter 3 “On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints” from Catherine D’Ignazio and Lauren F. Klein, *Data Feminism* (MIT Press, 2020). https://doi.org/10.7551/mitpress/11805.001.0001
-- Catherine D’Ignazio, “[Data Feminism Reading Group - Chapter 3](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a1ac3809-752d-424f-8a02-ad830045d26c)” *YouTube* (10 May 2020).
-- Donna Haraway. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” *Feminist Studies 14*, no. 3 (1988): 575–99. https://doi.org/10.2307/3178066. 
+- OPTIONAL: Society for Cultural Anthropology, “[Scientific Racism](https://culanth.org/fieldsights/anthrobites-scientific-racism)” *AnthroBites podcast* (29 August 2017) 17 minutes
+- Sidney Fussell, “How Surveillance Has Always Reinforced Racism” *Wired* (19 June 2020)
+  * [Interview with Dr. Simone Browne](https://www.wired.com/story/how-surveillance-reinforced-racism/)
+  * [Podcast](https://megaphone.link/CNE5532925482)
+- Brenda Medina and Thomas Frank, “[TSA Agents Say They’re Not Discriminating Against Black Women, But Their Body Scanners Might Be](https://www.propublica.org/article/tsa-not-discriminating-against-black-women-but-their-body-scanners-might-be)” *ProPublica* (17 April 2019)
+  * See also: Jess Kung, Gene Demby, and Shereen Marison Meraji, “[Is ‘race science’ making a comeback?](https://www.npr.org/sections/codeswitch/2019/07/10/416496218/is-race-science-making-a-comeback)” *Code Switch Podcast* (10 June 2019), NPR. 
 
 ### Lab
 - [Lab: Introduction to machine learning and predictive models in Python](https://github.com/kwaldenphd/machine-learning-intro)
@@ -427,9 +432,8 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 6: Where do we go from here? (part 1)
 
 ### Assigned Material
-- Chapter 4 “‘What Gets Counted Counts’” from Catherine D’Ignazio and Lauren F. Klein, *Data Feminism* (MIT Press, 2020). https://doi.org/10.7551/mitpress/11805.001.0001
-- Catherine D’Ignazio, “[Data Feminism Reading Group - Chapter 4](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=03daec45-9bc5-45af-a0ba-ad8300457f86)” *YouTube* (16 May 2020). 
-- Sasha Costanza-Chock, “Design Justice, A.I., and Escape from the Matrix of Domination” *Journal of Design and Science* (June 2018). https://doi.org/10.21428/96c8d426.
+- Ruha Benjamin, *Race After Technology: Abolitionist Tools for the New Jim Code* (Polity, 2019). [Link to electronic access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005503708).
+  * Pages 1-96 (Introduction through Chapter 2)
 
 ### Lab
 - [Lab: Building your own machine learning model in Python (part 1)](https://github.com/kwaldenphd/building-a-ml-model)
@@ -445,12 +449,8 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 7: Where do we go from here? (part 2)
 
 ### Assigned Material
-- Chapter 5 “Unicorns, Janitors, Ninjas, Wizards, and Rock Stars” from Catherine D’Ignazio and Lauren F. Klein, *Data Feminism* (MIT Press, 2020). https://doi.org/10.7551/mitpress/11805.001.0001
-- Catherine D’Ignazio, “[Data Feminism Reading Group - Chapter 5](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6f39e4a5-a1ba-485b-b35b-ad830044fcb0)” *YouTube* (23 May 2020).
-
-- Erin McElroy, Manon Vergerio, Sam Raby, “[The Anti-Eviction Mapping Project](https://notesfrombelow.org/article/anti-eviction-mapping-project)” *Notes From Below* (9 October 2019).
-- Daniela Aiello, Lisa Bates, Terra Graziani, Christopher Herring, Manissa Maharawal, Erin McElroy, Pamela Phan, and Gretchen Purser, “[Eviction Lab Misses the Mark](https://shelterforce.org/2018/08/22/eviction-lab-misses-the-mark/)” *Shelterforce* (22 August 2018). 
-  * OPTIONAL (if interested in exploring the intersection of AEMP and American Studies): Erin McElroy. "The Digital Humanities, American Studies, and the Anti-Eviction Mapping Project." *American Quarterly 70*, no. 3 (2018): 701-707. doi:10.1353/aq.2018.0055.
+- Ruha Benjamin, *Race After Technology: Abolitionist Tools for the New Jim Code* (Polity, 2019). [Link to electronic access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005503708).
+  * Pages 97-197 (Chapters 3-5)
 
 ### Lab
 - [Lab: Building your own machine learning model in Python (part 2)](https://github.com/kwaldenphd/building-a-ml-model)
@@ -466,9 +466,15 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 8: Case study: Risk prediction algorithms and the criminal justice system
 
 ### Assigned Material
-- Chapter 6 “The Numbers Don’t Speak for Themselves” from Catherine D’Ignazio and Lauren F. Klein, *Data Feminism* (MIT Press, 2020). https://doi.org/10.7551/mitpress/11805.001.0001
-- Catherine D’Ignazio, “[Data Feminism Reading Group - Chapter 6](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e70ffd2-76b3-4c90-8410-ad830044fcd2)” *YouTube* (2 June 2020).
-- Chapter 3 “Searching for People and Communities” from Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism* (New York University, 2018). [Link to access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005505291).
+- Julia Angwin, Jeff Larson, Surya Mtatu, and Lauren Kirchner, “[Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)” *ProPublica* (23 May 2016). 
+- Jeff Larson, Surya Mattu, Lauren Kirchner, and Julia Angwin, “How We Analyzed the COMPAS Recidivism Algorithm” *ProPublica* (23 May 2016).
+- Explore:
+  * [Google Drive folder that contains following items](https://drive.google.com/drive/folders/1-by_FJK2wi86flevOi2WKmomE6wL93yB?usp=sharing):
+    * Northpointe document collection gathered by ProPublica team
+    * Sentencing reports that include risk assessment, gathered by ProPublica team
+  * [GitHub repository with data files and Jupyter notebook for ProPublica analysis of COMPAS risk scores](https://github.com/propublica/compas-analysis)
+
+  * See also: Jerry Iannellli, “[Florida’s ‘secret’ formulas to calculate release dates may be trapping people in prison](https://theappeal.org/floridas-secret-formulas-to-calculate-release-dates-may-be-trapping-people-in-prison/)” *Appeal* (20 May 2021)
 
 ### Lab
 - [Lab: ProPublica COMPAS analysis](https://github.com/kwaldenphd/propublica-compas-lab)
@@ -486,10 +492,19 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 10: Case study: Social media feed curation and targeted advertising
 
 ### Assigned Material
-- Chapter 7 “Show Your Work” from Catherine D’Ignazio and Lauren F. Klein, *Data Feminism* (MIT Press, 2020). https://doi.org/10.7551/mitpress/11805.001.0001
-- Catherine D’Ignazio, “[Data Feminism Reading Group - Chapter 7](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f66162ea-2462-40af-9cfd-ad830044fc5d)” *YouTube* (9 June 2020). 
-- Siddartha Kara, “[Is your phone tainted by the misery of 35,000 children in Congo’s mines?](https://www.theguardian.com/global-development/2018/oct/12/phone-misery-children-congo-cobalt-mines-drc)” *Guardian* (12 October 2018).
-- Adrian Chen, “[The Laborers who keep Dick Picks and Beheadings Out of Your Facebook Feed](https://www.wired.com/2014/10/content-moderation/)” *Wired* (23 October 2014). 
+- Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism* (New York University Press, 2018). [Link to electronic access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005505291).
+  * Chapter 1 (15-63)
+  * Chapter 3 (110-118)
+
+- U.S. House of Representatives Permanent Select Committee on Intelligence, “[Exposing Russia’s Effort to Sow Discord Online: The Internet Research Agency and Advertisements](https://intelligence.house.gov/social-media-content/default.aspx)” *U.S. House of Representatives* (16 February 2018).
+
+- EXPLORE:
+  * U.S. House of Representatives Permanent Select Committee on Intelligence, “[Social Media Advertisements](https://intelligence.house.gov/social-media-content/social-media-advertisements.htm)” *U.S. House of Representatives* (2018).
+  * Ed Summers, “[Internet Research Facebook ads as structured data](https://github.com/umd-mith/irads)” *GitHub repository*.
+  * [Internet Research Agency Ads digital project](https://archive.mith.umd.edu/irads/), Maryland Institute for Technology and the Humanities.
+  * Simon Willison’s “Analyzing US Election Russian Facebook Ads”
+    * [Blog post](https://simonwillison.net/2018/Aug/6/russian-facebook-ads/)
+    * [Searchable interface](https://russian-ira-facebook-ads.datasettes.com/)
 
 ### Lab:
 - [Lab: Social media, feed curation, and targeted advertising](https://github.com/kwaldenphd/social-media-targeted-advertising)
@@ -506,18 +521,26 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 11: Case study: Racialized surveillance and K-12 education
 
 ### Assigned Material
-- Conclusion “Now Let’s Multiply” from Catherine D’Ignazio and Lauren F. Klein, *Data Feminism* (MIT Press, 2020). https://doi.org/10.7551/mitpress/11805.001.0001
-- Catherine D’Ignazio, “[Data Feminism Reading Group - Conclusion - Now Let’s Multiply!](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c3aab5f8-cffe-4091-a8ab-ad830044fc89)” *YouTube* (18 June 2020). 
-- Conclusion “Dismantling the Digital Poorhouse” from Virginia Eubanks, Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor (St. Martin’s, 2017). [Link to Google Drive PDF](https://drive.google.com/drive/folders/1a9lvPewvtqsd4ept6JHM6cjQUhAmEr8X?usp=sharing).
+- Claire Galligan, Hannah Rosenfeld, Molly Kleinman, Shobita Parthasarathy, “[Cameras in the Classroom: Facial Recognition Technology in Schools](https://stpp.fordschool.umich.edu/research/research-report/cameras-classroom-facial-recognition-technology-schools)” *University of Michigan’s Science, Technology, and Public Policy Program* (25 August 2020)
+  * The whole report is 115 pages- we’ll focus on the [13 page executive summary](https://stppstage.fordschool.umich.edu/sites/stpp/files/2021-07/cameras_in_the_classroom_executive_summary.pdf)
 
-- Case studies:
-  * [Design Justice Network](https://designjustice.org/)
-  * [CIVIC Software Foundation](http://civicplatform.org/)
-  * [Anti-Eviction Mapping Project](https://antievictionmap.com/)
-  * [Our Data Bodies](https://www.odbproject.org/)
-  * [Data for Black Lives](http://d4bl.org/)
-  * [Algorithmic Justice League](https://www.ajlunited.org/)
-  * [Chicago Citizens Police Data Project](https://cpdp.co/)
+- Jack Gillum and Jeff Kao, with photography by Adrienne Grunwald, “[Aggression Detectors: The Unproven, Invasive Surveillance Technology Schools Are Using to Monitor Students](https://features.propublica.org/aggression-detector/the-unproven-invasive-surveillance-technology-schools-are-using-to-monitor-students/)” *ProPublica* (25 June 2019)
+
+- Jennifer Smith Richards, Jodi S. Cohen, and Lakeidra Chavis, with photography by Zbigniew Bzdak, “[The Quiet Rooms: Children are being locked away, alone and terrified, in schools across Illinois. Often, it’s against the law](https://features.propublica.org/illinois-seclusion-rooms/school-students-put-in-isolated-timeouts/)” *ProPublica Illinois* (19 November 2019)
+  * [More reporting from this investigation](https://www.propublica.org/series/illinois-school-seclusions-timeouts-restraints), a collaboration between ProPublica Illinois and the Chicago Tribune
+
+- Coshandra Dillard, “[Envisioning School Safety Without Police](https://www.learningforjustice.org/magazine/fall-2021/envisioning-school-safety-without-police)” *Learning for Justice* (Fall 2021)
+
+- See also:
+  * Georgetown Law’s Center on Poverty and Inequality has an Initiative on Gender Justice and Opportunity doing [ongoing research on education and pushout for girls of color](https://genderjusticeandopportunity.georgetown.edu/school-and-pushout/)
+  * American Civil Liberties Union, et al, “[The Cost of School Policing: What Florida’s students have paid for a pretense of security](https://www.aclufl.org/en/publications/cost-school-policing)” *ACLU Florida* (2 September 2020)
+  * Two-part ACLU report:
+    * UCLA Center for Civil Rights Remedies and ACLU of Southern California, “[11 Million Days Lost: Race, Discipline, and Safety and U.S. Public Schools](https://www.aclu.org/report/11-million-days-lost-race-discipline-and-safety-us-public-schools-part-1)” *ACLU* (24 August 2018)
+    * ACLU et al, “[Cops and no Counselors: How the Lack of School Mental Health Staff is Harming Students](https://www.aclu.org/report/cops-and-no-counselors)” *ACLU* (4 May 2019)
+  * Meribah Knight and Ken Armstrong, “[Black Children Were Jailed for a Crime That Doesn’t Exist. Almost Nothing Happened to the Adults in Charge](https://www.propublica.org/article/black-children-were-jailed-for-a-crime-that-doesnt-exist)” *ProPublica* (8 October 2021)
+  * Colin Lecher and Maddy Varner, “[NYC’s School Algorithms Cement Segregation. This Data Shows How](https://themarkup.org/news/2021/05/26/nycs-school-algorithms-cement-segregation-this-data-shows-how)” *Markup* (26 May 2021)
+  * Mark Keierleber, “[Gaggle Surveils Millions of Kids in the Name of Safety. Targeted Families Argue it’s ‘Not That Smart’](https://www.the74million.org/article/gaggle-surveillance-minnesapolis-families-not-smart-ai-monitoring/)” *74 Million* (12 October 2021)
+  * Heather Schlitz, “[Schools often use AI to find students in crisis - one software-monitoring company reported 5,000 self-harm situations in a single week](https://www.businessinsider.com/school-students-communication-monitoring-ai-software-self-harm-suicide-risks-2021-9)” *Insider* (21 September 2021)
 
 ### Lab:
 - [Lab: Race and surveillance tech in K12 education](https://github.com/kwaldenphd/race-surveillance-education)
@@ -532,9 +555,28 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 12: Case study: Racialized surveillance and law enforcement
 
 ### Assigned Material
-- Jer Thorp, *Living in Data: A Citizen’s Guide to a Better Information Future* (Farrar, Straus and Giroux, 2021).
-  * [Chapter 1, Living in Data](https://drive.google.com/file/d/1YypJ0uabxoFgaujUBpPj18MM6MWIVhR9/view?usp=sharing) (11-36)
-  * [Chapter 3, Data’s Dark Matter](https://drive.google.com/file/d/1Z_xHmt1V7tPn1bquYZ4DT1QGe2Spd_ZA/view?usp=sharing) (55-72)
+- Last Week Tonight with John Oliver, “Facial Recognition” YouTube (15 June 2020)
+
+- EXPLORE: Gender Shades project website, MIT Media Lab.
+  * See also:
+    * Joy Buolamwini and Timnit Gebru, “Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification” Proceedings of Machine Learning Research Conference on Fairness, Accountability, and Transparency 81 (2018): 1-15.
+    * Todd Feathers, “Google’s New Dermatology App Wasn’t Designed for People With Darker Skin” Vice (20 May 2021)
+
+- Kashmir Hill, “Wrongfully Accused by an Algorithm” New York Times (24 June 2020).
+
+- Ryan Mac, Caroline Haskins, Brianna Sacks, and Logan McDonald, "Surveillance Nation: How A Facial Recognition Tool Found Its Way Into Hundreds Of US Police Departments, Schools, And Taxpayer-Funded Organizations" BuzzFeed News (6 April 2021).
+
+- SKIM: Todd Feathers, “Gunshot-detecting tech is summoning armed police to black neighborhoods” Vice (19 July 2021)
+  * ShotSpotter responds: Lachlan Cartwright and Maxwell Tani, “Vice hit with $300M suit from controversial surveillance company” Vice (12 October 2021)
+  * For more on ShotSpotter:
+    * Brooke Jarvis, “Listening for Gunshots” California Sunday Magazine (29 September 2016)
+    * Garance Burke, Martha Mendoza, Juliet Linderman, and Michael Tarm, “How AI-powered tech landed man in jail with scant evidence” Associated Press (19 August 2021)
+
+- See also: 
+  * Federal law enforcement: Rachel Metz, “Facial recognition tech has been widely used across the US government for years, a new report shows” CNN (30 June 2021)
+  * Urban surveillance in New Orleans: Michael Isaaca Stein, Caroline Sinders and Winnie Yoe, “Neighborhoods watched: the rise of urban mass surveillance” Lens (21 October 2021) 
+  * Clare Garvie, Alvaro Bedoya, Jonathan Frankle, “The Perpetual Line-Up: Unregulated Police Face Recognition in America” Georgetown Law Center on Privacy and Technology (18 October 2016)
+  * Nicholas Bogel-Burroughs and Frances Robles, “When Police Lie, the Innocent Pay. Some Are Fighting Back” New York Times (28 August 2021)
 
 ### Lab:
 - [Lab: Facial recognition and racialized surveillance in law enforcement](https://github.com/kwaldenphd/facial-recognition)
@@ -550,10 +592,22 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 13: Case study: Racial justice activism and surveillance of public space
 
 ### Assigned Material
-- Yeshimabeit Milner, “[Abolish Big Data](https://medium.com/@YESHICAN/abolish-big-data-ad0871579a41)” *Medium* (8 July 2019). 
-- Joy Buolamwini, “[We Must Fight Face Surveillance to Protect Black Lives](https://onezero.medium.com/we-must-fight-face-surveillance-to-protect-black-lives-5ffcd0b4c28a)” *OneZero* (3 June 2020). 
-- Data for Black Lives, “[Abolition in the Age of Big Data](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fb478e4-f14c-4ba2-b462-ad83005d0204)” *D4BL* (14 January 2019). 
-- REVIEW: Design Justice Network Principles https://designjustice.org/read-the-principles 
+- Read:
+  * Joy Buolamwini, “We Must Fight Face Surveillance to Protect Black Lives: An Urgent Letter from the Algorithmic Justice League,” OneZero (3 June 2020). 
+    * Explore: Algorithmic Justice League organization website.
+  * Caroline Haskins and Ryan Mac, “Here are the Minneapolis Police’s Tools to Identify Protestors” Buzzfeed (29 May 2020). 
+
+- Explore:
+  * Electronic Frontier Foundation, “Street-Level Surveillance” project. 
+  * Electronic Frontier Foundation, “Atlas of Surveillance: Documenting Police Tech in Our Communities with Open Source Research” project.
+  * Electronic Frontier Foundation, “Spot the Surveillance: A VR Experience for Keeping an Eye on Big Brother” project.
+
+- Additional resources:
+  * Charlie Warzel and Stuart A. Thompson, “How Your Phone Betrays Democracy” New York Times (21 December 2019)
+  * Dave Biscobing, “‘Prime for abuse’: Lack of oversight lets Phoenix police add protesters to gang database” ABC15 Arizona (24 May 2021)
+  * Matt Cagle, “Recordings show the California Highway Patrol’s aerial  surveillance of racial justice protests” ACLU Northern California (16 November 2021)
+  * Urban surveillance in New Orleans: Michael Isaaca Stein, Caroline Sinders and Winnie Yoe, “Neighborhoods watched: the rise of urban mass surveillance” Lens (21 October 2021)
+  * Domestication of prison tech: Erin McElroy, Meredith Whitaker, and Nicole E. Weber, “Prison Tech Comes Home” Public Books (18 August 2021)
 
 ### Lab:
 - [Lab: Data visceralization and environmental scan](https://github.com/kwaldenphd/data-visceralization)
@@ -567,8 +621,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ## Week 14: Final project work
 
-### Assigned Material
-- Catherine D’Ignazio and Lauren F. Klein, “Conclusion” from from *Data Feminism* (MIT Press, 2020): 203-214. https://doi.org/10.7551/mitpress/11805.001.0001
+### Assigned Material: None
 
 ### Lab: None
 
