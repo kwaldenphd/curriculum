@@ -54,7 +54,7 @@ This course will use the Canvas learning management system.
 
 We will walk through setting up an account in the Replit IDE when we start working in Python. The instructor will engage in live coding using Replit, but you are welcome to use any Python environment. If you face challenges working with Replit, TAs can help you identify an alternate IDE.
 
-If you do not have access to a personal computer, laptops are available for checkout at the Hesburgh Library’s first floor Circulation Desk (link to more information). You can also reserve a computer station at the Hesburgh Library (link to reservation system).
+If you do not have access to a personal computer, laptops are available for checkout at the Hesburgh Library’s first floor Circulation Desk ([link to more information](https://library.nd.edu/technology-lending)). You can also reserve a computer station at the Hesburgh Library ([link to reservation system](https://libcal.library.nd.edu/reserve/hesburgh-library-computer-stations)).
 
 # Course Overview
 
