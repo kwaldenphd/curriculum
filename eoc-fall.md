@@ -261,6 +261,22 @@ The University of Notre Dame provides services for those who have been affected 
 
 Assigned material not openly available online is available through Hesburgh Libraries and/or posted as an accessible PDF on Canvas. Links to Hesburgh Library resources are included in the “Course Schedule” of the syllabus and also posted on Canvas. Contact the instructor if you have questions or challenges accessing assigned readings.
 
+- [Week 1: Course Introduction;  What is a computer?; Binary math](#week-1-course-introduction--what-is-a-computer-binary-math)
+- [Week 2: Encoding schema; Conceptualizing the GUI/CLI](#week-2-encoding-schema-conceptualizing-the-guicli)
+- [Week 3: How did we get computers and how do they “work”?; Conceptualizing the OS and setting up the IDE](#week-3-how-did-we-get-computers-and-how-do-they-work-conceptualizing-the-os-and-setting-up-the-ide)
+- [Week 4: What “is” the internet?; Introduction to markup languages](#week-4-what-is-the-internet-introduction-to-markup-languages)
+- [Week 5: What “is” code/coding?; Introduction to programming languages](#week-5-what-is-codecoding-introduction-to-programming-languages)
+- [Week 6: Understanding the landscape, history, and syntax of programming languages](#week-6-understanding-the-landscape-history-and-syntax-of-programming-languages)
+- [Week 7: Understanding the landscape, history, and syntax of programming languages](#week-7-understanding-the-landscape-history-and-syntax-of-programming-languages)
+- [Week 8: Understanding the landscape, history, and syntax of programming languages](#week-8-understanding-the-landscape-history-and-syntax-of-programming-languages)
+- [Week 9: MID-TERM BREAK](#week-9-mid-term-break)
+- [Week 10: More on the landscape, history, and syntax of programming languages](#week-10-more-on-the-landscape-history-and-syntax-of-programming-languages)
+- [Week 11: Introduction to structured data](#week-11-introduction-to-structured-data)
+- [Week 12: Introduction to Jupyter Notebooks](#week-12-introduction-to-jupyter-notebooks)
+- [Week 13: Working with structured data in Python](#week-13-working-with-structured-data-in-python)
+- [Week 14: Web scraping in Python](#week-14-web-scraping-in-python)
+- [Week 15: Final Project Shareouts + Course Reflections](#week-15-final-project-shareouts--course-reflections)
+
 ## Week 1: Course Introduction;  What is a computer?; Binary math
 
 ### Assigned Material
