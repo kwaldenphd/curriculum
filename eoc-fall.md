@@ -256,64 +256,99 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### Assigned Material
 
 #### Content Readings
+- Barack Obama. “[Weekly Address: Giving Every Student an Opportunity to Learn Through Computer Science For All](https://obamawhitehouse.archives.gov/the-press-office/2016/01/30/weekly-address-giving-every-student-opportunity-learn-through-computer).” *White House* January 30, 2014.
+- Matt Richtel. “[Reading, Writing, Arithmetic, and Increasingly, Coding](https://www.nytimes.com/2014/05/11/us/reading-writing-arithmetic-and-lately-coding.html).” *New York Times*, May 10, 2014. [Link to access through Hesburgh Libraries.](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_proquest1943321525)
 
 #### Technical Readings
+- Charles Petzold, *Code: The Hidden Language of Computer Hardware and Software* (Redmond, WA: Microsoft Press, 2000).
+  * Chapter 9, Bit by Bit by Bit (pages 69-85)
+  * Chapter 12, A Binary Adding Machine (180-189)
 
 ### Lab
 - Lab #1: Binary math & encoding schema
 
 ### In-Class Work
+- Course overview, Introductions
+- Lab work time
 
 ### Work Due Outside Class
-
+- Technology intake survey
+- Introductions (discussion post)
 
 ## Week 2: Encoding schema; Conceptualizing the GUI/CLI
 
 ### Assigned Material
 
 #### Content Readings
+- Michael S. Mahoney. “The Histories of Computing(s).” *Interdisciplinary Science Reviews*, vol. 30, no. 2, Taylor & Francis, June 2005, pp. 119–135. [Link to access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_informaworld_s10_1179_030801805X25927)
 
 #### Technical Readings
+- Charles Petzold, *Code: The Hidden Language of Computer Hardware and Software* (Redmond, WA: Microsoft Press, 2000).
+  * Chapter 20, ASCII and a Cast of Characters (286-300)
 
 ### Lab
 - Lab #1: Binary math & encoding schema
 
 ### In-Class Work
+- Discussion
+- Lab work time
 
 ### Work Due Outside Class
-
+- Reflection
+- Lab notebook
 
 ## Week 3: How did we get computers and how do they “work”?; Conceptualizing the OS and setting up the IDE
 
 ### Assigned Material
 
 #### Content Readings
+- Virginia Eubanks, *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor* (St. Martin’s, 2017).
+  * Introduction
+  * Chapter 2, "Automating Eligibility in the Heartland"
 
 #### Technical Readings
+- Charles Petzold, *Code: The Hidden Language of Computer Hardware and Software* (Redmond, WA: Microsoft Press, 2000).
+  * Chapter 10, Logic and Switches (86-101)
+  * Chapter 16, An Assemblance of Memory (190-205)
+
+#### Additional Resources
+- Julia Evans. “[Bite Size Command Line!](https://wizardzines.com/zines/bite-size-command-line/)” Wizard Zines. [Link to Google Drive PDF.](https://drive.google.com/file/d/1q5m_2nqwfB221kNYNeWoE7l4rYiCaTGO/view?usp=sharing)
+- Ted-Ed, [How computer memory works](https://youtu.be/p3q5zWCw8J4) (5 minute video)
+- Ted-Ed, [How hard drives work](https://youtu.be/wteUW2sL7bc) (5 minute video)
 
 ### Lab
 - Lab #2: Computer Processing
 
 ### In-Class Work
+- Discussion
+- Lab work time
 
 ### Work Due Outside Class
-
+- Reflection
+- Lab notebook
 
 ## Week 4: What “is” the internet?; Introduction to markup languages
 
 ### Assigned Material
 
 #### Content Readings
+- Janet Abbate, “Introduction,” in *Inventing the Internet*. (Cambridge, MA: MIT Press, 1999): 1-6. [Link to Google Drive PDF]().
 
 #### Technical Readings
+- Julia Evans. “HTTP: Learn your browser’s language” Wizard Zines. Link to Google Drive PDF.
+- Explore the videos from Code.org’s How The Internet Works playlist 
+- W3C, “Introduction to HTML” 
 
 ### Lab
 - Lab #3: Introduction to markup languages (HTML, CSS)
 
 ### In-Class Work
+- Discussion
+- Lab work time
 
 ### Work Due Outside Class
-
+- Reflection
+- Lab notebook
 
 ## Week 5: What “is” code/coding?; Introduction to programming languages
 
@@ -327,9 +362,12 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Lab #4: Getting started with Python (basic syntax and data types)
 
 ### In-Class Work
+- Discussion
+- Lab work time
 
 ### Work Due Outside Class
-
+- Reflection
+- Lab notebook
 
 ## Week 6: Understanding the landscape, history, and syntax of programming languages
 
@@ -343,9 +381,12 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Lab #5: Lists and strings in Python
 
 ### In-Class Work
+- Discussion
+- Lab work time
 
 ### Work Due Outside Class
-
+- Reflection
+- Lab notebook
 
 ## Week 7: Understanding the landscape, history, and syntax of programming languages
 
@@ -359,9 +400,12 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Lab #6: Dictionaries and sets in Python
 
 ### In-Class Work
+- Discussion
+- Lab work time
 
 ### Work Due Outside Class
-
+- Reflection
+- Lab notebook
 
 ## Week 8: Understanding the landscape, history, and syntax of programming languages
 
@@ -375,12 +419,14 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Lab #7: Control flow structures, iteration and recursion, and looping structures in Python
 
 ### In-Class Work
+- Discussion
+- Lab work time
 
 ### Work Due Outside Class
-
+- Reflection
+- Lab notebook
 
 ## Week 9: MID-TERM BREAK
-
 
 ## Week 10: More on the landscape, history, and syntax of programming languages
 
@@ -394,9 +440,12 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Lab #8: Functions in Python
 
 ### In-Class Work
+- Discussion
+- Lab work time
 
 ### Work Due Outside Class
-
+- Reflection
+- Lab notebook
 
 ## Week 11: Introduction to structured data
 
@@ -410,9 +459,12 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Lab #9: Data structures in Python
 
 ### In-Class Work
+- Discussion
+- Lab work time
 
 ### Work Due Outside Class
-
+- Reflection
+- Lab notebook
 
 ## Week 12: Introduction to Jupyter Notebooks
 
@@ -426,9 +478,12 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Lab #10: Python in Jupyter Notebooks
 
 ### In-Class Work
+- Discussion
+- Lab work time
 
 ### Work Due Outside Class
-
+- Reflection
+- Lab notebook
 
 ## Week 13: Working with structured data in Python
 
@@ -442,9 +497,12 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Lab #11: Introduction to Pandas
 
 ### In-Class Work
+- Discussion
+- Lab work time
 
 ### Work Due Outside Class
-
+- Reflection
+- Lab notebook
 
 ## Week 14: Web scraping in Python
 
@@ -458,9 +516,12 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Lab #12/Final project: Web scraping in Python
 
 ### In-Class Work
+- Discussion
+- Lab work time
 
 ### Work Due Outside Class
-
+- Reflection
+- Lab notebook
 
 ## Week 15: Final Project Shareouts + Course Reflections
 
@@ -471,7 +532,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 #### Technical Readings
 
 ### Lab
-
 ### In-Class Work
+- Discussion
+- Lab work time
 
 ### Work Due Outside Class
+- Reflection
+- Lab notebook
