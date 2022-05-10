@@ -355,7 +355,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Catherine D’Ignazio and Lauren F. Klein, “Chapter 1: The Power Chapter” from *Data Feminism* (MIT Press, 2020): 21-48. https://doi.org/10.7551/mitpress/11805.001.0001
 
 ### Lab
-- [Final project: Identify a data source](https://github.com/kwaldenphd/HTML-CSS)
+- [Final project: Identify a data source](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/assignment-prompt.md#identify-a-data-source)
 
 ### In-Class Work
 - Discussion
@@ -420,7 +420,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Catherine D’Ignazio and Lauren F. Klein, “Chapter 4: What Gets Counted Counts” from from *Data Feminism* (MIT Press, 2020): 97-124. https://doi.org/10.7551/mitpress/11805.001.0001
 
 ### Lab
-- [Final project: Building a data model](https://github.com/kwaldenphd/python-conditional-statements)
+- [Final project: Building a data model](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/assignment-prompt.md#build-a-data-model)
 
 ### In-Class Work
 - Discussion
@@ -455,7 +455,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Catherine D’Ignazio and Lauren F. Klein, “Chapter 6: The Numbers Don’t Speak for Themselves” from from *Data Feminism* (MIT Press, 2020): 149-172. https://doi.org/10.7551/mitpress/11805.001.0001
 
 ### Lab
-- [Lab: Data Wrangling With Pandas](https://github.com/kwaldenphd/python-structured-data)
+- [Lab: Data Wrangling With Pandas](https://github.com/kwaldenphd/eda-pandas)
 
 ### In-Class Work
 - Discussion
@@ -473,7 +473,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Enrico Bertini, “[From Data Visualization to Interactive Data Analysis](https://medium.com/@FILWD/from-data-visualization-to-interactive-data-analysis-e24ae3751bf3)” *Medium* (28 November 2017).
 
 ### Lab
-- [Lab: Introduction to Matplotlib](https://github.com/kwaldenphd/python-jupyter-notebooks)
+- [Lab: Introduction to Matplotlib](https://github.com/kwaldenphd/matplotlib-intro)
 
 ### In-Class Work
 - Discussion
@@ -489,7 +489,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Catherine D’Ignazio and Lauren F. Klein, “Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints” from from *Data Feminism* (MIT Press, 2020): 73-96 https://doi.org/10.7551/mitpress/11805.001.0001
 
 ### Lab
-- [Lab: More with Matplotlib](https://github.com/kwaldenphd/pandas-intro)
+- [Lab: More with Matplotlib](https://github.com/kwaldenphd/more-with-matplotlib)
 
 ### In-Class Work
 - Discussion
@@ -505,7 +505,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Catherine D’Ignazio and Lauren F. Klein, “Chapter 7: Show Your Work” from from *Data Feminism* (MIT Press, 2020): 173-202. https://doi.org/10.7551/mitpress/11805.001.0001
 
 ### Lab
-- [Lab: Interactive Visualization in Python](https://github.com/kwaldenphd/web-scraping-python)
+- [Lab: Interactive Visualization in Python](https://github.com/kwaldenphd/interactive-visualization-python)
 
 ### In-Class Work
 - Discussion
