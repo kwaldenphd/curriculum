@@ -580,9 +580,9 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 #### Technical Readings
 - Explore documentation:
-  * Pandas “Reading HTML Content”
-Beautiful Soup documentation (as needed)
-W3Schools HTML Tutorial (as needed)
+  * [Pandas “Reading HTML Content”](https://pandas.pydata.org/docs/user_guide/io.html#io-read-html)
+  * [Beautiful Soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) (as needed)
+  * [W3Schools HTML Tutorial](https://www.w3schools.com/html/) (as needed)
 
 ### Lab
 - [Lab #12/Final project: Web scraping in Python](https://github.com/kwaldenphd/web-scraping-python)
