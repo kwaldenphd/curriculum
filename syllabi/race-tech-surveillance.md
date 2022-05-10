@@ -335,12 +335,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 1: Course overview and introductions
 
 ### Assigned Material
+- Chris Gilliard, “[A Black Woman Invented Home Security. Why Did It Go So Wrong](https://www.wired.com/story/black-inventor-home-security-system-surveillance/)” *Wired* (14 November 2021)
 - *Coded Bias*, directed by Shalini Kantayya. 7th Empire Media, 2020. 90 minutes.
   * [Link to access via Panopto](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5edb13f5-cc56-4231-9b68-ac7a0148e66c)
   * [Link to stream via Netflix](https://www.netflix.com/watch/81328723) (requires subscription)
-- Virginia Eubanks, *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor* (St. Martin’s, 2017).
-  * [Introduction: Red Flags (1-14)](https://drive.google.com/file/d/1h22SQd7_qZzsaHbLug-hh7f7AtSJ-KRn/view?usp=sharing)
-  * [Chapter 2, Automating Eligibility in the Heartland (39-83)](https://drive.google.com/file/d/15r9BbGkPJEMiJzmuIDE3qeJgOOvANRvD/view?usp=sharing)
 
 ### Lab
 - [Lab: Getting started with Python](https://github.com/kwaldenphd/python-refresh)
