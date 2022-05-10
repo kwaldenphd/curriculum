@@ -1,0 +1,193 @@
+# Elements of Computing I (Fall Semester)
+
+## Table of Contents
+
+## Acknowledgements
+
+This syllabus and all course materials have been prepared in conversation with and adapted from the example of many generous colleagues, including but not limited to: those who taught prior iterations of this course as well as CSC 105 at Grinnell College, Dr. Corey Pennycuff, Dr. Peter Bui, Dr. Jerod Weinman, Dr. Samuel A. Rebelsky, Dr. Ursula Wolz, Dr. Janet Davis, Dr. Liz Rodrigues, Dr. Lindsay K. Mattock, Dr. Anelise Hanson-Shrout, Megan Adams, Jarren Santos, Dr. Erik Simpson, Dr. Mike Guenther, and Dr. Ryan Cordell.
+
+# Description and Goals
+
+![L-R: Dorothy Vaughan, Lessie Hunter, Vivian Adair (Margaret Ridenhour and Charlotte Craidon in back) Human Computers: photo donated by B. Golemba, NASA](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/L_Dorothy_Vaughan_M_Leslie_Hunter_R_Vivian_Adair.jpg/1119px-L_Dorothy_Vaughan_M_Leslie_Hunter_R_Vivian_Adair.jpg?20160418220149)
+
+We will explore what computer science educators have identified as seven “big ideas” in computing: creativity, abstraction, data and information, algorithms, programming, the internet, and global impacts ([AP Computer Science Principles](https://apcentral.collegeboard.org/courses/ap-computer-science-principles)). Our major learning objectives for this course include:
+- Understand the basic concepts of computers, their components, and operation
+- Understand how problems can be approached through computational principles and methods
+  * Define common computing and programming terms and concepts.
+  * Employ common programming patterns and abstractions to solve problems.
+  * Choose appropriate data structures to develop efficient applications.
+  * Discuss the trade-offs of different programming strategies and techniques.
+  * Trace the execution of programming code, recognize errors, and correct bugs.
+  * Construct [Python](http://www.python.org) code to solve problems and automate processes in different domains and disciplines.
+- Increase self-efficacy in learning, using, and troubleshooting digital technologies
+- Consider digital technologies in context of historical development and social consequence 
+- Reflect critically on how the affordances of digital information technologies shape our relationship to our selves, other people, and knowledge 
+
+In this course, we will begin to break into the “black box” of the computer. Computing is more than simply sending email, building webpages, and creating documents. This course  is designed for students without prior programming experience and covers the fundamentals of computational thinking and programming in the Python programming language. 
+
+To be successful in this course you must: tinker, play, build, make, tweak, experiment, hack, and break things. You will push your boundaries and the boundaries of the technology, ask many questions of yourself and your peers, be confused and/or frustrated and/or lost, dig yourself out of those traps and think deeply about the digital tools that are part of digital and computing technology. This course is not about gaining mastery of particular tools, but rather building the skills and experience that will allow you to be comfortable and confident engaging with and evaluating new and familiar technologies.
+
+# Textbook
+
+There are no required texts that must be purchased for this course. All assigned materials are available through Hesburgh Libraries and/or posted as an accessible PDF on Canvas. Links to Hesburgh Library resources are included in the “Course Schedule” of the syllabus and also posted on Canvas. 
+
+A number of additional resources on the Python programming language are available online. These resources are useful for troubleshooting or exploring specific topics more deeply.
+- [Link to Google Doc](https://bit.ly/walden-python-resources) with general Python resources
+
+# Technology
+
+This course will use the Canvas learning management system.
+
+We will walk through setting up an account in the Replit IDE when we start working in Python. The instructor will engage in live coding using Replit, but you are welcome to use any Python environment. If you face challenges working with Replit, TAs can help you identify an alternate IDE.
+
+If you do not have access to a personal computer, laptops are available for checkout at the Hesburgh Library’s first floor Circulation Desk (link to more information). You can also reserve a computer station at the Hesburgh Library (link to reservation system).
+
+# Course Overview
+
+<table>
+  <tr>
+    <th>Week #</th>
+    <th>Topic</th>
+    <th>Lab</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Course Introduction;  What is a computer?; Binary math</td>
+    <td>Lab #1: Binary math and encoding schema</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Encoding schema; Conceptualizing the GUI/CLI</td>
+    <td>Lab #1: Binary math and encoding schema</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>How did we get computers and how do they “work”?; Conceptualizing the OS and setting up the IDE</td>
+    <td>Lab #2: Computer Processing</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>What “is” the internet?; Introduction to markup languages</td>
+    <td>Lab #3: Introduction to markup languages (HTML, CSS)</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>What “is” code/coding?; Introduction to programming languages</td>
+    <td>Lab #4: Getting started with Python (basic syntax and data types)</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Understanding the landscape, history, and syntax of programming languages</td>
+    <td>Lab #5: Lists and strings in Python</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Understanding the landscape, history, and syntax of programming languages</td>
+    <td>Lab #6: Dictionaries and sets in Python</td>
+  </tr>
+    <tr>
+    <td>8</td>
+    <td>Understanding the landscape, history, and syntax of programming languages</td>
+    <td>Lab #7: Control flow structures, iteration and recursion, and looping structures in Python</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td colspan="2">MID-TERM BREAK</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>More on the landscape, history, and syntax of programming languages</td>
+    <td>Lab #8: Functions in Python</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Introduction to structured data</td>
+    <td>Lab #9: Data structures in Python</td>
+  </tr>
+    <tr>
+    <td>12</td>
+    <td>Introduction to Jupyter Notebooks</td>
+    <td>Lab #10: Python in Jupyter Notebooks</td>
+  </tr>
+    <tr>
+    <td>13</td>
+    <td>Working with structured data in Python</td>
+    <td>Lab #11: Introduction to Pandas</td>
+  </tr>
+    <tr>
+    <td>14</td>
+    <td>Web scraping in Python</td>
+    <td>Lab #12/Final project: Web scraping in Python</td>
+  </tr>
+    <tr>
+    <td>15</td>
+    <td colspan = "2">Final project shareouts + course reflections</td>
+  </tr>
+  </table>
+
+# Assignments
+
+## Reflections
+
+## Lab Notebooks
+
+## Final Project
+
+## Participation and Engagement
+
+# Grading
+
+PLACEHOLDER
+
+## What This Looks Like in Practice
+
+## Grade Requirements
+
+## FAQs
+
+## Assignment Deadlines, Late Work & Extenuating Circumstances
+
+# Accessibility and Inclusion
+
+## Privacy
+
+This course is a community built on trust; in order to create the most effective learning experience, our interactions, discussions, and course activities must remain private and free from external intrusion. The hybrid nature of this course means we will be using digital platforms that create additional  As members of this course community, we are obliged to respect the individual dignity of all and to refrain from actions that diminish others’ ability to learn. 
+Course materials (videos, assignments, problem sets, etc) stay within the course. If you’re wanting to share them with students outside the course or in a public forum, check with me first.
+
+Some class meetings (when there are lectures) will be recorded to support remote students and to provide everyone in the class with useful study aids. These recordings will be available for review through Canvas. The University strictly prohibits anyone from duplicating, downloading, or sharing live class recordings with anyone outside of this course, for any reason.
+
+Student work, discussion posts, and all other forms of student information (name, email, image, etc.) are protected by the Family Educational Rights and Privacy Act of 1974. Sharing private information about our course community (including discussions, activities, presentations, student work, etc) with others for the purpose of inviting external attention, intrusion, ridicule, or harassment is an egregious breach of trust.
+
+## Non-Discrimination
+
+My goal is to create a fully inclusive classroom, thus I welcome individual students to approach me about distinctive learning needs. Our work in this class falls under the University’s non-discrimintion policy, which prohibits discrimination “basis of race, color, national or ethnic origin, sex, disability, veteran status, genetic information, or age” ([University of Notre Dame, Office of Institutional Equity, “Notice of Non-Discrimination”](https://equity.nd.edu/equity-resources/notice-of-non-discrimination/))
+
+## Accomodations
+
+In particular, I encourage students with disabilities to have a conversation with me and disclose how our classroom or course activities could impact the disability and what accommodations would be essential.
+
+Any student who has a documented disability and is registered with Accessibility Services should speak with the professor as soon as possible regarding accommodations. Students who are not registered should contact the Sara Bea Center for Student Accessibility Services as soon as possible (https://sarabea.nd.edu/). 
+
+## Mental Health
+
+Care and Wellness Consultants provide support and resources to students who are experiencing stressful or difficult situations that may be interfering with academic progress. Through Care and Wellness Consultants, students can be referred to The University Counseling Center (for cost-free and confidential psychological and psychiatric services from licensed professionals), University Health Services (which provides primary care, psychiatric services, case management, and a pharmacy), and The McDonald Center for Student Well Being (for problems with sleep, stress, and substance use). Visit http://care.nd.edu to learn more.
+
+## Title IX
+
+The University of Notre Dame provides services for those who have been affected by sexual assault, sexual misconduct, dating or domestic violence, stalking and any conduct that creates a hostile environment.  For help and further information including contact information for on and off-campus resources, consult titleix.nd.edu/support-resources. 
+
+## Additional Resources and Links
+
+Sara Bea Center for Student Accessibility Services [sarabea.nd.edu]
+Office of Institutional Equity [equity.nd.edu]
+Title IX / Sexual Assault Resources [titleix.nd.edu/support-resources] 
+University Counseling Center [ucc.nd.edu]
+McDonald Center for Student Well-Being [mcwell.nd.edu]
+University Health Services [uhs.nd.edu]
+List with additional resources [care.nd.edu/resources-to-use/campus-resources]
+
+# Honesty and Intellectual Integrity
+
+[Click here](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/honor-code.md) to learn more about how Notre Dame's honor code applies to your work in this class.
+
+# Schedule
