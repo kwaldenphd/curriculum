@@ -555,28 +555,28 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 12: Case study: Racialized surveillance and law enforcement
 
 ### Assigned Material
-- Last Week Tonight with John Oliver, “Facial Recognition” YouTube (15 June 2020)
+- Last Week Tonight with John Oliver, “[Facial Recognition](https://youtu.be/jZjmlJPJgug)” *YouTube* (15 June 2020)
 
-- EXPLORE: Gender Shades project website, MIT Media Lab.
+- EXPLORE: [Gender Shades project website](http://gendershades.org/index.html), MIT Media Lab.
   * See also:
-    * Joy Buolamwini and Timnit Gebru, “Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification” Proceedings of Machine Learning Research Conference on Fairness, Accountability, and Transparency 81 (2018): 1-15.
-    * Todd Feathers, “Google’s New Dermatology App Wasn’t Designed for People With Darker Skin” Vice (20 May 2021)
+    * Joy Buolamwini and Timnit Gebru, “[Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)” *Proceedings of Machine Learning Research Conference on Fairness, Accountability, and Transparency 81* (2018): 1-15.
+    * Todd Feathers, “[Google’s New Dermatology App Wasn’t Designed for People With Darker Skin](https://www.vice.com/en/article/m7evmy/googles-new-dermatology-app-wasnt-designed-for-people-with-darker-skin)” *Vice* (20 May 2021)
 
-- Kashmir Hill, “Wrongfully Accused by an Algorithm” New York Times (24 June 2020).
+- Kashmir Hill, “[Wrongfully Accused by an Algorithm](https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html)” *New York Times* (24 June 2020).
 
-- Ryan Mac, Caroline Haskins, Brianna Sacks, and Logan McDonald, "Surveillance Nation: How A Facial Recognition Tool Found Its Way Into Hundreds Of US Police Departments, Schools, And Taxpayer-Funded Organizations" BuzzFeed News (6 April 2021).
+- Ryan Mac, Caroline Haskins, Brianna Sacks, and Logan McDonald, "[Surveillance Nation: How A Facial Recognition Tool Found Its Way Into Hundreds Of US Police Departments, Schools, And Taxpayer-Funded Organizations](https://www.buzzfeednews.com/article/ryanmac/clearview-ai-local-police-facial-recognition)" *BuzzFeed News* (6 April 2021).
 
-- SKIM: Todd Feathers, “Gunshot-detecting tech is summoning armed police to black neighborhoods” Vice (19 July 2021)
-  * ShotSpotter responds: Lachlan Cartwright and Maxwell Tani, “Vice hit with $300M suit from controversial surveillance company” Vice (12 October 2021)
+- SKIM: Todd Feathers, “[Gunshot-detecting tech is summoning armed police to black neighborhoods](https://www.vice.com/en/article/88nd3z/gunshot-detecting-tech-is-summoning-armed-police-to-black-neighborhoods)” *Vice* (19 July 2021)
+  * ShotSpotter responds: Lachlan Cartwright and Maxwell Tani, “[Vice hit with $300M suit from controversial surveillance company](https://www.thedailybeast.com/vice-hit-with-dollar300m-suit-from-spotshooter)” *Vice* (12 October 2021)
   * For more on ShotSpotter:
-    * Brooke Jarvis, “Listening for Gunshots” California Sunday Magazine (29 September 2016)
-    * Garance Burke, Martha Mendoza, Juliet Linderman, and Michael Tarm, “How AI-powered tech landed man in jail with scant evidence” Associated Press (19 August 2021)
+    * Brooke Jarvis, “[Listening for Gunshots](https://story.californiasunday.com/shotspotter-gunshot-surveillance/)” *California Sunday Magazine* (29 September 2016)
+    * Garance Burke, Martha Mendoza, Juliet Linderman, and Michael Tarm, “[How AI-powered tech landed man in jail with scant evidence](https://apnews.com/article/artificial-intelligence-algorithm-technology-police-crime-7e3345485aa668c97606d4b54f9b6220)” *Associated Press* (19 August 2021)
 
 - See also: 
-  * Federal law enforcement: Rachel Metz, “Facial recognition tech has been widely used across the US government for years, a new report shows” CNN (30 June 2021)
-  * Urban surveillance in New Orleans: Michael Isaaca Stein, Caroline Sinders and Winnie Yoe, “Neighborhoods watched: the rise of urban mass surveillance” Lens (21 October 2021) 
-  * Clare Garvie, Alvaro Bedoya, Jonathan Frankle, “The Perpetual Line-Up: Unregulated Police Face Recognition in America” Georgetown Law Center on Privacy and Technology (18 October 2016)
-  * Nicholas Bogel-Burroughs and Frances Robles, “When Police Lie, the Innocent Pay. Some Are Fighting Back” New York Times (28 August 2021)
+  * Federal law enforcement: Rachel Metz, “[Facial recognition tech has been widely used across the US government for years, a new report shows](https://www.cnn.com/2021/06/30/tech/government-facial-recognition-use-gao-report/index.html?utm_source=optzlynewmarketribbon)” *CNN* (30 June 2021)
+  * Urban surveillance in New Orleans: Michael Isaaca Stein, Caroline Sinders and Winnie Yoe, “[Neighborhoods watched: the rise of urban mass surveillance](https://surveillance.thelensnola.org/)” *Lens* (21 October 2021) 
+  * Clare Garvie, Alvaro Bedoya, Jonathan Frankle, “[The Perpetual Line-Up: Unregulated Police Face Recognition in America](https://www.perpetuallineup.org/)” *Georgetown Law Center on Privacy and Technology* (18 October 2016)
+  * Nicholas Bogel-Burroughs and Frances Robles, “[When Police Lie, the Innocent Pay. Some Are Fighting Back](https://www.nytimes.com/2021/08/28/us/false-police-statements.html)” *New York Times* (28 August 2021)
 
 ### Lab:
 - [Lab: Facial recognition and racialized surveillance in law enforcement](https://github.com/kwaldenphd/facial-recognition)
@@ -593,21 +593,21 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### Assigned Material
 - Read:
-  * Joy Buolamwini, “We Must Fight Face Surveillance to Protect Black Lives: An Urgent Letter from the Algorithmic Justice League,” OneZero (3 June 2020). 
-    * Explore: Algorithmic Justice League organization website.
-  * Caroline Haskins and Ryan Mac, “Here are the Minneapolis Police’s Tools to Identify Protestors” Buzzfeed (29 May 2020). 
+  * Joy Buolamwini, “[We Must Fight Face Surveillance to Protect Black Lives: An Urgent Letter from the Algorithmic Justice League](https://onezero.medium.com/we-must-fight-face-surveillance-to-protect-black-lives-5ffcd0b4c28a),” *OneZero* (3 June 2020). 
+    * Explore: [Algorithmic Justice League organization website](https://www.ajl.org/library/home)
+  * Caroline Haskins and Ryan Mac, “[Here are the Minneapolis Police’s Tools to Identify Protestors](https://www.buzzfeednews.com/article/carolinehaskins1/george-floyd-protests-surveillance-technology)” *Buzzfeed* (29 May 2020). 
 
 - Explore:
-  * Electronic Frontier Foundation, “Street-Level Surveillance” project. 
-  * Electronic Frontier Foundation, “Atlas of Surveillance: Documenting Police Tech in Our Communities with Open Source Research” project.
-  * Electronic Frontier Foundation, “Spot the Surveillance: A VR Experience for Keeping an Eye on Big Brother” project.
+  * Electronic Frontier Foundation, “[Street-Level Surveillance](https://www.eff.org/issues/street-level-surveillance)” project
+  * Electronic Frontier Foundation, “[Atlas of Surveillance: Documenting Police Tech in Our Communities with Open Source Research](https://atlasofsurveillance.org/about)” project
+  * Electronic Frontier Foundation, “[Spot the Surveillance: A VR Experience for Keeping an Eye on Big Brother](https://www.eff.org/pages/spot-surveillance-vr-experience-keeping-eye-big-brother)” project
 
 - Additional resources:
-  * Charlie Warzel and Stuart A. Thompson, “How Your Phone Betrays Democracy” New York Times (21 December 2019)
-  * Dave Biscobing, “‘Prime for abuse’: Lack of oversight lets Phoenix police add protesters to gang database” ABC15 Arizona (24 May 2021)
-  * Matt Cagle, “Recordings show the California Highway Patrol’s aerial  surveillance of racial justice protests” ACLU Northern California (16 November 2021)
-  * Urban surveillance in New Orleans: Michael Isaaca Stein, Caroline Sinders and Winnie Yoe, “Neighborhoods watched: the rise of urban mass surveillance” Lens (21 October 2021)
-  * Domestication of prison tech: Erin McElroy, Meredith Whitaker, and Nicole E. Weber, “Prison Tech Comes Home” Public Books (18 August 2021)
+  * Charlie Warzel and Stuart A. Thompson, “[How Your Phone Betrays Democracy](https://www.nytimes.com/interactive/2019/12/21/opinion/location-data-democracy-protests.html)” *New York Times* (21 December 2019)
+  * Dave Biscobing, “[‘Prime for abuse’: Lack of oversight lets Phoenix police add protesters to gang database](https://www.abc15.com/news/local-news/investigations/protest-arrests/prime-for-abuse-lack-of-oversight-lets-phoenix-police-add-protesters-to-gang-database)” *ABC15 Arizona* (24 May 2021)
+  * Matt Cagle, “[Recordings show the California Highway Patrol’s aerial  surveillance of racial justice protests](https://www.aclunc.org/blog/recordings-show-california-highway-patrol-s-aerial-surveillance-racial-justice-protests)” *ACLU Northern California* (16 November 2021)
+  * Urban surveillance in New Orleans: Michael Isaaca Stein, Caroline Sinders and Winnie Yoe, “[Neighborhoods watched: the rise of urban mass surveillance](https://surveillance.thelensnola.org/)” *Lens* (21 October 2021)
+  * Domestication of prison tech: Erin McElroy, Meredith Whitaker, and Nicole E. Weber, “[Prison Tech Comes Home](http://www.publicbooks.org/prison-tech-comes-home/)” *Public Books* (18 August 2021)
 
 ### Lab:
 - [Lab: Data visceralization and environmental scan](https://github.com/kwaldenphd/data-visceralization)
