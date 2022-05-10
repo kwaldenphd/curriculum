@@ -316,15 +316,9 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 1: Introductions & course overview
 
 ### Assigned Material
-
-#### Content Readings
-- Barack Obama. “[Weekly Address: Giving Every Student an Opportunity to Learn Through Computer Science For All](https://obamawhitehouse.archives.gov/the-press-office/2016/01/30/weekly-address-giving-every-student-opportunity-learn-through-computer).” *White House* January 30, 2014.
-- Matt Richtel. “[Reading, Writing, Arithmetic, and Increasingly, Coding](https://www.nytimes.com/2014/05/11/us/reading-writing-arithmetic-and-lately-coding.html).” *New York Times*, May 10, 2014. [Link to access through Hesburgh Libraries.](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_proquest1943321525)
-
-#### Technical Readings
-- Charles Petzold, *Code: The Hidden Language of Computer Hardware and Software* (Redmond, WA: Microsoft Press, 2000).
-  * [Chapter 9, Bit by Bit by Bit (pages 69-85)](https://drive.google.com/file/d/1rzYvvYUGQOihehUvNqGCOMyqnY1zRxlV/view?usp=sharing)
-  * [Chapter 12, A Binary Adding Machine (180-189)](https://drive.google.com/file/d/1K9XcY53TDT1utCmqkNppxUgU97IbibFT/view?usp=sharing)
+- *Coded Bias*, directed by Shalini Kantayya. 7th Empire Media, 2020. 90 minutes.
+  * [Link to access via Panopto](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5edb13f5-cc56-4231-9b68-ac7a0148e66c)
+  * [Link to stream via Netflix](https://www.netflix.com/watch/81328723) (requires subscription)
 
 ### Lab
 - [Lab: Python in Spyder](https://github.com/kwaldenphd/python-spyder)
@@ -336,17 +330,12 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### Work Due Outside Class
 - Technology intake survey
 - Introductions (discussion post)
+- Lab notebook
 
 ## Week 2: Where can we get data?
 
 ### Assigned Material
-
-#### Content Readings
-- Michael S. Mahoney. “The Histories of Computing(s).” *Interdisciplinary Science Reviews*, vol. 30, no. 2, Taylor & Francis, June 2005, pp. 119–135. [Link to access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_informaworld_s10_1179_030801805X25927)
-
-#### Technical Readings
-- Charles Petzold, *Code: The Hidden Language of Computer Hardware and Software* (Redmond, WA: Microsoft Press, 2000).
-  * [Chapter 20, ASCII and a Cast of Characters (286-300)](https://drive.google.com/file/d/1Vk4dmJyP3ljEP5aEEyeNMU6KBpNJUXvR/view?usp=sharing)
+- Catherine D’Ignazio and Lauren F. Klein, “Introduction: Why Data Science Needs Feminism” from *Data Feminism* (MIT Press, 2020): 1-20. https://doi.org/10.7551/mitpress/11805.001.0001
 
 ### Lab
 - [Lab: Web APIs in Python](https://github.com/kwaldenphd/apis-python)
@@ -362,28 +351,14 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 3: Identifying a data source
 
 ### Assigned Material
-
-#### Content Readings
-- Virginia Eubanks, *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor* (St. Martin’s, 2017).
-  * [Introduction: Red Flags (1-14)](https://drive.google.com/file/d/1h22SQd7_qZzsaHbLug-hh7f7AtSJ-KRn/view?usp=sharing)
-  * [Chapter 2, Automating Eligibility in the Heartland (39-83)](https://drive.google.com/file/d/15r9BbGkPJEMiJzmuIDE3qeJgOOvANRvD/view?usp=sharing)
-
-#### Technical Readings
-- Charles Petzold, *Code: The Hidden Language of Computer Hardware and Software* (Redmond, WA: Microsoft Press, 2000).
-  * [Chapter 10, Logic and Switches (86-101)](https://drive.google.com/file/d/1l5SZ5SkzsRnvMEqEZx3jYL1MADaq7mBp/view?usp=sharing)
-  * [Chapter 16, An Assemblance of Memory (190-205)](https://drive.google.com/file/d/15r9BbGkPJEMiJzmuIDE3qeJgOOvANRvD/view?usp=sharing)
-
-#### Additional Resources
-- Julia Evans. “[Bite Size Command Line!](https://wizardzines.com/zines/bite-size-command-line/)” *Wizard Zines*. [Link to Google Drive PDF.](https://drive.google.com/file/d/1q5m_2nqwfB221kNYNeWoE7l4rYiCaTGO/view?usp=sharing)
-- Ted-Ed, [How computer memory works](https://youtu.be/p3q5zWCw8J4) (5 minute video)
-- Ted-Ed, [How hard drives work](https://youtu.be/wteUW2sL7bc) (5 minute video)
+- Catherine D’Ignazio and Lauren F. Klein, “Chapter 1: The Power Chapter” from *Data Feminism* (MIT Press, 2020): 21-48. https://doi.org/10.7551/mitpress/11805.001.0001
 
 ### Lab
 - [Final project: Identify a data source](https://github.com/kwaldenphd/HTML-CSS)
 
 ### In-Class Work
 - Discussion
-- Lab work time
+- Final project work
 
 ### Work Due Outside Class
 - Reflection
@@ -392,14 +367,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 4: What is a data model?; What are relational databases?
 
 ### Assigned Material
-
-#### Content Readings
-- Janet Abbate, “Introduction,” in *[Inventing the Internet](https://onesearch.library.nd.edu/permalink/f/1phik6l/hcc_aleph000015552)*. (Cambridge, MA: MIT Press, 1999): 1-6. [Link to Google Drive PDF](https://drive.google.com/file/d/1YsaqJoMs1kqjliwa4EljrlqXmjDLOsNZ/view?usp=sharing).
-
-#### Technical Readings
-- Julia Evans. “[HTTP: Learn your browser’s language](https://wizardzines.com/zines/http/)” *Wizard Zines*. [Link to Google Drive PDF.](https://drive.google.com/file/d/1JeRc8hLAUtJpY3b8wyT_dx2qeUJOiUxy/view?usp=sharing)
-- Explore the videos from Code.org’s [How The Internet Works playlist ](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
-- W3C, “[Introduction to HTML](https://www.w3schools.com/html/html_intro.asp)” 
+- Janet Murray, “The Database Model: Strategies for Segmentation and Juxtaposition of Information” from *Inventing the Medium: Principles of Interaction Design as a Cultural Practice* (MIT Press, 2012); 223-252. [Link to electronic access through Hesburgh Libraries.](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005914907)
 
 ### Lab
 - [Lab: Data Models & SQLite Intro](https://github.com/kwaldenphd/data-models)
@@ -416,16 +384,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 5: How can we access information in a database?
 
 ### Assigned Material
-
-#### Content Readings
-- Clive Thompson. “[The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html).” *New York Times* (3 Feb. 2019). [Link to access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_cdi_proquest_miscellaneous_2183045041)
-
-#### Technical Readings
-- [Reading Technical Documentation](https://github.com/eltiffster/readingDocs), Written by Tiffany Chan for the Digital Scholarship Commons, UVic Libraries. 
-- Explore relevant sections of Python documentation (W3 Schools):
-  * [Introduction](https://www.w3schools.com/python/python_intro.asp)
-  * [Data Types](https://www.w3schools.com/python/python_datatypes.asp)
-- Explore the [Python website](https://www.python.org/). 
+- Catherine D’Ignazio and Lauren F. Klein, “Chapter 2: Collect, Analyze, Imagine, Teach” from from *Data Feminism* (MIT Press, 2020): 49-72. https://doi.org/10.7551/mitpress/11805.001.0001
 
 ### Lab
 - [Lab: Queries & Joins](https://github.com/kwaldenphd/sql-queries-joins)
@@ -441,14 +400,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 6: How can we access and use relational databases in Python?
 
 ### Assigned Material
-
-#### Content Readings
-- Nathan Ensmenger, Chapter 6 “Making Programming Masculine” in *Gender Codes: Why Women Are Leaving Computing* (Wiley, 2010): 115-141. [Link to Google Drive PDF[(https://drive.google.com/file/d/1IPk5nq1jtNmnCzWgENteJELtShimuvA0/view?usp=sharing).
-
-#### Technical Readings
-- Explore relevant sections of Python documentation:
-  * [Strings](https://docs.python.org/3/tutorial/introduction.html#strings)
-  * [Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
+- Ellen Gruber Garvey, “‘facts and FACTS’: Abolitionists’ Database Innovations” in *Raw Data is an Oxymoron*, edited by Lisa Gitelman and Virginia Jackson (MIT Press, 2013): 89-102. [Link to Google Drive PDF.](https://drive.google.com/file/d/1mbjFkJHBHSccfCYoLdpw8fPPwkVg2A26/view?usp=sharing)
 
 ### Lab
 - [Lab: From SQLite to Python](https://github.com/kwaldenphd/sqlite-to-python)
@@ -464,21 +416,14 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 7: Building a data model
 
 ### Assigned Material
-
-#### Content Readings
-- Nathan Ensmenger. "Chapter 3: Chess Players, Music Lovers, and Mathematicians." In *The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise* (Cambridge: MIT Press, 2010): 51-82. [Link to online access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005788353).
-
-#### Technical Readings
-- Explore relevant sections of Python documentation:
-  * [Sets](https://docs.python.org/3/tutorial/datastructures.html#sets)
-  * [Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
+- Catherine D’Ignazio and Lauren F. Klein, “Chapter 4: What Gets Counted Counts” from from *Data Feminism* (MIT Press, 2020): 97-124. https://doi.org/10.7551/mitpress/11805.001.0001
 
 ### Lab
 - [Final project: Building a data model](https://github.com/kwaldenphd/python-conditional-statements)
 
 ### In-Class Work
 - Discussion
-- Lab work time
+- Final project work
 
 ### Work Due Outside Class
 - Reflection
@@ -487,16 +432,8 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 8: What is tidy data and why does it matter?
 
 ### Assigned Material
-
-#### Content Readings
-- Nathan Ensmenger. "Chapter 5: The Rise of Computer Science." In *The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise* (Cambridge: MIT Press, 2010): 111-136. [Link to online access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005788353).
-
-#### Technical Readings
-- Explore relevant sections of Python documentation:
-  * Conditional statements & control flow tools
-    * [W3Schools](https://www.w3schools.com/python/python_conditions.asp) or [Python documentation](https://docs.python.org/3/tutorial/controlflow.html)
-  * Iteration and loops:
-    * [for](https://www.w3schools.com/python/python_for_loops.asp) loops and [while](https://www.w3schools.com/python/python_while_loops.asp) loops (W3Schools)
+- Karl W. Broman and Kara H. Woo, "Data Organization in Spreadsheets," The American Statistician 72:1, 2-10. https://doi.org/10.1080/00031305.2017.1375989 
+- Catherine D’Ignazio and Lauren F. Klein, “Chapter 5: Unicorns, Janitors, Ninjas, Wizards, and Rockstars” from from *Data Feminism* (MIT Press, 2020): 125-148. https://doi.org/10.7551/mitpress/11805.001.0001
 
 ### Lab
 - [Lab: Tidy Data](https://github.com/kwaldenphd/tidy-data-principles)
@@ -514,16 +451,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 10: What is data wrangling? How can we work with structured data in Python?
 
 ### Assigned Material
-
-#### Content Readings
-- Mar Hicks, “[The Voices of Women in Tech Are Still Being Erased](https://www.technologyreview.com/2021/08/03/1030460/women-erased-tech-history-computing/)” *MIT Technology Review* (3 August 2021)
-- Claire Goforth, “[‘60 Minutes’ ran a segment on racial bias in facial recognition--it left out the Black women who pioneered the research](https://www.dailydot.com/debug/60-minutes-omits-black-female-scientists-racial-biases/)” *Daily Dot* (17 May 2021).
-
-#### Technical Readings
-- Explore relevant sections of Python documentation:
-  * Functions
-    * [Built-in functions](https://docs.python.org/3.0/library/functions.html?highlight=super) (Python documentation)
-    * [Functions](https://www.w3schools.com/python/python_functions.asp) (W3Schools)
+- Catherine D’Ignazio and Lauren F. Klein, “Chapter 6: The Numbers Don’t Speak for Themselves” from from *Data Feminism* (MIT Press, 2020): 149-172. https://doi.org/10.7551/mitpress/11805.001.0001
 
 ### Lab
 - [Lab: Data Wrangling With Pandas](https://github.com/kwaldenphd/python-structured-data)
@@ -540,16 +468,8 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 11: What is data visualization?
 
 ### Assigned Material
-
-#### Content Readings
-- Jer Thorp, “Chapter 1, Living in Data” from *Living in Data: A Citizen’s Guide to a Better Information Future* (Farrar, Straus and Giroux, 2021): 11-36. [Link to Google Drive PDF](https://drive.google.com/file/d/1WO4Cxr0IJIwRoYOxlqZKByXDvROyA1jK/view?usp=sharing).
-
-#### Technical Readings
-- Explore relevant sections of Python documentation:
-  * [Python file handling](https://www.w3schools.com/python/python_file_handling.asp) (W3Schools)
-  * [Read files](https://www.w3schools.com/python/python_file_open.asp), [Write/Create files](https://www.w3schools.com/python/python_file_write.asp)
-  * [Python File Methods](https://www.w3schools.com/python/python_ref_file.asp) (W3Schools)
-  * [Python CSV module](https://docs.python.org/3/library/csv.html#module-csv)
+- Giorgia Lupi, “[Data Humanism: The Revolutionary Future of Data Visualization](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold)” *PrintMag* (30 January 2017).
+- Enrico Bertini, “[From Data Visualization to Interactive Data Analysis](https://medium.com/@FILWD/from-data-visualization-to-interactive-data-analysis-e24ae3751bf3)” *Medium* (28 November 2017).
 
 ### Lab
 - [Lab: Introduction to Matplotlib](https://github.com/kwaldenphd/python-jupyter-notebooks)
@@ -565,12 +485,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 12: Data visualization considerations and best practices
 
 ### Assigned Material
-
-#### Content Readings
-- None
-
-#### Technical Readings
-- Explore [Project Jupyter website](https://jupyter.org/)
+- Catherine D’Ignazio and Lauren F. Klein, “Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints” from from *Data Feminism* (MIT Press, 2020): 73-96 https://doi.org/10.7551/mitpress/11805.001.0001
 
 ### Lab
 - [Lab: More with Matplotlib](https://github.com/kwaldenphd/pandas-intro)
@@ -586,12 +501,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 13: How can we use Python to communicate using data?
 
 ### Assigned Material
-
-#### Content Readings
-- Catherine D’Ignazio and Lauren F. Klein, “Introduction: Why Data Science Needs Feminism” from *Data Feminism* (MIT Press, 2020): 1-20. https://doi.org/10.7551/mitpress/11805.001.0001
-
-#### Technical Readings
-- Explore [Pandas package overview](https://pandas.pydata.org/docs/getting_started/overview.html)
+- Catherine D’Ignazio and Lauren F. Klein, “Chapter 7: Show Your Work” from from *Data Feminism* (MIT Press, 2020): 173-202. https://doi.org/10.7551/mitpress/11805.001.0001
 
 ### Lab
 - [Lab: Interactive Visualization in Python](https://github.com/kwaldenphd/web-scraping-python)
@@ -607,35 +517,20 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 14: Final Project Work
 
 ### Assigned Material
-
-#### Content Readings
-- None
-
-#### Technical Readings
-- Explore documentation:
-  * Pandas “Reading HTML Content”
-Beautiful Soup documentation (as needed)
-W3Schools HTML Tutorial (as needed)
+- Catherine D’Ignazio and Lauren F. Klein, “Conclusion” from from *Data Feminism* (MIT Press, 2020): 203-214. https://doi.org/10.7551/mitpress/11805.001.0001
 
 ### Lab: None
 
 ### In-Class Work
-- Lab work time
-- Lab work time
+- Final project work time
+- Final project work time
 
 ### Work Due Outside Class
-- Reflection
-- Lab notebook
+- Final project status update
 
 ## Week 15: Final Project Shareouts + Course Reflections
 
-### Assigned Material
-
-#### Content Readings
-- Anil Dash and Ruha Benjamin, “[American as Apple Pie: How Racism Gets Baked Into Technology](https://glitch.com/glimmer/episode/function-episode-16/)” *Function* podcast (23 October 2019).
-
-#### Technical Readings
-- None
+### Assigned Material: None
 
 ### Lab: None
 
