@@ -53,42 +53,42 @@ If you do not have access to a personal computer, laptops are available for chec
   <tr>
     <td>1</td>
     <td>Course Introduction;  What is a computer?; Binary math</td>
-    <td>Lab #1: Binary math and encoding schema</td>
+    <td><a href="https://github.com/kwaldenphd/bits-bytes">Lab #1: Binary math and encoding schema</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Encoding schema; Conceptualizing the GUI/CLI</td>
-    <td>Lab #1: Binary math and encoding schema</td>
+    <td><a href="https://github.com/kwaldenphd/bits-bytes">Lab #1: Binary math and encoding schema</a></td>
   </tr>
   <tr>
     <td>3</td>
     <td>How did we get computers and how do they “work”?; Conceptualizing the OS and setting up the IDE</td>
-    <td>Lab #2: Computer Processing</td>
+   <td><a href="https://github.com/kwaldenphd/how-computers-work">Lab #2: Computer Processing</a></td>
   </tr>
   <tr>
     <td>4</td>
     <td>What “is” the internet?; Introduction to markup languages</td>
-    <td>Lab #3: Introduction to markup languages (HTML, CSS)</td>
+    <td><a href="https://github.com/kwaldenphd/HTML-CSS">Lab #3: Introduction to markup languages (HTML, CSS)</a></td>
   </tr>
   <tr>
     <td>5</td>
     <td>What “is” code/coding?; Introduction to programming languages</td>
-    <td>Lab #4: Getting started with Python (basic syntax and data types)</td>
+    <td><a href="https://github.com/kwaldenphd/python-intro">Lab #4: Getting started with Python (basic syntax and data types)</a></td>
   </tr>
   <tr>
     <td>6</td>
     <td>Understanding the landscape, history, and syntax of programming languages</td>
-    <td>Lab #5: Lists and strings in Python</td>
+    <td><a href="https://github.com/kwaldenphd/python-lists-strings">Lab #5: Lists and strings in Python</a></td>
   </tr>
   <tr>
     <td>7</td>
     <td>Understanding the landscape, history, and syntax of programming languages</td>
-    <td>Lab #6: Dictionaries and sets in Python</td>
+    <td><a href="https://github.com/kwaldenphd/python-dictionaries-sets">Lab #6: Dictionaries and sets in Python</a></td>
   </tr>
     <tr>
     <td>8</td>
     <td>Understanding the landscape, history, and syntax of programming languages</td>
-    <td>Lab #7: Control flow structures, iteration and recursion, and looping structures in Python</td>
+    <td><a href="https://github.com/kwaldenphd/python-conditional-statements">Lab #7: Control flow structures, iteration and recursion, and looping structures in Python</a></td>
   </tr>
   <tr>
     <td>9</td>
@@ -97,27 +97,27 @@ If you do not have access to a personal computer, laptops are available for chec
   <tr>
     <td>10</td>
     <td>More on the landscape, history, and syntax of programming languages</td>
-    <td>Lab #8: Functions in Python</td>
+   <td><a href="https://github.com/kwaldenphd/python-functions">Lab #8: Functions in Python</a></td>
   </tr>
   <tr>
     <td>11</td>
     <td>Introduction to structured data</td>
-    <td>Lab #9: Data structures in Python</td>
+    <td><a href="https://github.com/kwaldenphd/python-structured-data">Lab #9: Data structures and file I/O in Python</a></td>
   </tr>
     <tr>
     <td>12</td>
     <td>Introduction to Jupyter Notebooks</td>
-    <td>Lab #10: Python in Jupyter Notebooks</td>
+    <td><a href="https://github.com/kwaldenphd/python-jupyter-notebooks">Lab #10: Python in Jupyter Notebooks</a></td>
   </tr>
     <tr>
     <td>13</td>
     <td>Working with structured data in Python</td>
-    <td>Lab #11: Introduction to Pandas</td>
+     <td><a href="https://github.com/kwaldenphd/pandas-intro">Lab #11: Introduction to Pandas</a></td>
   </tr>
     <tr>
     <td>14</td>
     <td>Web scraping in Python</td>
-    <td>Lab #12/Final project: Web scraping in Python</td>
+    <td><a href="https://github.com/kwaldenphd/web-scraping-python">Lab #12/Final project: Web scraping in Python</a></td>
   </tr>
     <tr>
     <td>15</td>
@@ -261,8 +261,8 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 #### Technical Readings
 - Charles Petzold, *Code: The Hidden Language of Computer Hardware and Software* (Redmond, WA: Microsoft Press, 2000).
-  * Chapter 9, Bit by Bit by Bit (pages 69-85)
-  * Chapter 12, A Binary Adding Machine (180-189)
+  * [Chapter 9, Bit by Bit by Bit (pages 69-85)](https://drive.google.com/file/d/1rzYvvYUGQOihehUvNqGCOMyqnY1zRxlV/view?usp=sharing)
+  * [Chapter 12, A Binary Adding Machine (180-189)](https://drive.google.com/file/d/1K9XcY53TDT1utCmqkNppxUgU97IbibFT/view?usp=sharing)
 
 ### Lab
 - Lab #1: Binary math & encoding schema
@@ -284,10 +284,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 #### Technical Readings
 - Charles Petzold, *Code: The Hidden Language of Computer Hardware and Software* (Redmond, WA: Microsoft Press, 2000).
-  * Chapter 20, ASCII and a Cast of Characters (286-300)
+  * [Chapter 20, ASCII and a Cast of Characters (286-300)](https://drive.google.com/file/d/1Vk4dmJyP3ljEP5aEEyeNMU6KBpNJUXvR/view?usp=sharing)
 
 ### Lab
-- Lab #1: Binary math & encoding schema
+- [Lab #1: Binary math & encoding schema](https://github.com/kwaldenphd/bits-bytes)
 
 ### In-Class Work
 - Discussion
@@ -303,21 +303,21 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 #### Content Readings
 - Virginia Eubanks, *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor* (St. Martin’s, 2017).
-  * Introduction
-  * Chapter 2, "Automating Eligibility in the Heartland"
+  * [Introduction: Red Flags (1-14)](https://drive.google.com/file/d/1h22SQd7_qZzsaHbLug-hh7f7AtSJ-KRn/view?usp=sharing)
+  * [Chapter 2, Automating Eligibility in the Heartland (39-83)](https://drive.google.com/file/d/15r9BbGkPJEMiJzmuIDE3qeJgOOvANRvD/view?usp=sharing)
 
 #### Technical Readings
 - Charles Petzold, *Code: The Hidden Language of Computer Hardware and Software* (Redmond, WA: Microsoft Press, 2000).
-  * Chapter 10, Logic and Switches (86-101)
-  * Chapter 16, An Assemblance of Memory (190-205)
+  * [Chapter 10, Logic and Switches (86-101)](https://drive.google.com/file/d/1l5SZ5SkzsRnvMEqEZx3jYL1MADaq7mBp/view?usp=sharing)
+  * [Chapter 16, An Assemblance of Memory (190-205)](https://drive.google.com/file/d/15r9BbGkPJEMiJzmuIDE3qeJgOOvANRvD/view?usp=sharing)
 
 #### Additional Resources
-- Julia Evans. “[Bite Size Command Line!](https://wizardzines.com/zines/bite-size-command-line/)” Wizard Zines. [Link to Google Drive PDF.](https://drive.google.com/file/d/1q5m_2nqwfB221kNYNeWoE7l4rYiCaTGO/view?usp=sharing)
+- Julia Evans. “[Bite Size Command Line!](https://wizardzines.com/zines/bite-size-command-line/)” *Wizard Zines*. [Link to Google Drive PDF.](https://drive.google.com/file/d/1q5m_2nqwfB221kNYNeWoE7l4rYiCaTGO/view?usp=sharing)
 - Ted-Ed, [How computer memory works](https://youtu.be/p3q5zWCw8J4) (5 minute video)
 - Ted-Ed, [How hard drives work](https://youtu.be/wteUW2sL7bc) (5 minute video)
 
 ### Lab
-- Lab #2: Computer Processing
+- [Lab #2: Computer Processing](https://github.com/kwaldenphd/how-computers-work)
 
 ### In-Class Work
 - Discussion
@@ -332,15 +332,15 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### Assigned Material
 
 #### Content Readings
-- Janet Abbate, “Introduction,” in *Inventing the Internet*. (Cambridge, MA: MIT Press, 1999): 1-6. [Link to Google Drive PDF]().
+- Janet Abbate, “Introduction,” in *[Inventing the Internet](https://onesearch.library.nd.edu/permalink/f/1phik6l/hcc_aleph000015552)*. (Cambridge, MA: MIT Press, 1999): 1-6. [Link to Google Drive PDF](https://drive.google.com/file/d/1YsaqJoMs1kqjliwa4EljrlqXmjDLOsNZ/view?usp=sharing).
 
 #### Technical Readings
-- Julia Evans. “HTTP: Learn your browser’s language” Wizard Zines. Link to Google Drive PDF.
-- Explore the videos from Code.org’s How The Internet Works playlist 
-- W3C, “Introduction to HTML” 
+- Julia Evans. “[HTTP: Learn your browser’s language](https://wizardzines.com/zines/http/)” *Wizard Zines*. [Link to Google Drive PDF.](https://drive.google.com/file/d/1JeRc8hLAUtJpY3b8wyT_dx2qeUJOiUxy/view?usp=sharing)
+- Explore the videos from Code.org’s [How The Internet Works playlist ](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+- W3C, “[Introduction to HTML](https://www.w3schools.com/html/html_intro.asp)” 
 
 ### Lab
-- Lab #3: Introduction to markup languages (HTML, CSS)
+- [Lab #3: Introduction to markup languages (HTML, CSS)](https://github.com/kwaldenphd/HTML-CSS)
 
 ### In-Class Work
 - Discussion
@@ -349,17 +349,24 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### Work Due Outside Class
 - Reflection
 - Lab notebook
+- Complete grade contract
 
 ## Week 5: What “is” code/coding?; Introduction to programming languages
 
 ### Assigned Material
 
 #### Content Readings
+- Clive Thompson. “[The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html).” *New York Times* (3 Feb. 2019). [Link to access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_cdi_proquest_miscellaneous_2183045041)
 
 #### Technical Readings
+- [Reading Technical Documentation](https://github.com/eltiffster/readingDocs), Written by Tiffany Chan for the Digital Scholarship Commons, UVic Libraries. 
+- Explore relevant sections of Python documentation (W3 Schools):
+  * [Introduction](https://www.w3schools.com/python/python_intro.asp)
+  * [Data Types](https://www.w3schools.com/python/python_datatypes.asp)
+- Explore the [Python website](https://www.python.org/). 
 
 ### Lab
-- Lab #4: Getting started with Python (basic syntax and data types)
+- [Lab #4: Getting started with Python (basic syntax and data types)](https://github.com/kwaldenphd/python-intro)
 
 ### In-Class Work
 - Discussion
@@ -374,11 +381,15 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### Assigned Material
 
 #### Content Readings
+- Nathan Ensmenger, Chapter 6 “Making Programming Masculine” in *Gender Codes: Why Women Are Leaving Computing* (Wiley, 2010): 115-141. [Link to Google Drive PDF[(https://drive.google.com/file/d/1IPk5nq1jtNmnCzWgENteJELtShimuvA0/view?usp=sharing).
 
 #### Technical Readings
+- Explore relevant sections of Python documentation:
+  * [Strings](https://docs.python.org/3/tutorial/introduction.html#strings)
+  * [Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
 
 ### Lab
-- Lab #5: Lists and strings in Python
+- [Lab #5: Lists and strings in Python](https://github.com/kwaldenphd/python-lists-strings)
 
 ### In-Class Work
 - Discussion
@@ -393,11 +404,15 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### Assigned Material
 
 #### Content Readings
+- Nathan Ensmenger. "Chapter 3: Chess Players, Music Lovers, and Mathematicians." In *The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise* (Cambridge: MIT Press, 2010): 51-82. [Link to online access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005788353).
 
 #### Technical Readings
+- Explore relevant sections of Python documentation:
+  * [Sets](https://docs.python.org/3/tutorial/datastructures.html#sets)
+  * [Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
 
 ### Lab
-- Lab #6: Dictionaries and sets in Python
+- [Lab #6: Dictionaries and sets in Python](https://github.com/kwaldenphd/python-dictionaries-sets)
 
 ### In-Class Work
 - Discussion
@@ -412,11 +427,17 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### Assigned Material
 
 #### Content Readings
+- Nathan Ensmenger. "Chapter 5: The Rise of Computer Science." In *The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise* (Cambridge: MIT Press, 2010): 111-136. [Link to online access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005788353).
 
 #### Technical Readings
+- Explore relevant sections of Python documentation:
+  * Conditional statements & control flow tools
+    * [W3Schools](https://www.w3schools.com/python/python_conditions.asp) or [Python documentation](https://docs.python.org/3/tutorial/controlflow.html)
+  * Iteration and loops:
+    * [for](https://www.w3schools.com/python/python_for_loops.asp) loops and [while](https://www.w3schools.com/python/python_while_loops.asp) loops (W3Schools)
 
 ### Lab
-- Lab #7: Control flow structures, iteration and recursion, and looping structures in Python
+- [Lab #7: Control flow structures, iteration and recursion, and looping structures in Python](https://github.com/kwaldenphd/python-conditional-statements)
 
 ### In-Class Work
 - Discussion
@@ -433,11 +454,17 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### Assigned Material
 
 #### Content Readings
+- Mar Hicks, “[The Voices of Women in Tech Are Still Being Erased](https://www.technologyreview.com/2021/08/03/1030460/women-erased-tech-history-computing/)” *MIT Technology Review* (3 August 2021)
+- Claire Goforth, “[‘60 Minutes’ ran a segment on racial bias in facial recognition--it left out the Black women who pioneered the research](https://www.dailydot.com/debug/60-minutes-omits-black-female-scientists-racial-biases/)” *Daily Dot* (17 May 2021).
 
 #### Technical Readings
+- Explore relevant sections of Python documentation:
+  * Functions
+    * [Built-in functions](https://docs.python.org/3.0/library/functions.html?highlight=super) (Python documentation)
+    * [Functions](https://www.w3schools.com/python/python_functions.asp) (W3Schools)
 
 ### Lab
-- Lab #8: Functions in Python
+- [Lab #8: Functions in Python](https://github.com/kwaldenphd/python-functions)
 
 ### In-Class Work
 - Discussion
@@ -452,11 +479,17 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### Assigned Material
 
 #### Content Readings
+- Jer Thorp, “Chapter 1, Living in Data” from *Living in Data: A Citizen’s Guide to a Better Information Future* (Farrar, Straus and Giroux, 2021): 11-36. [Link to Google Drive PDF](https://drive.google.com/file/d/1WO4Cxr0IJIwRoYOxlqZKByXDvROyA1jK/view?usp=sharing).
 
 #### Technical Readings
+- Explore relevant sections of Python documentation:
+  * [Python file handling](https://www.w3schools.com/python/python_file_handling.asp) (W3Schools)
+  * [Read files](https://www.w3schools.com/python/python_file_open.asp), [Write/Create files](https://www.w3schools.com/python/python_file_write.asp)
+  * [Python File Methods](https://www.w3schools.com/python/python_ref_file.asp) (W3Schools)
+  * [Python CSV module](https://docs.python.org/3/library/csv.html#module-csv)
 
 ### Lab
-- Lab #9: Data structures in Python
+- [Lab #9: Data structures and file I/O in Python](https://github.com/kwaldenphd/python-structured-data)
 
 ### In-Class Work
 - Discussion
@@ -471,11 +504,13 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### Assigned Material
 
 #### Content Readings
+- None
 
 #### Technical Readings
+- Explore [Project Jupyter website](https://jupyter.org/)
 
 ### Lab
-- Lab #10: Python in Jupyter Notebooks
+- [Lab #10: Python in Jupyter Notebooks](https://github.com/kwaldenphd/python-jupyter-notebooks)
 
 ### In-Class Work
 - Discussion
@@ -490,11 +525,13 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### Assigned Material
 
 #### Content Readings
+- Catherine D’Ignazio and Lauren F. Klein, “Introduction: Why Data Science Needs Feminism” from *Data Feminism* (MIT Press, 2020): 1-20. https://doi.org/10.7551/mitpress/11805.001.0001
 
 #### Technical Readings
+- Explore [Pandas package overview](https://pandas.pydata.org/docs/getting_started/overview.html)
 
 ### Lab
-- Lab #11: Introduction to Pandas
+- [Lab #11: Introduction to Pandas](https://github.com/kwaldenphd/pandas-intro)
 
 ### In-Class Work
 - Discussion
@@ -509,14 +546,19 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### Assigned Material
 
 #### Content Readings
+- None
 
 #### Technical Readings
+- Explore documentation:
+  * Pandas “Reading HTML Content”
+Beautiful Soup documentation (as needed)
+W3Schools HTML Tutorial (as needed)
 
 ### Lab
-- Lab #12/Final project: Web scraping in Python
+- [Lab #12/Final project: Web scraping in Python](https://github.com/kwaldenphd/web-scraping-python)
 
 ### In-Class Work
-- Discussion
+- Lab work time
 - Lab work time
 
 ### Work Due Outside Class
@@ -528,14 +570,17 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### Assigned Material
 
 #### Content Readings
+- Anil Dash and Ruha Benjamin, “[American as Apple Pie: How Racism Gets Baked Into Technology](https://glitch.com/glimmer/episode/function-episode-16/)” *Function* podcast (23 October 2019).
 
 #### Technical Readings
+- None
 
-### Lab
+### Lab: None
+
 ### In-Class Work
-- Discussion
-- Lab work time
+- Final project shareouts
+- Course reflections
 
 ### Work Due Outside Class
-- Reflection
-- Lab notebook
+- Final project
+- Course reflections
