@@ -21,8 +21,7 @@ This syllabus and all course materials have been prepared in conversation with a
 
 # Description and Goals
 
-![Marshmallow Peeps help familiarize students with data visualizations and analysis (Photo: Gissoo Doroudian) from Jim Casey, “Taste the Data!” Princeton Center for Digital Humanities (15 May 2019).
-](https://cdh.princeton.edu/media/images/peeps_img_7254.max-1536x2158.jpg)
+![Marshmallow Peeps help familiarize students with data visualizations and analysis (Photo: Gissoo Doroudian) from Jim Casey, “Taste the Data!” Princeton Center for Digital Humanities (15 May 2019)](https://cdh.princeton.edu/media/images/peeps_img_7254.max-1536x2158.jpg)
 
 This course covers intermediate level programming in Python, building on concepts covered in Elements of Computing I. Topics we will cover include data structures; relational database systems; and data manipulation, analysis, and communication in a Python programming environment. Along the way, we will be considering how data can be used to create communities, advance research, and expose injustice. But data can also be used to discriminate, marginalize, and surveil. This course will equip you to work with data in a programming environment while also considering larger questions around data and its social and cultural impact.
 
@@ -297,20 +296,20 @@ The University of Notre Dame provides services for those who have been affected 
 
 Assigned material not openly available online is available through Hesburgh Libraries and/or posted as an accessible PDF on Canvas. Links to Hesburgh Library resources are included in the “Course Schedule” of the syllabus and also posted on Canvas. Contact the instructor if you have questions or challenges accessing assigned readings.
 
-- [Week 1: Introductions & course overview](#week-1-course-introduction--what-is-a-computer-binary-math)
-- [Week 2: Where can we get data?](#week-2-encoding-schema-conceptualizing-the-guicli)
-- [Week 3: Identifying a data source](#week-3-how-did-we-get-computers-and-how-do-they-work-conceptualizing-the-os-and-setting-up-the-ide)
-- [Week 4: What is a data model?; What are relational databases?](#week-4-what-is-the-internet-introduction-to-markup-languages)
-- [Week 5: How can we access information in a database?](#week-5-what-is-codecoding-introduction-to-programming-languages)
-- [Week 6: How can we access and use relational databases in Python?](#week-6-understanding-the-landscape-history-and-syntax-of-programming-languages)
-- [Week 7: Building a data model](#week-7-understanding-the-landscape-history-and-syntax-of-programming-languages)
-- [Week 8: What is tidy data and why does it matter?](#week-8-understanding-the-landscape-history-and-syntax-of-programming-languages)
+- [Week 1: Introductions & course overview](#week-1-introductions--course-overview)
+- [Week 2: Where can we get data?](#week-2-where-can-we-get-data)
+- [Week 3: Identifying a data source](#week-3-identifying-a-data-source)
+- [Week 4: What is a data model?; What are relational databases?](#week-4-what-is-a-data-model-what-are-relational-databases)
+- [Week 5: How can we access information in a database?](#week-5-how-)
+- [Week 6: How can we access and use relational databases in Python?](#week-6-how-can-we-access-and-use-relational-databases)
+- [Week 7: Building a data model](#week-7-building-a-data-model)
+- [Week 8: What is tidy data and why does it matter?](#week-8-what-is-tidy-data-and-why-does-it-matter)
 - [Week 9: MID-TERM BREAK](#week-9-mid-term-break)
-- [Week 10: What is data wrangling? How can we work with structured data in Python?](#week-10-more-on-the-landscape-history-and-syntax-of-programming-languages)
-- [Week 11: What is data visualization?](#week-11-introduction-to-structured-data)
-- [Week 12: Data visualization considerations and best practices](#week-12-introduction-to-jupyter-notebooks)
-- [Week 13: How can we use Python to communicate using data?](#week-13-working-with-structured-data-in-python)
-- [Week 14: Final project work](#week-14-web-scraping-in-python)
+- [Week 10: What is data wrangling? How can we work with structured data in Python?](#week-10-what-is-data-wrangling-how-can-we-work-with-structured-data-in-python)
+- [Week 11: What is data visualization?](#week-11-what-is-data-visualization)
+- [Week 12: Data visualization considerations and best practices](#week-12-data-visualization-considerations-and-best-practices)
+- [Week 13: How can we use Python to communicate using data?](#week-13-how-can-we-use-python-to-communicate-using-data)
+- [Week 14: Final project work](#week-14-final-project-work)
 - [Week 15: Final Project Shareouts + Course Reflections](#week-15-final-project-shareouts--course-reflections)
 
 ## Week 1: Introductions & course overview
