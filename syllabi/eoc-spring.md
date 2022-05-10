@@ -76,6 +76,9 @@ If you do not have access to a personal computer, laptops are available for chec
     <td>Course Introductions and course overview</td>
     <td><a href="https://github.com/kwaldenphd/python-spyder">Lab: Python in Spyder</a></td>
   </tr>
+ <tr>
+  <th colspan="3">Data Structures in Python</th>
+ </tr>
   <tr>
     <td>2</td>
     <td>Where can we get data?</td>
@@ -86,6 +89,9 @@ If you do not have access to a personal computer, laptops are available for chec
     <td>Identifying a data source</td>
    <td><a href="https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/assignment-prompt.md#identify-a-data-source">Final project: Identify a data source</a></td>
   </tr>
+  <tr>
+  <th colspan="3">Relational Database Systems</th>
+ </tr>
   <tr>
     <td>4</td>
     <td>What is a data model?; What are relational databases?</td>
@@ -106,6 +112,9 @@ If you do not have access to a personal computer, laptops are available for chec
     <td>Building a data model</td>
     <td><a href="https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/assignment-prompt.md#build-a-data-model">Final project: Building a data model</a></td>
   </tr>
+  <tr>
+  <th colspan="3">Data Wrangling</th>
+ </tr>
     <tr>
     <td>8</td>
     <td>What is tidy data and why does it matter?</td>
@@ -121,6 +130,9 @@ If you do not have access to a personal computer, laptops are available for chec
    <td><a href="https://github.com/kwaldenphd/eda-pandas">Lab: Data Wrangling With Pandas</a></td>
   </tr>
   <tr>
+  <th colspan="3">Data Communication</th>
+ </tr>
+  <tr>
     <td>11</td>
     <td>What is data visualization?</td>
     <td><a href="https://github.com/kwaldenphd/matplotlib-intro">Lab: Introduction to Matplotlib</a></td>
@@ -135,6 +147,9 @@ If you do not have access to a personal computer, laptops are available for chec
     <td>How can we use Python to communicate using data?</td>
      <td><a href="https://github.com/kwaldenphd/interactive-visualization-python">Lab: Interactive Visualization in Python</a></td>
   </tr>
+  <tr>
+  <th colspan="3">Final Project</th>
+ </tr>
     <tr>
     <td>14</td>
     <td>Final project</td>
@@ -282,23 +297,23 @@ The University of Notre Dame provides services for those who have been affected 
 
 Assigned material not openly available online is available through Hesburgh Libraries and/or posted as an accessible PDF on Canvas. Links to Hesburgh Library resources are included in the “Course Schedule” of the syllabus and also posted on Canvas. Contact the instructor if you have questions or challenges accessing assigned readings.
 
-- [Week 1: Course Introduction;  What is a computer?; Binary math](#week-1-course-introduction--what-is-a-computer-binary-math)
-- [Week 2: Encoding schema; Conceptualizing the GUI/CLI](#week-2-encoding-schema-conceptualizing-the-guicli)
-- [Week 3: How did we get computers and how do they “work”?; Conceptualizing the OS and setting up the IDE](#week-3-how-did-we-get-computers-and-how-do-they-work-conceptualizing-the-os-and-setting-up-the-ide)
-- [Week 4: What “is” the internet?; Introduction to markup languages](#week-4-what-is-the-internet-introduction-to-markup-languages)
-- [Week 5: What “is” code/coding?; Introduction to programming languages](#week-5-what-is-codecoding-introduction-to-programming-languages)
-- [Week 6: Understanding the landscape, history, and syntax of programming languages](#week-6-understanding-the-landscape-history-and-syntax-of-programming-languages)
-- [Week 7: Understanding the landscape, history, and syntax of programming languages](#week-7-understanding-the-landscape-history-and-syntax-of-programming-languages)
-- [Week 8: Understanding the landscape, history, and syntax of programming languages](#week-8-understanding-the-landscape-history-and-syntax-of-programming-languages)
+- [Week 1: Introductions & course overview](#week-1-course-introduction--what-is-a-computer-binary-math)
+- [Week 2: Where can we get data?](#week-2-encoding-schema-conceptualizing-the-guicli)
+- [Week 3: Identifying a data source](#week-3-how-did-we-get-computers-and-how-do-they-work-conceptualizing-the-os-and-setting-up-the-ide)
+- [Week 4: What is a data model?; What are relational databases?](#week-4-what-is-the-internet-introduction-to-markup-languages)
+- [Week 5: How can we access information in a database?](#week-5-what-is-codecoding-introduction-to-programming-languages)
+- [Week 6: How can we access and use relational databases in Python?](#week-6-understanding-the-landscape-history-and-syntax-of-programming-languages)
+- [Week 7: Building a data model](#week-7-understanding-the-landscape-history-and-syntax-of-programming-languages)
+- [Week 8: What is tidy data and why does it matter?](#week-8-understanding-the-landscape-history-and-syntax-of-programming-languages)
 - [Week 9: MID-TERM BREAK](#week-9-mid-term-break)
-- [Week 10: More on the landscape, history, and syntax of programming languages](#week-10-more-on-the-landscape-history-and-syntax-of-programming-languages)
-- [Week 11: Introduction to structured data](#week-11-introduction-to-structured-data)
-- [Week 12: Introduction to Jupyter Notebooks](#week-12-introduction-to-jupyter-notebooks)
-- [Week 13: Working with structured data in Python](#week-13-working-with-structured-data-in-python)
-- [Week 14: Web scraping in Python](#week-14-web-scraping-in-python)
+- [Week 10: What is data wrangling? How can we work with structured data in Python?](#week-10-more-on-the-landscape-history-and-syntax-of-programming-languages)
+- [Week 11: What is data visualization?](#week-11-introduction-to-structured-data)
+- [Week 12: Data visualization considerations and best practices](#week-12-introduction-to-jupyter-notebooks)
+- [Week 13: How can we use Python to communicate using data?](#week-13-working-with-structured-data-in-python)
+- [Week 14: Final project work](#week-14-web-scraping-in-python)
 - [Week 15: Final Project Shareouts + Course Reflections](#week-15-final-project-shareouts--course-reflections)
 
-## Week 1: Course Introduction;  What is a computer?; Binary math
+## Week 1: Introductions & course overview
 
 ### Assigned Material
 
@@ -312,7 +327,7 @@ Assigned material not openly available online is available through Hesburgh Libr
   * [Chapter 12, A Binary Adding Machine (180-189)](https://drive.google.com/file/d/1K9XcY53TDT1utCmqkNppxUgU97IbibFT/view?usp=sharing)
 
 ### Lab
-- Lab #1: Binary math & encoding schema
+- [Lab: Python in Spyder](https://github.com/kwaldenphd/python-spyder)
 
 ### In-Class Work
 - Course overview, Introductions
@@ -322,7 +337,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Technology intake survey
 - Introductions (discussion post)
 
-## Week 2: Encoding schema; Conceptualizing the GUI/CLI
+## Week 2: Where can we get data?
 
 ### Assigned Material
 
@@ -334,7 +349,7 @@ Assigned material not openly available online is available through Hesburgh Libr
   * [Chapter 20, ASCII and a Cast of Characters (286-300)](https://drive.google.com/file/d/1Vk4dmJyP3ljEP5aEEyeNMU6KBpNJUXvR/view?usp=sharing)
 
 ### Lab
-- [Lab #1: Binary math & encoding schema](https://github.com/kwaldenphd/bits-bytes)
+- [Lab: Web APIs in Python](https://github.com/kwaldenphd/apis-python)
 
 ### In-Class Work
 - Discussion
@@ -344,7 +359,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Reflection
 - Lab notebook
 
-## Week 3: How did we get computers and how do they “work”?; Conceptualizing the OS and setting up the IDE
+## Week 3: Identifying a data source
 
 ### Assigned Material
 
@@ -364,7 +379,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Ted-Ed, [How hard drives work](https://youtu.be/wteUW2sL7bc) (5 minute video)
 
 ### Lab
-- [Lab #2: Computer Processing](https://github.com/kwaldenphd/how-computers-work)
+- [Final project: Identify a data source](https://github.com/kwaldenphd/HTML-CSS)
 
 ### In-Class Work
 - Discussion
@@ -372,9 +387,9 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### Work Due Outside Class
 - Reflection
-- Lab notebook
+- Final project: Identify a data source
 
-## Week 4: What “is” the internet?; Introduction to markup languages
+## Week 4: What is a data model?; What are relational databases?
 
 ### Assigned Material
 
@@ -387,7 +402,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - W3C, “[Introduction to HTML](https://www.w3schools.com/html/html_intro.asp)” 
 
 ### Lab
-- [Lab #3: Introduction to markup languages (HTML, CSS)](https://github.com/kwaldenphd/HTML-CSS)
+- [Lab: Data Models & SQLite Intro](https://github.com/kwaldenphd/data-models)
 
 ### In-Class Work
 - Discussion
@@ -398,7 +413,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Lab notebook
 - Complete grade contract
 
-## Week 5: What “is” code/coding?; Introduction to programming languages
+## Week 5: How can we access information in a database?
 
 ### Assigned Material
 
@@ -413,7 +428,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Explore the [Python website](https://www.python.org/). 
 
 ### Lab
-- [Lab #4: Getting started with Python (basic syntax and data types)](https://github.com/kwaldenphd/python-intro)
+- [Lab: Queries & Joins](https://github.com/kwaldenphd/sql-queries-joins)
 
 ### In-Class Work
 - Discussion
@@ -423,7 +438,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Reflection
 - Lab notebook
 
-## Week 6: Understanding the landscape, history, and syntax of programming languages
+## Week 6: How can we access and use relational databases in Python?
 
 ### Assigned Material
 
@@ -436,7 +451,7 @@ Assigned material not openly available online is available through Hesburgh Libr
   * [Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
 
 ### Lab
-- [Lab #5: Lists and strings in Python](https://github.com/kwaldenphd/python-lists-strings)
+- [Lab: From SQLite to Python](https://github.com/kwaldenphd/sqlite-to-python)
 
 ### In-Class Work
 - Discussion
@@ -446,7 +461,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Reflection
 - Lab notebook
 
-## Week 7: Understanding the landscape, history, and syntax of programming languages
+## Week 7: Building a data model
 
 ### Assigned Material
 
@@ -459,7 +474,7 @@ Assigned material not openly available online is available through Hesburgh Libr
   * [Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
 
 ### Lab
-- [Lab #6: Dictionaries and sets in Python](https://github.com/kwaldenphd/python-dictionaries-sets)
+- [Final project: Building a data model](https://github.com/kwaldenphd/python-conditional-statements)
 
 ### In-Class Work
 - Discussion
@@ -467,9 +482,9 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### Work Due Outside Class
 - Reflection
-- Lab notebook
+- Final project: Build a data model
 
-## Week 8: Understanding the landscape, history, and syntax of programming languages
+## Week 8: What is tidy data and why does it matter?
 
 ### Assigned Material
 
@@ -484,7 +499,7 @@ Assigned material not openly available online is available through Hesburgh Libr
     * [for](https://www.w3schools.com/python/python_for_loops.asp) loops and [while](https://www.w3schools.com/python/python_while_loops.asp) loops (W3Schools)
 
 ### Lab
-- [Lab #7: Control flow structures, iteration and recursion, and looping structures in Python](https://github.com/kwaldenphd/python-conditional-statements)
+- [Lab: Tidy Data](https://github.com/kwaldenphd/tidy-data-principles)
 
 ### In-Class Work
 - Discussion
@@ -496,7 +511,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ## Week 9: MID-TERM BREAK
 
-## Week 10: More on the landscape, history, and syntax of programming languages
+## Week 10: What is data wrangling? How can we work with structured data in Python?
 
 ### Assigned Material
 
@@ -511,7 +526,7 @@ Assigned material not openly available online is available through Hesburgh Libr
     * [Functions](https://www.w3schools.com/python/python_functions.asp) (W3Schools)
 
 ### Lab
-- [Lab #8: Functions in Python](https://github.com/kwaldenphd/python-functions)
+- [Lab: Data Wrangling With Pandas](https://github.com/kwaldenphd/python-structured-data)
 
 ### In-Class Work
 - Discussion
@@ -520,8 +535,9 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### Work Due Outside Class
 - Reflection
 - Lab notebook
+- Midterm reflections
 
-## Week 11: Introduction to structured data
+## Week 11: What is data visualization?
 
 ### Assigned Material
 
@@ -536,7 +552,7 @@ Assigned material not openly available online is available through Hesburgh Libr
   * [Python CSV module](https://docs.python.org/3/library/csv.html#module-csv)
 
 ### Lab
-- [Lab #9: Data structures and file I/O in Python](https://github.com/kwaldenphd/python-structured-data)
+- [Lab: Introduction to Matplotlib](https://github.com/kwaldenphd/python-jupyter-notebooks)
 
 ### In-Class Work
 - Discussion
@@ -546,7 +562,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Reflection
 - Lab notebook
 
-## Week 12: Introduction to Jupyter Notebooks
+## Week 12: Data visualization considerations and best practices
 
 ### Assigned Material
 
@@ -557,7 +573,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Explore [Project Jupyter website](https://jupyter.org/)
 
 ### Lab
-- [Lab #10: Python in Jupyter Notebooks](https://github.com/kwaldenphd/python-jupyter-notebooks)
+- [Lab: More with Matplotlib](https://github.com/kwaldenphd/pandas-intro)
 
 ### In-Class Work
 - Discussion
@@ -567,7 +583,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Reflection
 - Lab notebook
 
-## Week 13: Working with structured data in Python
+## Week 13: How can we use Python to communicate using data?
 
 ### Assigned Material
 
@@ -578,7 +594,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Explore [Pandas package overview](https://pandas.pydata.org/docs/getting_started/overview.html)
 
 ### Lab
-- [Lab #11: Introduction to Pandas](https://github.com/kwaldenphd/pandas-intro)
+- [Lab: Interactive Visualization in Python](https://github.com/kwaldenphd/web-scraping-python)
 
 ### In-Class Work
 - Discussion
@@ -588,7 +604,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Reflection
 - Lab notebook
 
-## Week 14: Web scraping in Python
+## Week 14: Final Project Work
 
 ### Assigned Material
 
@@ -601,8 +617,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 Beautiful Soup documentation (as needed)
 W3Schools HTML Tutorial (as needed)
 
-### Lab
-- [Lab #12/Final project: Web scraping in Python](https://github.com/kwaldenphd/web-scraping-python)
+### Lab: None
 
 ### In-Class Work
 - Lab work time
