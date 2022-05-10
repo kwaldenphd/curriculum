@@ -22,6 +22,7 @@ This syllabus and all course materials have been prepared in conversation with a
 # Description and Goals
 
 ![L-R: Dorothy Vaughan, Lessie Hunter, Vivian Adair (Margaret Ridenhour and Charlotte Craidon in back) Human Computers: photo donated by B. Golemba, NASA](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/L_Dorothy_Vaughan_M_Leslie_Hunter_R_Vivian_Adair.jpg/1119px-L_Dorothy_Vaughan_M_Leslie_Hunter_R_Vivian_Adair.jpg?20160418220149)
+*Image credit: L-R: Dorothy Vaughan, Lessie Hunter, Vivian Adair (Margaret Ridenhour and Charlotte Craidon in back) Human Computers: photo donated by B. Golemba, [NASA](https://crgis.ndc.nasa.gov/crgis/images/9/93/L_Dorothy_Vaughan_M_Lessie_Hunter_R_Vivian_Adair.jpg)*
 
 We will explore what computer science educators have identified as seven “big ideas” in computing: creativity, abstraction, data and information, algorithms, programming, the internet, and global impacts ([AP Computer Science Principles](https://apcentral.collegeboard.org/courses/ap-computer-science-principles)). Our major learning objectives for this course include:
 - Understand the basic concepts of computers, their components, and operation
