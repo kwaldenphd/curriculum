@@ -129,11 +129,58 @@ If you do not have access to a personal computer, laptops are available for chec
 
 ## Reflections
 
+Each week, you will engage with the assigned material and other course content via individual reflections. These reflections summarize what you have learned and how you learned during the process of engaging with the readings and related work during a given week. The reflection should provide an analysis of the experience drawing upon the course topics, themes, and readings. Someone reading your reflection should have a sense of why this project was significant to your learning, how your understanding of computing has changed (or not), and how the project has impacted your understanding of computing and digital technology.
+
+These reflections could take a variety of forms--written text, recorded audio, video, etc. Length guidelines:
+- Written text (at least 300 words in length)
+  * OR
+- Recorded audio/video (at least 2 minutes)
+
 ## Lab Notebooks
+
+Throughout the semester, we will work through a number of lab projects designed to increase your comfort level and proficiency with specific computing concepts. For each lab project, you will be provided with a set of instructions that will guide you through the successful completion of the lab. Your lab notebook will document your experience completing the tutorial including your questions and observations and responses to the discussion questions included in the lab instructions. 
+
+Your notebook should be submitted on Canvas as a single document containing the responses to the discussion questions, your observations and questions, and any additional reflection. **Lab notebooks that do not use the provided notebook template will be marked as incomplete.**
 
 ## Final Project
 
+The final project for this course involves a web-scraping project written in Python. Specifically, the final project allows you to select a web page (or web pages) and write a Python program (or programs) that downloads select content from that web page as a plain-text file (`CSV`, `TXT`, etc). That content could be paragraphs of text, tables of data, etc.
+
+Successful final projects will include two main components:
+- a well-documented, working Python program written in Jupyter Notebooks
+- a written reflection (minimum 300 words) that documents how you approached the final project/what you wanted to accomplish via the final project, resources consulted, how you handled challenges you encountered, key takeaways, etc.
+  * That reflection can come at the end of the Jupyter Notebook or be embedded throughout the Jupyter Notebook, if you want to approach authoring the notebook as a type of tutorial or "report".
+
+Expect to spend at least 10 hours working on the final project. That includes brainstorming, meeting with instructor/TAs, in-class work time, etc. If you’re working on a project that is not going to take that much time, think about how to add complexity or take on another smaller scale project.
+
+Contact the instructor with questions.
+
+Our work in the web scraping lab is designed to lay the foundation and serve as a springboard for final project work. Specifically, Q4, Q10, and Q13 ask you to develop an outline for web scraping programs using BeautifulSoup and pd.read_html().  Those questions (and other work for this lab) are the starting place for the final project.
+
+Specifically, think about the kinds of web content you were able to scrape for these questions and how you might further develop, refine, or expand your work.
+
+For example, these questions asked you to develop an outline for specific types of webscraping programs.
+- One next step for the final project could be selecting 1-2 of these programs and further developing or refining the code.
+- Another next step (especially if you were able to develop working programs for these questions) is to think about how you could expand or extend these workflows to multiple web pages or other web data sources.
+- A third option for next steps would involve thinking expansively about how you could apply the concepts and approaches covered in this lab to a different type of data source/structure.
+
+So in the interim, think about where you could go next with expanding and extending your work in this lab, and start to flesh out or develop some of your own ideas about where you put your time and effort as you work on the final project.
+
 ## Participation and Engagement
+
+Class sessions will consist of three modes of instruction and participation/engagement. All of these options include synchronous and asynchronous engagement options.
+
+**Lectures** will typically focus on the presentation of a key idea and may include some in-class activities. Lectures will be pre-recorded and posted on Panopto (which you can access through Canvas).
+
+**Discussions** will build on assigned materials and information presented in lectures. These conversations are an opportunity for you to build on individual reflections, engage with colleagues’ observations, and work collaboratively to more fully understand assigned material and core concepts. Discussions will take place synchronously.
+
+These discussions will be framed by questions/prompts provided by your colleagues as well as the instructor. Participation/engagement involves showing up, interacting/engaging with colleagues, and providing well-developed contributions and responses. Discussion engagement/participation options will include a wide variety of formats, including:
+- Large group discussions
+- Small group discussions
+- Individual brainstorming/reflectionollaborative Google Doc annotation
+- Etc.
+
+**Labs** will typically focus on working through a series of steps to learn or make use of a particular tool–such as the command line, Python code, or a software designed to demonstrate a particular computing concept. A lab overview and in some cases live coding will be recorded and posted on Panopto (which you can access through Canvas). Participation and engagement involves showing up, working with colleagues as assigned, asking questions as needed, and completing the work of the lab. You may not always complete the lab during class. Be prepared for labs to also require work outside class time. Slack and/or email are available to let you pose questions to colleagues, teaching assistants, and the instructor.
 
 # Grading
 
@@ -146,6 +193,16 @@ PLACEHOLDER
 ## FAQs
 
 ## Assignment Deadlines, Late Work & Extenuating Circumstances
+
+All assignments are due at the date and time listed in the individual assignment descriptions. For assignments without a specific due date/time, they should be submitted in the week listed on the schedule.
+
+In the event we move to remote learning (for a period of time or the remainder of the semester): Posted deadlines reflect whatever time zone is local to where you are (i.e. an assignment due at 5pm on Friday in South Bend would be due 5pm on Friday in your local time zone).
+
+Assignments that are not submitted in a timely fashion will result in an Incomplete assessment. This policy protects both your time and mine. It also ensures that you will remain on track to complete all of your work by the end of the term. I will make exceptions for extenuating circumstances, so please reach out to me if you believe that you cannot meet an assignment deadline.
+
+Complete/Incomplete grades will be posted on Canvas. If you would like to discuss your performance in the course, email me to set up an appointment. I am not able to send or discuss grade information via email. 
+
+It is your responsibility to contact me as soon as possible if such a circumstance will prevent you from attending a class session or completing the coursework according to the set schedule. I will then work with you to determine the best path forward for your particular situation.
 
 # Accessibility and Inclusion
 
@@ -178,16 +235,243 @@ The University of Notre Dame provides services for those who have been affected 
 
 ## Additional Resources and Links
 
-Sara Bea Center for Student Accessibility Services [sarabea.nd.edu]
-Office of Institutional Equity [equity.nd.edu]
-Title IX / Sexual Assault Resources [titleix.nd.edu/support-resources] 
-University Counseling Center [ucc.nd.edu]
-McDonald Center for Student Well-Being [mcwell.nd.edu]
-University Health Services [uhs.nd.edu]
-List with additional resources [care.nd.edu/resources-to-use/campus-resources]
+- Sara Bea Center for Student Accessibility Services [sarabea.nd.edu]
+- Office of Institutional Equity [equity.nd.edu]
+- Title IX / Sexual Assault Resources [titleix.nd.edu/support-resources] 
+- University Counseling Center [ucc.nd.edu]
+- McDonald Center for Student Well-Being [mcwell.nd.edu]
+- University Health Services [uhs.nd.edu]
+- List with additional resources [care.nd.edu/resources-to-use/campus-resources]
 
 # Honesty and Intellectual Integrity
 
 [Click here](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/honor-code.md) to learn more about how Notre Dame's honor code applies to your work in this class.
 
 # Schedule
+
+Assigned material not openly available online is available through Hesburgh Libraries and/or posted as an accessible PDF on Canvas. Links to Hesburgh Library resources are included in the “Course Schedule” of the syllabus and also posted on Canvas. Contact the instructor if you have questions or challenges accessing assigned readings.
+
+## Week 1: Course Introduction;  What is a computer?; Binary math
+
+### Assigned Material
+
+#### Content Readings
+
+#### Technical Readings
+
+### Lab
+- Lab #1: Binary math & encoding schema
+
+### In-Class Work
+
+### Work Due Outside Class
+
+
+## Week 2: Encoding schema; Conceptualizing the GUI/CLI
+
+### Assigned Material
+
+#### Content Readings
+
+#### Technical Readings
+
+### Lab
+- Lab #1: Binary math & encoding schema
+
+### In-Class Work
+
+### Work Due Outside Class
+
+
+## Week 3: How did we get computers and how do they “work”?; Conceptualizing the OS and setting up the IDE
+
+### Assigned Material
+
+#### Content Readings
+
+#### Technical Readings
+
+### Lab
+- Lab #2: Computer Processing
+
+### In-Class Work
+
+### Work Due Outside Class
+
+
+## Week 4: What “is” the internet?; Introduction to markup languages
+
+### Assigned Material
+
+#### Content Readings
+
+#### Technical Readings
+
+### Lab
+- Lab #3: Introduction to markup languages (HTML, CSS)
+
+### In-Class Work
+
+### Work Due Outside Class
+
+
+## Week 5: What “is” code/coding?; Introduction to programming languages
+
+### Assigned Material
+
+#### Content Readings
+
+#### Technical Readings
+
+### Lab
+- Lab #4: Getting started with Python (basic syntax and data types)
+
+### In-Class Work
+
+### Work Due Outside Class
+
+
+## Week 6: Understanding the landscape, history, and syntax of programming languages
+
+### Assigned Material
+
+#### Content Readings
+
+#### Technical Readings
+
+### Lab
+- Lab #5: Lists and strings in Python
+
+### In-Class Work
+
+### Work Due Outside Class
+
+
+## Week 7: Understanding the landscape, history, and syntax of programming languages
+
+### Assigned Material
+
+#### Content Readings
+
+#### Technical Readings
+
+### Lab
+- Lab #6: Dictionaries and sets in Python
+
+### In-Class Work
+
+### Work Due Outside Class
+
+
+## Week 8: Understanding the landscape, history, and syntax of programming languages
+
+### Assigned Material
+
+#### Content Readings
+
+#### Technical Readings
+
+### Lab
+- Lab #7: Control flow structures, iteration and recursion, and looping structures in Python
+
+### In-Class Work
+
+### Work Due Outside Class
+
+
+## Week 9: MID-TERM BREAK
+
+
+## Week 10: More on the landscape, history, and syntax of programming languages
+
+### Assigned Material
+
+#### Content Readings
+
+#### Technical Readings
+
+### Lab
+- Lab #8: Functions in Python
+
+### In-Class Work
+
+### Work Due Outside Class
+
+
+## Week 11: Introduction to structured data
+
+### Assigned Material
+
+#### Content Readings
+
+#### Technical Readings
+
+### Lab
+- Lab #9: Data structures in Python
+
+### In-Class Work
+
+### Work Due Outside Class
+
+
+## Week 12: Introduction to Jupyter Notebooks
+
+### Assigned Material
+
+#### Content Readings
+
+#### Technical Readings
+
+### Lab
+- Lab #10: Python in Jupyter Notebooks
+
+### In-Class Work
+
+### Work Due Outside Class
+
+
+## Week 13: Working with structured data in Python
+
+### Assigned Material
+
+#### Content Readings
+
+#### Technical Readings
+
+### Lab
+- Lab #11: Introduction to Pandas
+
+### In-Class Work
+
+### Work Due Outside Class
+
+
+## Week 14: Web scraping in Python
+
+### Assigned Material
+
+#### Content Readings
+
+#### Technical Readings
+
+### Lab
+- Lab #12/Final project: Web scraping in Python
+
+### In-Class Work
+
+### Work Due Outside Class
+
+
+## Week 15: Final Project Shareouts + Course Reflections
+
+### Assigned Material
+
+#### Content Readings
+
+#### Technical Readings
+
+### Lab
+
+### In-Class Work
+
+### Work Due Outside Class
