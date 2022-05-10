@@ -502,6 +502,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### Work Due Outside Class
 - Reflection
 - Lab notebook
+- Midterm reflections
 
 ## Week 11: Introduction to structured data
 
