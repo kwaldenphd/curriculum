@@ -2,6 +2,16 @@
 
 ## Table of Contents
 
+- [Description and Goals](#description-and-goals)
+- [Textbook](#textbook)
+- [Technology](#technology)
+- [Course Overview](#course-overview)
+- [Assignments](#assignments)
+- [Grading](#grading)
+- [Accessibility and Inclusion](#accessibility-and-inclusion)
+- [Honesty and Intellectual Integrity](#honesty-and-intellectual-integrity)
+- [Schedule](#schedule)
+
 ## Acknowledgements
 
 This syllabus and all course materials have been prepared in conversation with and adapted from the example of many generous colleagues, including but not limited to: those who taught prior iterations of this course as well as CSC 105 at Grinnell College, Dr. Corey Pennycuff, Dr. Peter Bui, Dr. Jerod Weinman, Dr. Samuel A. Rebelsky, Dr. Ursula Wolz, Dr. Janet Davis, Dr. Liz Rodrigues, Dr. Lindsay K. Mattock, Dr. Anelise Hanson-Shrout, Megan Adams, Jarren Santos, Dr. Erik Simpson, Dr. Mike Guenther, and Dr. Ryan Cordell.
