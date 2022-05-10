@@ -61,7 +61,7 @@ Another option is to use Google Colaboratory, an online web-based interface for 
 - [Google CoLab tutorial](https://github.com/kwaldenphd/python-jupyter-notebooks/blob/main/google-colab-instructions.md)
 - ["Welcome to Colaboratory" notebook from Google CoLab](https://colab.research.google.com/notebooks/intro.ipynb)
 
-If you do not have access to a personal computer, laptops are available for checkout at the Hesburgh Library’s first floor Circulation Desk (link to more information). You can also reserve a computer station at the Hesburgh Library (link to reservation system).
+If you do not have access to a personal computer, laptops are available for checkout at the Hesburgh Library’s first floor Circulation Desk ([link to more information](https://library.nd.edu/technology-lending)). You can also reserve a computer station at the Hesburgh Library ([link to reservation system](https://libcal.library.nd.edu/reserve/hesburgh-library-computer-stations)).
 
 # Course Overview
 
