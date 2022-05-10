@@ -223,7 +223,8 @@ Class sessions will consist of three modes of instruction and participation/enga
 These discussions will be framed by questions/prompts provided by your colleagues as well as the instructor. Participation/engagement involves showing up, interacting/engaging with colleagues, and providing well-developed contributions and responses. Discussion engagement/participation options will include a wide variety of formats, including:
 - Large group discussions
 - Small group discussions
-- Individual brainstorming/reflectionollaborative Google Doc annotation
+- Individual brainstorming/reflection
+- Collaborative Google Doc annotation
 - Etc.
 
 **Labs** will typically focus on working through a series of steps to learn or make use of a particular tool–such as the command line, Python code, or a software designed to demonstrate a particular computing concept. A lab overview and in some cases live coding will be recorded and posted on Panopto (which you can access through Canvas). Participation and engagement involves showing up, working with colleagues as assigned, asking questions as needed, and completing the work of the lab. You may not always complete the lab during class. Be prepared for labs to also require work outside class time. Slack and/or email are available to let you pose questions to colleagues, teaching assistants, and the instructor.
