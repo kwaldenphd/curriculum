@@ -59,7 +59,7 @@ If you do not have access to a personal computer, laptops are available for chec
 
 <table>
   <tr>
-    <th>Week #</th>
+    <th>Week</th>
     <th>Topic</th>
     <th>Lab</th>
   </tr>
