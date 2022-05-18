@@ -21,7 +21,10 @@ This syllabus and all course materials have been prepared in conversation with a
 
 # Description and Goals
 
-![Image caption: Whitey Herzog’s batting chart for Eddie Murray, 1989–1990. National Baseball Hall of Fame and Museum.](https://www.loc.gov/static/exhibitions/baseball-americana/images/objects/the-art-and-science-of-baseball/the-measure-of-the-game/ba0098_enlarge.jpg)
+<p align='center'>
+  <img src="https://www.loc.gov/static/exhibitions/baseball-americana/images/objects/the-art-and-science-of-baseball/the-measure-of-the-game/ba0098_enlarge.jpg" alt="Image caption: Whitey Herzog’s batting chart for Eddie Murray, 1989–1990. National Baseball Hall of Fame and Museum">
+  </p>
+
 *Image caption: Whitey Herzog’s batting chart for Eddie Murray, 1989–1990. National Baseball Hall of Fame and Museum.*
 
 Sport is one of the most enduringly popular and significant cultural activities in the United States. Data has always been a central part of professional sport in the US, from Henry Chadwick’s invention of the baseball box score in the 1850s to the National Football League’s use of Wonderlic test scores to evaluate players. This course focuses on the intersecting structures of power and identity that shape how we make sense of the “datification” of professional sport. By focusing on the cultural significance of sport data, this course will put the datafication of sport in historical context and trace the ways the datafication of sport has impacted athletes, fans, media, and other stakeholders in the sport industry. The course will also delve into the  technology systems used to collect and analyze sport data, from the TrackMan and PITCHf/x systems used in Major League Baseball to the National Football League’s Next Gen Stats partnership to emerging computer vision and artificial intelligence research methods. This course is not about gaining mastery of particular technologies, tools, or methods, therefore familiarity with statistical analysis or data science tools (R, RStudio, Python, etc.) is NOT a prerequisite for this course
