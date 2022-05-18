@@ -21,7 +21,9 @@ This syllabus and all course materials have been prepared in conversation with a
 
 # Description and Goals
 
-![Tweet image from Joy Buolamwini. “Today @AJLUnited  in partnership with @GeorgetownCPT  is launching the SAFE FACE PLEDGE which calls for facial analysis technology companies to mitigate abuse and prohibit lethal use of the technology. #safefacepledge http://safefacepledge.org” (11 December 2018)](https://pbs.twimg.com/media/DuJJdwMWwAALMLG?format=jpg&name=900x900)
+<p align='center'>
+  <img src="https://pbs.twimg.com/media/DuJJdwMWwAALMLG?format=jpg&name=900x900" alt="Tweet image from Joy Buolamwini. “Today @AJLUnited  in partnership with @GeorgetownCPT  is launching the SAFE FACE PLEDGE which calls for facial analysis technology companies to mitigate abuse and prohibit lethal use of the technology. #safefacepledge http://safefacepledge.org” (11 December 2018)">
+  </p>
 
 *[Tweet image from Joy Buolamwini](https://twitter.com/jovialjoy/status/1072500482130800641?s=20). “Today @AJLUnited  in partnership with @GeorgetownCPT  is launching the SAFE FACE PLEDGE which calls for facial analysis technology companies to mitigate abuse and prohibit lethal use of the technology. #safefacepledge http://safefacepledge.org” (11 December 2018)*
 
