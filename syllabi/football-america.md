@@ -300,37 +300,42 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 1: Course Overview + Introductions
 
 ### Assigned Material
-- Brad Millington, “‘The datafication of everything’: toward a sociology of sport and big data” *Sociology of Sport Journal* 32:2 (2015): 140-160. https://doi.org/10.1123/ssj.2014-0069.
+#### Content Readings
+- “[Wake Up the Echoes: History of Notre Dame Football](https://youtu.be/oNyIpcHwQ9A)” 1986 documentary (52 minutes) [Panopto link](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=be530b39-ecec-483d-bba3-ad8e00c4c72b) (ND users)
+  * As you watch, pay attention to/take notes on the language used to describe Notre Dame, its history, the football program, its history, etc.
 
-### Lab
-- RStudio: [Getting started with RStudio](https://github.com/kwaldenphd/rstudio-intro)
-- Python: [Getting started with Python](https://github.com/kwaldenphd/python-refresh)
+#### Digital Method Readings
+- Douglas Seefeldt and William G. Thomas, “[What is Digital History?](https://www.historians.org/publications-and-directories/perspectives-on-history/may-2009/what-is-digital-history)” *American Historical Association* (1 May 2009)
+- Explore “[Digital History](https://en.wikipedia.org/wiki/Digital_history)” (Wikipedia)
+
+### Lab: None
 
 ### In-Class Work
 - Course overview, Introductions
-- Lab work time
+- Making sense of digital history
 
 ### Work Due Outside Class
 - Technology intake survey
 - Introductions (discussion post)
-- Select a lab track (Google Form)
 
 ## Week 2: Situating Early College Football & Early Notre Dame History
 
 ### Assigned Material
-- Christopher Phillips, *Scouting and Scoring: How We Know What We Know About Baseball* (Princeton University Press, 2020). [Link to electronic access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005421693).
-  * Introduction (1-12)
-  * Chapter 1 “The Bases of Data” (13-32)
-  * Chapter 4 “From Project Scoresheet to Big Data” (97-135)
-    * 68 total pages
+#### Content Readings
+- Michael Oriard, *King Football: Sport and Spectacle in the Golden Age of Radio and Newsreels, Movies and Magazines, the Weekly and the Daily Press* (University of North Carolina Press, 2001). [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph006047437), [Link to online access via Internet Archive](https://archive.org/details/kingfootballspor0000oria_v3n3).
+  * “Introduction” (1-22)
 
-### Lab
-- RStudio: [Getting started with RStudio](https://github.com/kwaldenphd/rstudio-intro)
-- Python: [Getting started with Python](https://github.com/kwaldenphd/python-refresh)
+- Murray Sperber, *Shake Down the Thunder: The Creation of Notre Dame Football* (Holt and Company, 1993). [Link to online access via Internet Archive](https://archive.org/details/shakedownthunder00sper).
+  * Chapters 1-5 (3-36) PDF on Canvas, [link to access via Google Drive](https://drive.google.com/file/d/1OnYRzVAWt4fhnAKrvn3R5j-OO0d4rEN2/view?usp=sharing)
+
+#### Digital Method Readings
+- David J. Staley, “Computers, Visualization, and the Representation of History” Historically Speaking 4:4 (2003): 40-42. Link to online access via Hesburgh Libraries
+
+### Lab: None
 
 ### In-Class Work
-- Discussion
-- Lab work time
+- Oriard and Sperber reading discussion
+- Examining digital history projects and methods (Staley reading)
 
 ### Work Due Outside Class
 - Reflection
@@ -339,193 +344,244 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 3: Early College Football and Community Formation
 
 ### Assigned Material
-- Christopher Phillips, *Scouting and Scoring: How We Know What We Know About Baseball* (Princeton University Press, 2020). [Link to electronic access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005421693).
-  * Chapter 7 “A Machine for Objectivity” (200-242)
-  * Conclusion (243-254)
-    * 53 pages total
+#### Content Readings
+- Michael Oriard, *King Football: Sport and Spectacle in the Golden Age of Radio and Newsreels, Movies and Magazines, the Weekly and the Daily Press* (University of North Carolina Press, 2001). [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph006047437), [Link to online access via Internet Archive](https://archive.org/details/kingfootballspor0000oria_v3n3).
+  * “Chapter 2" (65-100)
 
-- Film: *Moneyball*, dir. Bennett Miller, Columbia Pictures, 2011. 133 minutes. [Link to streaming access through Hesburgh Libraries](https://digitalcampus.swankmp.net/nd270436/watch/C43779DCE6F7DE2C?referrer=direct).
+- Murray Sperber, *Shake Down the Thunder: The Creation of Notre Dame Football* (Holt and Company, 1993). [Link to online access via Internet Archive](https://archive.org/details/shakedownthunder00sper).
+  * Chapter 10 (67-70), Chapter 11 (71-78), Chapter 12 (79-83). [Link to Google Drive PDF]().
+
+#### Digital Method Readings
+- Kirsten Bussière, “Chapter 4- Text Analysis” in Digital Humanities: A Primer (Carleton University).
+
+- Explore:
+  * Alex Wermer-Colan, “Computational Textual Analysis” Temple University Library Guide (May 2020).
+
+- Additional resources:
+  * Text Visualization Browser, from Kucher and Kerren’s 2015 IEEE paper “Text visualization techniques: Taxonomy, visual survey, and community insights” doi: 10.1109/PACIFICVIS.2015.7156366
+  * Ted Underwood, “Seven Ways Humanists are Using Computers to Understand Text” blog (4 June 2015)
 
 ### Lab
-- RStudio: [Introduction to tidy data in R](https://github.com/kwaldenphd/tidy-data-r-intro)
-- Python: [Web APIs in Python](https://github.com/kwaldenphd/apis-python)
+- [Text analysis](https://github.com/kwaldenphd/football-text-analysis/)
 
 ### In-Class Work
-- Discussion
-- Final project work
+- Oriard and Sperber reading discussion
+- Getting started with textual analysis (Bussière reading and Temple lib guide)
 
 ### Work Due Outside Class
 - Reflection
-- Final project: Identify a data source
 
 ## Week 4: College Football and Constructing Identity
 
 ### Assigned Material
-- Virginia Eubanks, *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor* (St. Martin’s, 2017).
-  * [Introduction: Red Flags (1-14)](https://drive.google.com/file/d/1h22SQd7_qZzsaHbLug-hh7f7AtSJ-KRn/view?usp=sharing)
-  * [Chapter 1, From Poorhouse to Database (14-38)](https://drive.google.com/file/d/1jb3MZo9gOPcoFB_7WDt-FcWg-pPnD4oF/view?usp=sharing)
+#### Content Readings
+- Michael Oriard, *King Football: Sport and Spectacle in the Golden Age of Radio and Newsreels, Movies and Magazines, the Weekly and the Daily Press* (University of North Carolina Press, 2001). [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph006047437), [Link to online access via Internet Archive](https://archive.org/details/kingfootballspor0000oria_v3n3).
+  * Chapter 7, Class (225-254)
+  * Chapter 8, Ethnicity (255-282)
 
-- Society for Cultural Anthropology, “[Scientific Racism](https://www.vox.com/22528334/race-norming-medical-racism)” *AnthroBites podcast* (29 August 2017) *17 minutes*
-  * Something we’ll read later in the semester that folks might want to browse along with the podcast: Fabio Cineas, “[‘Race norming’ and the long legacy of medical racism, explained](https://www.vox.com/22528334/race-norming-medical-racism)” *Vox* (9 July 2021)
+- See also: Dana Hunsinger Benbow, “Notre Dame defends leprechaun mascot, ranked college football’s 4th-most offensive in study” Indianapolis Star (23 August 2021).
+
+#### Digital Method Readings
+- Jennifer Guiliano, “Toward a Praxis of Critical Digital Sport History” Journal of Sport History 44:2 (2017): 146-159. Link to online access via Hesburgh Libraries.
 
 ### Lab
-- RStudio: [Data wrangling in R using dplyr](https://github.com/kwaldenphd/dplyr-intro)
-- Python: [Introduction to Pandas](https://github.com/kwaldenphd/pandas-intro)
+- [Text analysis](https://github.com/kwaldenphd/football-text-analysis/)
 
 ### In-Class Work
-- Discussion
-- Lab work time
+- Oriard reading discussion
+- Textual analysis lab work time
 
 ### Work Due Outside Class
 - Reflection
-- Lab notebook
+- Lab status update
 - Complete grade contract
 
 ## Week 5: Knute Rockne Inc.
 
 ### Assigned Material
-- OPTION #1: Gender, nutrition, conditioning
-  * Maggie Mertens, “[Sports Science is Changing How Female Olympians Train. It Could Help You, Too](https://www.npr.org/sections/health-shots/2021/08/03/1024257250/sports-science-is-changing-how-female-olympians-train-it-could-help-you-too)” *NPR* (3 August 2021)
-  * Ken Goe, “[Women athletes allege body shaming within Oregon Ducks track and field program](https://www.oregonlive.com/trackandfield/2021/10/women-athletes-allege-body-shaming-within-oregon-ducks-track-and-field-program.html)” *Oregonian* (25 October 2021)
-  * Dvora Meyers, “[Time for the end of the teen gymnast](https://fivethirtyeight.com/features/gymnasts-age-olympics/)” *FiveThirtyEight* (27 July 2021)
-    * See also:
-      * Patti Neighmond, “[To thrive, many young female athletes need a lot more food](https://www.npr.org/sections/health-shots/2015/08/31/435294539/to-thrive-many-young-female-athletes-need-a-lot-more-food)” *NPR Morning Edition* (31 August 2015)
-      * Lucy Hucks, “[For young female athletes, losing weight may not improve performance](https://www.science.org/content/article/young-female-athletes-losing-weight-may-not-improve-performance)” *Science*(29 July 2020)
+#### Content Readings
+- Murray Sperber, *Shake Down the Thunder: The Creation of Notre Dame Football* (Holt and Company, 1993). [Link to online access via Internet Archive](https://archive.org/details/shakedownthunder00sper).
+  * Chapter 13, Rockne and Ground Zero (84-97)
+  * Chapter 15, George Gipp’s Five Seasons at Notre Dame (105-113)
+  * Chapter 19, Notre Dame versus Klandiana (157-162)
+  * Chapter 20, Blast-off (163-172)
+  * Chapter 21, The Four Horsemen--Grantland Rice versus Reality (173-182)
+  * Chapter 24, Knute Rockne Inc (223-240)
+  * [Link to Google Drive PDF]()
 
-- OPTION #2: Sex verification testing
-  * Jaime Schultz, “Women’s Sport and the Questionable Sex” in *Qualifying Times: Points of Change in U.S. Women’s Sport* (University of Illinois Press, 2014): 103-122. [Link to electronic access through Hesburgh Library](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005237787).
-  * Louis J. Elsas, et al., “Gender verification of female athletes” *Genetics in Medicine* 2:4 (2000): 249-254. https://doi.org/10.1097/00125817-200007000-00008
-  * Vox, “[The problem with sex testing in sports](https://youtu.be/MiCftTLUzCI)” *YouTube* (29 June 2019) 13 minutes
-    * See also: Human Rights Watch, “[‘They’re Chasing Us Away from Sport”: Human Rights Violations in Sex Testing of Elite Women Athletes](https://www.hrw.org/report/2020/12/04/theyre-chasing-us-away-sport/human-rights-violations-sex-testing-elite-women)” 2020 report.
+#### Digital Method Readings
+- No assigned materials- primary source research and textual analysis methods research as needed for the lab.
 
 ### Lab
-- RStudio: [Merging and joining in R using dplyr](https://github.com/kwaldenphd/merging-joining-rstudio)
-- Python: [Data wrangling with Pandas](https://github.com/kwaldenphd/eda-pandas)
+- [Text analysis](https://github.com/kwaldenphd/football-text-analysis/)
 
 ### In-Class Work
-- Discussion
-- Lab work time
+- Sperber reading discussion
+- Textual analysis lab work
 
 ### Work Due Outside Class
 - Reflection
-- Lab notebook
+- Textual analysis lab notebook
 
 ## Week 6: College Football and the Crisis of Amateurism
 
 ### Assigned Material
-- Background: CHOOSE ONE
-  * Mary Louise Adams, “Sequins, Soundtracks, and Spirals: Producing Gender Difference on the Ice” in *Artistic Impressions: Figure Skating, Masculinity, and the Limits of Sport* (University of Toronto Press, 2011): 197-232. [Link to electronic access via Hesburgh Libraries](https://doi-org.proxy.library.nd.edu/10.3138/9781442695603).
-  * Jaime Schultz, "Reading the Catsuit: Serena Williams and the Production of Blackness at the 2002 U.S. Open" *Journal of Sport and Social Issues* 29:3 (2005): 338-357. [Link to electronic access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_cdi_crossref_primary_10_1177_0193723505276230).
+#### Content Readings
+- Michael Oriard, *King Football: Sport and Spectacle in the Golden Age of Radio and Newsreels, Movies and Magazines, the Weekly and the Daily Press* (University of North Carolina Press, 2001). [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph006047437), [Link to online access via Internet Archive](https://archive.org/details/kingfootballspor0000oria_v3n3).
+  * “Chapter 3, Who Cares About Reform?” (101-125)
 
-- Articles: FOR EVERYONE
-  * Alex Abad-Santos, “[The Simone Biles scoring controversy, explained](https://www.vox.com/22575301/simone-biles-olympics-scoring-explained-gymnastics-yurchenko-double-pike)” *Vox* (24 July 2021)
-    * For more on Biles: Juliet Macur, “[Simone Biles Dials Up the Difficulty, ‘Because I Can’](https://www.nytimes.com/2021/05/24/sports/olympics/simone-biles-yurchenko-double-pike.html)” *New York Times* (24 May 2021)
-  * Joseph D. Lyons, “[Here’s How Figure Skating Judges ACTUALLY Come Up With Those Scores](https://www.bustle.com/p/how-do-figure-skating-judges-score-performances-at-the-winter-olympics-things-get-complicated-8120361)” *Bustle* (7 February 2018)
-  * Mia Mercado, “[Men & Women’s Figure Skating Are Scored Differently - Here’s Why](https://www.bustle.com/p/do-men-figure-skaters-have-different-scoring-than-women-figure-skaters-yes-heres-why-8162680)” *Bustle* (8 February 2018)
-    * For more background on Olympic figure skating scoring: Jessica Bloustein Marshall, “[A Guide to Scoring Figure Skating at the Olympics](https://www.mentalfloss.com/article/55137/guide-scoring-figure-skating-olympics)” *Mental Floss* (16 February 2018)
+- Murray Sperber, *Shake Down the Thunder: The Creation of Notre Dame Football* (Holt and Company, 1993). [Link to online access via Internet Archive](https://archive.org/details/shakedownthunder00sper).
+  * Chapter 25, Anti-aircraft Fire from the College Sports Reformers (241-272)
+  * Chapter 27, Rockne Attacks the College Sports Reformers (296-322)
+  * [Link to Google Drive PDF]()
+
+#### Digital Method Readings
+- Miriam Posner, “Humanities Data: A Necessary Contradiction” Keynote at Harvard Purdue Data Management Symposium (25 June 2015)
 
 ### Lab
-- RStudio: [Data scraping in R using rvest](https://github.com/kwaldenphd/data-scraping-rvest)
-- Python: [Data scraping in Python]([https://github.com/kwaldenphd/data-scraping-rvest](https://github.com/kwaldenphd/data-scraping-python))
+- [Structured Data](https://github.com/kwaldenphd/football-structured-data)
 
 ### In-Class Work
-- Discussion
-- Lab work time
+- Sperber and Oriard reading discussion
+- Posner reading discussion; introduction to structured data and digital history
 
 ### Work Due Outside Class
 - Reflection
-- Lab notebook
 
 ## Week 7: Rockne Remembered
 
 ### Assigned Material
-- Thomas Oates and Meenakshi Gigi Durham, “The mismeasure of masculinity: the male body, ‘race,’ and power in the enumerative discourses of the NFL draft” *Patterns of Prejudice* 38:3 (2004), 301-320. [Link to electronic access via Hesburgh Libraries](https://doi-org.proxy.library.nd.edu/10.1080/0031322042000250475).
-- Tracie Canada and Chelsey R. Carter, “[The NFL’s Racist ‘Race Norming’ Is an Afterlife of Slavery](https://www.scientificamerican.com/article/the-nfls-racist-race-norming-is-an-afterlife-of-slavery/)” *Scientific American* (8 July 2021)
-- Fabio Cineas, “[‘Race norming’ and the long legacy of medical racism, explained](https://www.vox.com/22528334/race-norming-medical-racism)” *Vox* (9 July 2021)
+#### Content Readings
+- Murray Sperber, *Shake Down the Thunder: The Creation of Notre Dame Football* (Holt and Company, 1993). [Link to online access via Internet Archive](https://archive.org/details/shakedownthunder00sper).
+  * Chapter 29, The Death and Reform of Rockne (347-364)
+  * Chapter 31, After Rockne in 1931 (371-387)
+  * [Link to Google Drive PDF]()
 
-- For more on racialized media discourses…
-  * Not something we’re going to be able to cover in class, but linguist Kelly E. Wright is doing cutting-edge work on an algorithm that predicts athlete race based on language used in media coverage. 
-  * Kelly E. Wright, “[Why do we see the Myles Garrett incident as ‘criminal’?](https://theundefeated.com/features/why-do-we-see-the-myles-garrett-incident-as-criminal/)” *Undefeated* (19 November 2021)
-  * Jesse Spector, “[Have You Ever Heard of a ‘Raw and Toolsy,’ ‘Well-Spoken’ White Player?](https://deadspin.com/have-you-ever-heard-of-a-raw-and-toolsy-well-spoken-wh-1844101472)” *Deadspin* (20 June 2020)
-  * End of Sport Podcast, “[The Language of Race and Sport with Kelly E. Wright](https://www.theendofsport.com/episodes/p2g66wr0wb5cboahvau3uuzu80p0zp)” *Podcast* (16 July 2020)
+
+- Jaime Schultz, *Moments of Impact: Injury, Racialized Memory, and Reconciliation in College Football* (University of Nebraska Press, 2016). [Link to online access via Hesburgh Libraries]().
+- Introduction, Telling Exceptional Tales (1-20)
+- PICK ONE
+  * Chapter 1, Resurrecting Jack Trice: Life, Death, and the Campaign for Jack Trice Stadium (21-52)
+  * Chapter 3, Ozzie Simmons, Floyd of Rosedale, and a Tale of Two Governors (73-102)
+
+- See also: Jason Kelly, “What I’m Reading: Shake Down the Thunder, Murray Sperber” Notre Dame Magazine (16 October 2018)
+
+- If you want to go down the Chicago mob conspiracy rabbit hole...
+  * Jeff Harrell, "Mob Bombs Rockne Plane" Notre Dame Magazine (Spring 2019)
+  * Tom Ley, "Was Knute Rockne Killed by the Mob? Tracing the Origins of one of the Stranger Urban Legends in Sport" Deadspin (7 January 2013)
+  * Spirit of Knute blog/podcast
+
+#### Digital Method Readings: None
 
 ### Lab
-- RStudio: [Data visualization in R using ggplot2](https://github.com/kwaldenphd/ggplot-intro)
-- Python: [Introduction to Matplotlib](https://github.com/kwaldenphd/matplotlib-intro)
+- [Structured Data](https://github.com/kwaldenphd/football-structured-data)
 
 ### In-Class Work
-- Discussion
-- Final project work
+- Sperber and Schultz reading discussion
+- Structured data lab work time
 
 ### Work Due Outside Class
 - Reflection
-- Final project: Build a data model
 
 ## Week 8: Knute Rockne, All American
 
 ### Assigned Material
-- Thomas Oates, “Chapter 4: Man Mangement: Football Gaming and the ‘Financialization of Daily Life’” in *Football and Manliness: An Unauthorized Feminist Account of the NFL* (University of Illinois Press, 2017): 129-154. [Link to electronic access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph004548467).
-- Colin Dwyer, “[California Governor Signs Bill Allowing College Athletes to Profit From Endorsements](https://www.npr.org/2019/09/30/765700141/california-governor-signs-bill-allowing-college-athletes-to-profit-from-endorsem)” *NPR* (30 September 2019)
-- Andrew Brandt, “[Business of Football:  The Supreme Court Sends a Message to the NCAA](https://www.si.com/nfl/2021/06/29/business-of-football-supreme-court-unanimous-ruling)” *Sports Illustrated* (29 June 2021)
+#### Content Readings
+- Murray Sperber, *Shake Down the Thunder: The Creation of Notre Dame Football* (Holt and Company, 1993). [Link to online access via Internet Archive](https://archive.org/details/shakedownthunder00sper).
+  * Chapter 36, Beginning Knute Rockne--All American (464-472)
+  * Chapter 37, Filming Knute Rockne--All American (473-483)
+  * [Link to Google Drive PDF]()
 
-- For more context and recent developments:
-  * Dan Murphy, “[Everything you need to know about the NCAA’s NIL debate](https://www.espn.com/college-sports/story/_/id/31086019/everything-need-know-ncaa-nil-debate)” *ESPN* (1 September 2021)
-  * Jimmy Golen, “[Memo from NLRB Lawyer Says College Football Players are Employees](https://chicago.suntimes.com/2021/9/29/22700818/northwestern-nlrb-lawyer-memo-ollege-football-players-are-employees)” *Chicago Sun Times* (29 September 2021)
-  * Notre Dame Law School, “[The Changing Landscape of NCAA Student-Athlete Compensation](https://youtu.be/yZ8EfzYJ3Ws)” *YouTube* (25 October 2021)
+- Sherry Lindquist, “Memorializing Knute Rockne at the University of Notre Dame: Collegiate Gothic Architecture and Institutional Identity” Winterthur Portfolio 46:1 (2012): 1-24. Link to online access via Hesburgh Libraries.
+
+- Knute Rockne, All American, directed by Lloyd Bacon (1940; Burbank, CA: Warner Bros. Pictures). Link to streaming access through Hesburgh Libraries.
+
+- Additional resources:
+  * John Hickey, '69, "1937-1969: A Photo History of Notre Dame's Rockne Memorial" The University of Notre Dame Class of 1969 Blog (23 October 2018)
+  * Jesse Schlotterbeck, “Adapting an ‘American’ football biopic: Knute Rockne, All American” in Sport, Film and National Culture, ed. Seán Crosson (Routledge, 2020): 21-30. Link to online access via Hesburgh Libraries.
+  * Jaime Schultz, “The Truth About Historical Sport Films” Journal of Sport History 41:1 (2014): 29-45. Link to online access via Hesburgh Library.
+
+#### Digital Method Readings
+*Lab #2 related reading (here for reference, not something we’ll discuss in class, will be useful if you do data scraping/wrangling work with primary sources on your own)*:
+- Karl W. Broman and Kara H. Woo, “Data Organization in Spreadsheets” The American Statistician 72:1 (2018). https://doi.org/10.1080/00031305.2017.1375989
 
 ### Lab
-- RStudio: [Getting started with statistics in R](https://github.com/kwaldenphd/intro-statistics-rstudio)
-- Python: [More with Matplotlib/Plotting with Pandas](https://github.com/kwaldenphd/more-with-matplotlib)
+- [Structured Data](https://github.com/kwaldenphd/football-structured-data)
 
 ### In-Class Work
-- Discussion
-- Lab work time
+- Reading/film discussion, Rockne Memorial site visit
+- Structured data lab work time
 
 ### Work Due Outside Class
 - Reflection
-- Lab notebook
+- Lab status update
 
 ## Week 9: MID-TERM BREAK
 
 ## Week 10: The End of the Rockne Era & Leahy’s Lads
 
 ### Assigned Material
-- Yago Colás, *Numbers Don’t Lie: New Adventures in Counting and What Counts in Basketball Analytics* (University of Nebraska Press, 2020). [Link to electronic access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/3qusnn/ndu_aleph005971147).
-  * Introduction (1-18)
-  * Chapter 1 “The Science of Moving Dots” (50-72)
-  * Chapter 5 “Counting for Character” (118-132)
-  * Chapter 7 “Counting for Commerce in College Basketball” (160-171)
-  * Chapter 8 “Counting for Commerce in the NBA” (176-190)
-    * *78 total pages*
+#### Content Readings
+- Murray Sperber, *Shake Down the Thunder: The Creation of Notre Dame Football* (Holt and Company, 1993). [Link to online access via Internet Archive](https://archive.org/details/shakedownthunder00sper).
+  * Chapter 38, The End of the Rockne Era (484-494)
+  * Chapter 39, The End of the Creation of Notre Dame Football (495-498)
+  * Epilogue (499-502)
+  * [Link to Google Drive PDF]()
 
+- Assorted materials related to Frank Leahy (skim):
+  * Wells Twombly, Shake Down the Thunder! The Official Biography of Notre Dame’s Frank Leahy (Chilton, 1972).
+    * Prologue (xi-xiii)
+    * Table of contents
+  * Jack Connor, Leahy’s Lads: The Story of the Famous Notre Dame Football Teams of the 1940s (Diamond Communications, 1997).
+    * Chapter 1, Leahy’s Early Years (1-8)
+    * Chapter 2, Notre Dame (9-19) 
+    * Chapter 14, Looking Back (265-293)
+    * Epilogue (312-314)
+    * Leahy’s Lads, Team Rosters (321-329)
 
-### Lab
-- RStudio: [Interactive visualization in R with Plotly](https://github.com/kwaldenphd/plotly-intro-r/tree/sport-data)
-- Python: [Interactive visualization in Python](https://github.com/kwaldenphd/interactive-visualization-python)
+#### Digital Method Readings
+- Explore select digital projects- [link to prompt]() (prompt also on Canvas)
+
+### Lab:
+- [Digital exhibits](https://github.com/kwaldenphd/football-exhibits)
 
 ### In-Class Work
-- Discussion
-- Lab work time
+- Sperber and Leahy reading discussion
+- Introduction to digital exhibits
 
 ### Work Due Outside Class
 - Reflection
-- Lab notebook
 - Midterm reflections
+- Structured data lab notebook
 
 ## Week 11: College Football and the Sixties
 
 ### Assigned Material
-- Kirk Goldsberry and Aaron Dana, *Sprawlball: A Visual Tour of the New Era of the NBA* (Houghton Mifflin Harcourt, 2019). [Link to electronic access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005100657).
-  * Introduction (2-35)
-  * Chapter 1 (36-69)
-  * Chapter 7 (190-230)
-    * *106 total pages (with LOTS of pictures/figures)*
+#### Content Readings
+- Don Wycliff and David Krashna, Black Domers: African-American Studies at Notre Dame in Their Own Words (University of Notre Dame Press, 2017). Link to online access via Hesburgh Libraries.
+  * Foreword: Rev. Theodore M. Hesburgh, CSC (xv-xvi)
+  * Wayne Edmonds, Class of 1956 (20-25)
+  * David Krashna (108-112)
 
-### Lab: NONE
+- Richard Conklin, “Alan Page: He Dedicated His Life to Education” Notre Dame Athletics, Strong of Heart (2011).
+
+- Michael Oriard, Bowled Over: Big-Time College Football from the Sixties to the BCS Era (University of North Carolina Press, 2009). Link to online access via Hesburgh Libraries.
+  * Chapter 1, From the Sidelines of a Football Revolution (15-56)
+
+- Allen Sack, Counterfeit Amateurs: An Athlete’s Journey Through the Sixties to the Age of Academic Capitalism (Pennsylvania State University Press, 2008).
+  * Foreword (ix-x)
+  * Preface (xi-xiv)
+  * Chapter 1, Playing Football in Ara’s Era (3-18)
+  * [Link to Google Drive PDF]()
+
+#### Digital Method Readings: None
+
+### Lab:
+- [Digital exhibits](https://github.com/kwaldenphd/football-exhibits)
 
 ### In-Class Work
-- Discussion
-- Final project overview
+- Content reading discussion
+- Digital exhibits lab work time
 
 ### Work Due Outside Class
 - Reflection
@@ -533,86 +589,73 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 12: College Football, (Black) Athlete Activism, and the Crisis of Amateurism (again)
 
 ### Assigned Material
-- NCAA Gender Equity Reviews (pick one):
-  * Phase 1 (basketball championships, 2021 tournament)
-    * [Press Release](https://ncaagenderequityreview.com/phase-i-report-announcement/)
-    * [Executive Summary](https://kaplanhecker.app.box.com/s/xc1v5gjnmk4ndku1s2n2n1net4fwczeh)
-    * [Full Report](https://kaplanhecker.app.box.com/s/6fpd51gxk9ki78f8vbhqcqh0b0o95oxq)
+#### Content Readings
+- Notre Dame Magazine, “A Hard-Hitting Critic of College Sports” The Endless Conversation podcast (27 November 2019).
 
-  * Phase 2 (media/sponsorships, baseball/softball, hockey, lacrosse, volleyball, gymnastics, tennis, swimming/diving, soccer, golf, single-gender sports)
-    * [Press Release](https://ncaagenderequityreview.com/phase-ii-report-announcement/)
-    * [Executive Summary](https://kaplanhecker.app.box.com/s/h7hn9iz9i0sxtjbitroognr1ptm43z5g)
-    * [Full Report](https://kaplanhecker.app.box.com/s/y17pvxpap8lotzqajjan9vyye6zx8tmz)
+- Allen Sack, “How Congress Could Give the NCAA Remote Control” Notre Dame Magazine (8 November 2019)
 
-  * For more background on the 2021 basketball championships and phase I report:
-    * Becky Sullivan, “[Under fire, the NCAA apologizes and unveils new weight room for women’s tournament](https://www.npr.org/2021/03/20/979596524/under-fire-the-ncaa-apologizes-and-unveils-new-weight-room-for-womens-tournament)” *NPR* (20 March 2021)
-    * Morgan Campbell, “[NCAA’s weight-room fiasco, clumsy attempts to explain it are the real March Madness](https://www.cbc.ca/sports/ncaa-s-weight-room-fiasco-clumsy-attempts-to-explain-it-are-the-real-march-madness-1.5960760)” *CBC* (23 March 2021)
-    * Athletic Staff, “[Gender equity review: NCAA’s focus on revenue drives inequity](https://theathletic.com/news/gender-equity-review-ncaas-focus-on-revenue-drives-inequity/0DrYIuXB8KWI/)” *Athletic* (26 October 2021)
-    * Associated Press, “[NCAA to pay officials same in both basketball tournaments](https://www.espn.com/womens-college-basketball/story/_/id/32889830/ncaa-pay-officials-same-basketball-tournaments)” *ESPN* (17 December 2021)
-  * For more background on 2021 women’s college world series and phase II report:
-    * Ryan Aber, “[‘I want to help this sport’: OU coach Patty Gasso happy to be voice for change in college softball](https://www.oklahoman.com/story/sports/2021/06/24/ou-softball-sooners-coach-patty-gasso-embraces-role-college-softball-advocate/7779706002/)” *Oklahoman* (24 June 2021)
-    * ESPN, “[OU coach sounds off on ‘unfair’ WCWS schedule](http://www.espn.com/video/clip?id=31580108)” *NCAA Softball* (June 2021)
+- John Jenkins, CSC, “At Notre Dame, We Believe ‘Student’ Should Come First in ‘Student-Athlete’” New York Times (1 July 2021).
+  * ND students have access to the NYT through student government. Link to access/activate.
 
-- Adam Rittenberg and ESPN Creative Studio, “[Black Hires in College Football Leadership](https://www.espn.com/espn/feature/story/_/id/31905530/the-history-black-hires-college-football-leadership)” *ESPN* (May 2021)
-  * For more on FBS head-coach demographics:
-    * Adam Rittenberg, “[Even with the recent push for diversity, fewer Black coaches getting top FBS head-coaching jobs](https://theundefeated.com/features/even-with-the-recent-push-for-diversity-fewer-black-coaches-getting-top-fbs-head-coaching-jobs/)” *Undefeated* (19 May 2021)
+- EITHER
 
-- [The Institute for Diversity and Ethics in Sport](https://www.tidesport.org/) (TIDES) annual reports (choose most recent report for one organization/league):
-  * [NBA](https://www.tidesport.org/nba)
-  * [NFL](https://www.tidesport.org/nfl)
-  * [MLB](https://www.tidesport.org/mlb)
-  * [MLS](https://www.tidesport.org/mls)
-  * [WNBA](https://www.tidesport.org/wnba)
-  * [NCAA](https://www.tidesport.org/college)
-  * [D1 FBS NCAA leadership](https://www.tidesport.org/division-1-leadership)
-  * [Sports Media](https://www.tidesport.org/associated-press-sports-editors)
+  * Michael Oriard, Bowled Over: Big-Time College Football from the Sixties to the BCS Era (University of North Carolina Press, 2009). Link to online access via Hesburgh Libraries.
+    * Chapter 5, Opportunity, Entitlement, and Exploitation (191-232)
+    * Chapter 6, Thinking About Reform (233-280)
 
-### Lab: NONE
+- OR 
+
+  * Allen Sack, Counterfeit Amateurs: An Athlete’s Journey Through the Sixties to the Age of Academic Capitalism (Pennsylvania State University Press, 2008).
+    * Chapter 7, Building an Industry on Athletes’ Backs (111-126)
+    * Chapter 8, Fighting for Market Share in the 1990s (127-143)
+    * Chapter 10, College Sports in the Age of Academic Capitalism (161-179)
+    * [Link to Google Drive PDF]()
+
+#### Digital Method Readings: None
+
+### Lab:
+- [Digital exhibits](https://github.com/kwaldenphd/football-exhibits)
 
 ### In-Class Work
-- Discussion
-- Final project proposal workshop
+- Content reading discussion
+- Final project brainstorming/digital exhibit lab work time
+
+### Work Due Outside Class
+- Reflection
+- Lab status update
+
+## Week 13: College Football as Big Business
+
+### Assigned Material
+#### Content Readings
+
+#### Digital Method Readings
+
+### Lab:
+- [Digital exhibits](https://github.com/kwaldenphd/football-exhibits)
+
+### In-Class Work
+- Content reading discussion
+- Final project/digital exhibit lab work time
 
 ### Work Due Outside Class
 - Reflection
 - Final project proposal
 
-## Week 13: College Football as Big Business
-
-### Assigned Material
-- Brakkton Booker, “[MLB recognizes Negro Leagues as ‘Major League’ - correcting a ‘longtime oversight’](https://www.npr.org/2020/12/16/947226542/mlb-corrects-longtime-oversight-now-recognizes-negro-league-as-major-league)” *NPR* (16 December 2020)
-- Tyler Kepner, “[Baseball Rights a Wrong by Adding Negro Leagues to Official Records](https://www.nytimes.com/2020/12/16/sports/baseball/mlb-negro-leagues.html)” *New York Times* (16 December 2020)
-- Howard Bryant, “[MLB can add Negro Leagues to official records but can never change what it did to Black players](https://www.espn.com/mlb/story/_/id/30540089/mlb-add-negro-leagues-official-records-never-change-did-black-players)” *ESPN* (18 December 2020)
-
-- See also:
-  * Major League Baseball, “[MLB officially designates the Negro Leagues as ‘Major League’](https://www.mlb.com/press-release/press-release-mlb-officially-designates-the-negro-leagues-as-major-league)” *Major League Baseball* (17 December 2020)
-  * Clinton Yates, “[MLB elevating the status of Negro Leagues is the problem, not the solution](https://theundefeated.com/features/mlb-elevating-the-status-of-negro-leagues-is-the-problem-not-the-solution/)” *Undefeated* (16 December 2020)
-
-- Baseball Reference, “[The Negro Leagues are Major Leagues](https://www.baseball-reference.com/negro-leagues-are-major-leagues.shtml)” *Baseball Reference* (June 2021)
-
-- Gary Ashwill, “[Building the Seamheads Negro League Database](https://www.baseball-reference.com/articles/building-the-seamheads-negro-league-database-gary-ashwill.shtml)” *Baseball Reference* (June 2021)
-
-- See also:
-  * Sports Reference, [*The Negro Leagues are Major Leagues podcast*](https://anchor.fm/sports-reference/) (summer 2021)
-  * James Wagner, “[Baseball Reference Adds Negro Leagues Statistics, Rewriting Its Record Book](https://www.nytimes.com/2021/06/15/sports/baseball/baseball-reference-negro-leagues.html)” *New York Times* (15 June 2021)
-  * Bill Chappell, “[Museum Head: Baseball’s Embrace of Negro Leagues is an Atonement, Not a Validation](https://www.npr.org/2021/06/18/1007196761/baseball-negro-leagues-black-players-history-reference)” *NPR* (18 June 2021)
-
-- See also: Sports Reference, “[Changing Player Identification Names from Player Nicknames to Given Names](https://www.sports-reference.com/blog/2021/04/sports-reference-changing-player-identification-names-from-player-nicknames-to-given-names/)” *Sports Reference* (30 April 2021)
-
-### Lab: NONE
-
-### In-Class Work
-- Discussion
-- Final project work time
-
-### Work Due Outside Class
-- Reflection
-
 ## Week 14: Reckoning With Rudy
 
-### Assigned Material: None
+### Assigned Material
+#### Content Readings
+- David J. Leonard, “‘Is This Heaven?’ White Sporting Masculinities and the Hollywood Imagination” in Visual Economies of/in Motion: Sport and Film (Peter Lang, 2006): 165-194. Link to Google Drive access.
 
-### Lab: None
+- Excerpt from C. Richard King and David J. Leonard, “Why Sport Films Matter; Or, Refusing a Happy Ending” in Visual Economies of/in Motion: Sport and Film (Peter Lang, 2006): 235-238. Link to Google Drive access.
+
+- Rudy, directed by David Anspaugh (1993; Culver City, CA; TriStar Pictures). Link to online streaming access via Hesburgh Libraries.
+
+#### Digital Method Readings: None
+
+### Lab:
+- [Digital exhibits](https://github.com/kwaldenphd/football-exhibits)
 
 ### In-Class Work
 - Final project work time
@@ -620,10 +663,17 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### Work Due Outside Class
 - Final project status update
+- Digital exhibits lab notebook
 
 ## Week 15: Final Project Shareouts + Course Reflections
 
-### Assigned Material: None
+### Assigned Material: 
+#### Content Reading
+- Melinda Henneberger, "Why I won't be cheering for Old Notre Dame" Washington Post (4 December 2012) **sexual assault, rape content warning**
+- Dana Hunsinger Benbow, “Notre Dame president challenges Lou Holtz’s RNC speech” Indianapolis Star (27 August 2020).
+- Margaret Fosmoe, “Irish Fight for Justice” Notre Dame Magazine (19 June 2020).
+
+#### Digital Method Reading: None
 
 ### Lab: None
 
