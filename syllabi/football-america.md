@@ -21,7 +21,7 @@ This syllabus and all course materials have been prepared in conversation with a
 
 # Description and Goals
 
-<img align="center" src="https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/assets/v3/editorial/3/13/3138d9a4-b26f-11ea-96b0-eb41a49388ed/5eed263a81117.image.jpg?resize=666%2C500" alt= Image caption:Notre Dame defensive lineman Daelin Hayes, center, and his fiancee, Jasmine Abass, right, walk Friday along Notre Dame Avenue during Notre Dame's Juneteenth celebration></img>
+<img align="center" src="https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/assets/v3/editorial/3/13/3138d9a4-b26f-11ea-96b0-eb41a49388ed/5eed263a81117.image.jpg?resize=666%2C500" alt= "Image caption:Notre Dame defensive lineman Daelin Hayes, center, and his fiancee, Jasmine Abass, right, walk Friday along Notre Dame Avenue during Notre Dame's Juneteenth celebration">
 
 *Image caption: Notre Dame defensive lineman Daelin Hayes, center, and his fiancee, Jasmine Abass, right, walk Friday along Notre Dame Avenue during Notre Dame's Juneteenth celebration (photo credit: [Joseph Weiser, Goshen News](https://www.goshennews.com/sports/notre-dame-football-team-leads-prayer-walk-in-celebration-of-juneteenth/article_7c5ee234-b26a-11ea-ad67-03cea8507810.html)). Members of the Notre Dame football team [organized a rally and walk for the campus community in recognition of Juneteenth](https://magazine.nd.edu/stories/irish-fight-for-justice/).*
 
