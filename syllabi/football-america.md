@@ -329,7 +329,7 @@ Assigned material not openly available online is available through Hesburgh Libr
   * Chapters 1-5 (3-36) PDF on Canvas, [link to access via Google Drive](https://drive.google.com/file/d/1OnYRzVAWt4fhnAKrvn3R5j-OO0d4rEN2/view?usp=sharing)
 
 #### Digital Method Readings
-- David J. Staley, “Computers, Visualization, and the Representation of History” Historically Speaking 4:4 (2003): 40-42. Link to online access via Hesburgh Libraries
+- David J. Staley, “Computers, Visualization, and the Representation of History” *Historically Speaking* 4:4 (2003): 40-42. [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_cdi_crossref_primary_10_1353_hsp_2003_0065).
 
 ### Lab: None
 
@@ -352,14 +352,14 @@ Assigned material not openly available online is available through Hesburgh Libr
   * Chapter 10 (67-70), Chapter 11 (71-78), Chapter 12 (79-83). [Link to Google Drive PDF]().
 
 #### Digital Method Readings
-- Kirsten Bussière, “Chapter 4- Text Analysis” in Digital Humanities: A Primer (Carleton University).
+- Kirsten Bussière, “[Chapter 4- Text Analysis](https://carletonu.pressbooks.pub/digh5000/chapter/chapter-4-text-analysis/)” in *Digital Humanities: A Primer* (Carleton University).
 
 - Explore:
-  * Alex Wermer-Colan, “Computational Textual Analysis” Temple University Library Guide (May 2020).
+  * Alex Wermer-Colan, “-Computational Textual Analysis](https://guides.temple.edu/corpusanalysis)” *Temple University Library Guide* (May 2020).
 
 - Additional resources:
-  * Text Visualization Browser, from Kucher and Kerren’s 2015 IEEE paper “Text visualization techniques: Taxonomy, visual survey, and community insights” doi: 10.1109/PACIFICVIS.2015.7156366
-  * Ted Underwood, “Seven Ways Humanists are Using Computers to Understand Text” blog (4 June 2015)
+  * [Text Visualization Browser](https://textvis.lnu.se/), from Kucher and Kerren’s 2015 IEEE paper “Text visualization techniques: Taxonomy, visual survey, and community insights” doi: [10.1109/PACIFICVIS.2015.7156366](https://ieeexplore.ieee.org/document/7156366)
+  * Ted Underwood, “[Seven Ways Humanists are Using Computers to Understand Text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)” *personal blog* (4 June 2015)
 
 ### Lab
 - [Text analysis](https://github.com/kwaldenphd/football-text-analysis/)
@@ -379,10 +379,10 @@ Assigned material not openly available online is available through Hesburgh Libr
   * Chapter 7, Class (225-254)
   * Chapter 8, Ethnicity (255-282)
 
-- See also: Dana Hunsinger Benbow, “Notre Dame defends leprechaun mascot, ranked college football’s 4th-most offensive in study” Indianapolis Star (23 August 2021).
+- See also: Dana Hunsinger Benbow, “[Notre Dame defends leprechaun mascot, ranked college football’s 4th-most offensive in study](https://www.indystar.com/story/sports/college/2021/08/23/notre-dame-defends-fighting-irish-leprechaun-mascot-ranked-offensive/8249420002/)” *Indianapolis Star* (23 August 2021).
 
 #### Digital Method Readings
-- Jennifer Guiliano, “Toward a Praxis of Critical Digital Sport History” Journal of Sport History 44:2 (2017): 146-159. Link to online access via Hesburgh Libraries.
+- Jennifer Guiliano, “Toward a Praxis of Critical Digital Sport History” *Journal of Sport History* 44:2 (2017): 146-159. [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_cdi_crossref_primary_10_5406_jsporthistory_44_2_0146).
 
 ### Lab
 - [Text analysis](https://github.com/kwaldenphd/football-text-analysis/)
@@ -436,7 +436,7 @@ Assigned material not openly available online is available through Hesburgh Libr
   * [Link to Google Drive PDF]()
 
 #### Digital Method Readings
-- Miriam Posner, “Humanities Data: A Necessary Contradiction” Keynote at Harvard Purdue Data Management Symposium (25 June 2015)
+- Miriam Posner, “[Humanities Data: A Necessary Contradiction](https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)” *Keynote at Harvard Purdue Data Management Symposium( (25 June 2015)
 
 ### Lab
 - [Structured Data](https://github.com/kwaldenphd/football-structured-data)
@@ -458,18 +458,18 @@ Assigned material not openly available online is available through Hesburgh Libr
   * [Link to Google Drive PDF]()
 
 
-- Jaime Schultz, *Moments of Impact: Injury, Racialized Memory, and Reconciliation in College Football* (University of Nebraska Press, 2016). [Link to online access via Hesburgh Libraries]().
+- Jaime Schultz, *Moments of Impact: Injury, Racialized Memory, and Reconciliation in College Football* (University of Nebraska Press, 2016). [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph004319131).
 - Introduction, Telling Exceptional Tales (1-20)
 - PICK ONE
   * Chapter 1, Resurrecting Jack Trice: Life, Death, and the Campaign for Jack Trice Stadium (21-52)
   * Chapter 3, Ozzie Simmons, Floyd of Rosedale, and a Tale of Two Governors (73-102)
 
-- See also: Jason Kelly, “What I’m Reading: Shake Down the Thunder, Murray Sperber” Notre Dame Magazine (16 October 2018)
+- See also: Jason Kelly, “[What I’m Reading: Shake Down the Thunder, Murray Sperber](https://magazine.nd.edu/stories/what-im-reading-shake-down-the-thunder-murray-sperber/)” *Notre Dame Magazine* (16 October 2018)
 
 - If you want to go down the Chicago mob conspiracy rabbit hole...
-  * Jeff Harrell, "Mob Bombs Rockne Plane" Notre Dame Magazine (Spring 2019)
-  * Tom Ley, "Was Knute Rockne Killed by the Mob? Tracing the Origins of one of the Stranger Urban Legends in Sport" Deadspin (7 January 2013)
-  * Spirit of Knute blog/podcast
+  * Jeff Harrell, "[Mob Bombs Rockne Plane](https://magazine.nd.edu/stories/mob-bombs-rockne-plane/)" *Notre Dame Magazine* (Spring 2019)
+  * Tom Ley, "[Was Knute Rockne Killed by the Mob? Tracing the Origins of one of the Stranger Urban Legends in Sport](https://deadspin.com/was-knute-rockne-killed-by-the-mob-tracing-the-origins-5917423)" *Deadspin* (7 January 2013)
+  * [Spirit of Knute blog/podcast](https://www.spiritofknute.com/)
 
 #### Digital Method Readings: None
 
@@ -492,18 +492,18 @@ Assigned material not openly available online is available through Hesburgh Libr
   * Chapter 37, Filming Knute Rockne--All American (473-483)
   * [Link to Google Drive PDF]()
 
-- Sherry Lindquist, “Memorializing Knute Rockne at the University of Notre Dame: Collegiate Gothic Architecture and Institutional Identity” Winterthur Portfolio 46:1 (2012): 1-24. Link to online access via Hesburgh Libraries.
+- Sherry Lindquist, “Memorializing Knute Rockne at the University of Notre Dame: Collegiate Gothic Architecture and Institutional Identity” *Winterthur Portfolio* 46:1 (2012): 1-24. [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_cdi_crossref_primary_10_1086_665045).
 
-- Knute Rockne, All American, directed by Lloyd Bacon (1940; Burbank, CA: Warner Bros. Pictures). Link to streaming access through Hesburgh Libraries.
+- *Knute Rockne, All American*, directed by Lloyd Bacon (1940; Burbank, CA: Warner Bros. Pictures). [Link to streaming access through Hesburgh Libraries](https://digitalcampus.swankmp.net/nd270436/watch/C50815D2890F7DE2?referrer=direct).
 
 - Additional resources:
-  * John Hickey, '69, "1937-1969: A Photo History of Notre Dame's Rockne Memorial" The University of Notre Dame Class of 1969 Blog (23 October 2018)
-  * Jesse Schlotterbeck, “Adapting an ‘American’ football biopic: Knute Rockne, All American” in Sport, Film and National Culture, ed. Seán Crosson (Routledge, 2020): 21-30. Link to online access via Hesburgh Libraries.
-  * Jaime Schultz, “The Truth About Historical Sport Films” Journal of Sport History 41:1 (2014): 29-45. Link to online access via Hesburgh Library.
+  * John Hickey, '69, "[1937-1969: A Photo History of Notre Dame's Rockne Memorial](http://notredameclassof1969blog.blogspot.com/2018/10/1937-1969-photo-history-of-notre-dames.html)" *The University of Notre Dame Class of 1969 Blog* (23 October 2018)
+  * Jesse Schlotterbeck, “Adapting an ‘American’ football biopic: Knute Rockne, All American” in *Sport, Film and National Culture*, ed. Seán Crosson (Routledge, 2020): 21-30. [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005873333).
+  * Jaime Schultz, “The Truth About Historical Sport Films” *Journal of Sport History* 41:1 (2014): 29-45. [Link to online access via Hesburgh Library](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_cdi_projectmuse_journals_544505_S2155845514100073).
 
 #### Digital Method Readings
 *Lab #2 related reading (here for reference, not something we’ll discuss in class, will be useful if you do data scraping/wrangling work with primary sources on your own)*:
-- Karl W. Broman and Kara H. Woo, “Data Organization in Spreadsheets” The American Statistician 72:1 (2018). https://doi.org/10.1080/00031305.2017.1375989
+- Karl W. Broman and Kara H. Woo, “Data Organization in Spreadsheets” *American Statistician* 72:1 (2018). https://doi.org/10.1080/00031305.2017.1375989
 
 ### Lab
 - [Structured Data](https://github.com/kwaldenphd/football-structured-data)
@@ -529,15 +529,18 @@ Assigned material not openly available online is available through Hesburgh Libr
   * [Link to Google Drive PDF]()
 
 - Assorted materials related to Frank Leahy (skim):
-  * Wells Twombly, Shake Down the Thunder! The Official Biography of Notre Dame’s Frank Leahy (Chilton, 1972).
+  * Wells Twombly, *Shake Down the Thunder! The Official Biography of Notre Dame’s Frank Leahy* (Chilton, 1972).
     * Prologue (xi-xiii)
     * Table of contents
-  * Jack Connor, Leahy’s Lads: The Story of the Famous Notre Dame Football Teams of the 1940s (Diamond Communications, 1997).
+    * [Link to Google Drive PDF]()
+ 
+ * Jack Connor, *Leahy’s Lads: The Story of the Famous Notre Dame Football Teams of the 1940s* (Diamond Communications, 1997).
     * Chapter 1, Leahy’s Early Years (1-8)
     * Chapter 2, Notre Dame (9-19) 
     * Chapter 14, Looking Back (265-293)
     * Epilogue (312-314)
     * Leahy’s Lads, Team Rosters (321-329)
+    * [Link to Google Drive PDF]().
 
 #### Digital Method Readings
 - Explore select digital projects- [link to prompt]() (prompt also on Canvas)
@@ -558,17 +561,17 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### Assigned Material
 #### Content Readings
-- Don Wycliff and David Krashna, Black Domers: African-American Studies at Notre Dame in Their Own Words (University of Notre Dame Press, 2017). Link to online access via Hesburgh Libraries.
+- Don Wycliff and David Krashna, *Black Domers: African-American Studies at Notre Dame in Their Own Words* (University of Notre Dame Press, 2017). [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_cdi_askewsholts_vlebooks_9780268102524).
   * Foreword: Rev. Theodore M. Hesburgh, CSC (xv-xvi)
   * Wayne Edmonds, Class of 1956 (20-25)
   * David Krashna (108-112)
 
-- Richard Conklin, “Alan Page: He Dedicated His Life to Education” Notre Dame Athletics, Strong of Heart (2011).
+- Richard Conklin, “[Alan Page: He Dedicated His Life to Education](https://strongofheart.nd.edu/profiles/alan-page-2011/)” *Notre Dame Athletics, Strong of Heart* (2011).
 
-- Michael Oriard, Bowled Over: Big-Time College Football from the Sixties to the BCS Era (University of North Carolina Press, 2009). Link to online access via Hesburgh Libraries.
+- Michael Oriard, *Bowled Over: Big-Time College Football from the Sixties to the BCS Era* (University of North Carolina Press, 2009). [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph006047431), [Link to online access via Internet Archive](https://archive.org/details/bowledoverbigtim0000oria).
   * Chapter 1, From the Sidelines of a Football Revolution (15-56)
 
-- Allen Sack, Counterfeit Amateurs: An Athlete’s Journey Through the Sixties to the Age of Academic Capitalism (Pennsylvania State University Press, 2008).
+- Allen Sack, *Counterfeit Amateurs: An Athlete’s Journey Through the Sixties to the Age of Academic Capitalism* (Pennsylvania State University Press, 2008). [Link to online access via Internet Archive](https://archive.org/details/counterfeitamate0000sack).
   * Foreword (ix-x)
   * Preface (xi-xiv)
   * Chapter 1, Playing Football in Ara’s Era (3-18)
@@ -590,25 +593,15 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### Assigned Material
 #### Content Readings
-- Notre Dame Magazine, “A Hard-Hitting Critic of College Sports” The Endless Conversation podcast (27 November 2019).
-
-- Allen Sack, “How Congress Could Give the NCAA Remote Control” Notre Dame Magazine (8 November 2019)
-
-- John Jenkins, CSC, “At Notre Dame, We Believe ‘Student’ Should Come First in ‘Student-Athlete’” New York Times (1 July 2021).
-  * ND students have access to the NYT through student government. Link to access/activate.
-
 - EITHER
-
-  * Michael Oriard, Bowled Over: Big-Time College Football from the Sixties to the BCS Era (University of North Carolina Press, 2009). Link to online access via Hesburgh Libraries.
-    * Chapter 5, Opportunity, Entitlement, and Exploitation (191-232)
-    * Chapter 6, Thinking About Reform (233-280)
+  * Michael Oriard, *Bowled Over: Big-Time College Football from the Sixties to the BCS Era* (University of North Carolina Press, 2009). [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph006047431), [Link to online access via Internet Archive](https://archive.org/details/bowledoverbigtim0000oria).
+    * Chapter 4, Revenue and Reform (145-190)
 
 - OR 
-
-  * Allen Sack, Counterfeit Amateurs: An Athlete’s Journey Through the Sixties to the Age of Academic Capitalism (Pennsylvania State University Press, 2008).
-    * Chapter 7, Building an Industry on Athletes’ Backs (111-126)
-    * Chapter 8, Fighting for Market Share in the 1990s (127-143)
-    * Chapter 10, College Sports in the Age of Academic Capitalism (161-179)
+  * Allen Sack, *Counterfeit Amateurs: An Athlete’s Journey Through the Sixties to the Age of Academic Capitalism* (Pennsylvania State University Press, 2008). [Link to online access via Internet Archive](https://archive.org/details/counterfeitamate0000sack).
+    * Chapter 3, The Game of the Century (37-52)
+    * Excerpt from Chapter 4, Politics, Protest, and the Athletics Revolution (62-65)
+    * Chapter 5, Laying the Groundwork for Professional College Sport (67-80)
     * [Link to Google Drive PDF]()
 
 #### Digital Method Readings: None
@@ -628,6 +621,24 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### Assigned Material
 #### Content Readings
+- Notre Dame Magazine, “[A Hard-Hitting Critic of College Sports](https://magazine.nd.edu/stories/a-hard-hitting-critic-of-college-sports/)” *The Endless Conversation podcast* (27 November 2019).
+
+- Allen Sack, “[How Congress Could Give the NCAA Remote Control](https://magazine.nd.edu/stories/how-congress-could-give-the-ncaa-remote-control/)” *Notre Dame Magazine* (8 November 2019)
+
+- John Jenkins, CSC, “[At Notre Dame, We Believe ‘Student’ Should Come First in ‘Student-Athlete’](https://www.nytimes.com/2021/07/01/opinion/college-athletes-pay-NCAA-Notre-Dame.html)” *New York Times* (1 July 2021).
+  * ND students have access to the NYT through student government. [Link to access/activate](https://studentgovernment.nd.edu/executive-leadership/platform/new-york-times-subscription/).
+
+- EITHER
+  * Michael Oriard, *Bowled Over: Big-Time College Football from the Sixties to the BCS Era* (University of North Carolina Press, 2009). [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph006047431), [Link to online access via Internet Archive](https://archive.org/details/bowledoverbigtim0000oria).
+    * Chapter 5, Opportunity, Entitlement, and Exploitation (191-232)
+    * Chapter 6, Thinking About Reform (233-280)
+
+- OR 
+  * Allen Sack, *Counterfeit Amateurs: An Athlete’s Journey Through the Sixties to the Age of Academic Capitalism* (Pennsylvania State University Press, 2008). [Link to online access via Internet Archive](https://archive.org/details/counterfeitamate0000sack).
+    * Chapter 7, Building an Industry on Athletes’ Backs (111-126)
+    * Chapter 8, Fighting for Market Share in the 1990s (127-143)
+    * Chapter 10, College Sports in the Age of Academic Capitalism (161-179)
+    * [Link to Google Drive PDF]()
 
 #### Digital Method Readings
 
@@ -646,11 +657,11 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### Assigned Material
 #### Content Readings
-- David J. Leonard, “‘Is This Heaven?’ White Sporting Masculinities and the Hollywood Imagination” in Visual Economies of/in Motion: Sport and Film (Peter Lang, 2006): 165-194. Link to Google Drive access.
+- David J. Leonard, “‘Is This Heaven?’ White Sporting Masculinities and the Hollywood Imagination” in *Visual Economies of/in Motion: Sport and Film* (Peter Lang, 2006): 165-194. [Link to Google Drive access](https://drive.google.com/file/d/14g02neAriQnRUV-HQIJYqyB4Z-3skiRY/view?usp=sharing).
 
-- Excerpt from C. Richard King and David J. Leonard, “Why Sport Films Matter; Or, Refusing a Happy Ending” in Visual Economies of/in Motion: Sport and Film (Peter Lang, 2006): 235-238. Link to Google Drive access.
+- Excerpt from C. Richard King and David J. Leonard, “Why Sport Films Matter; Or, Refusing a Happy Ending” in *Visual Economies of/in Motion: Sport and Film* (Peter Lang, 2006): 235-238. [Link to Google Drive access](https://drive.google.com/file/d/1BeJukd4uvo8LO11NhfZglLn7B2NPdcMv/view?usp=sharing).
 
-- Rudy, directed by David Anspaugh (1993; Culver City, CA; TriStar Pictures). Link to online streaming access via Hesburgh Libraries.
+- *Rudy*, directed by David Anspaugh (1993; Culver City, CA; TriStar Pictures). [Link to online streaming access via Hesburgh Libraries](https://digitalcampus.swankmp.net/nd270436/watch/8BAF2909BF2B0FDF?referrer=direct).
 
 #### Digital Method Readings: None
 
@@ -669,9 +680,11 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### Assigned Material: 
 #### Content Reading
-- Melinda Henneberger, "Why I won't be cheering for Old Notre Dame" Washington Post (4 December 2012) **sexual assault, rape content warning**
-- Dana Hunsinger Benbow, “Notre Dame president challenges Lou Holtz’s RNC speech” Indianapolis Star (27 August 2020).
-- Margaret Fosmoe, “Irish Fight for Justice” Notre Dame Magazine (19 June 2020).
+- Melinda Henneberger, "[Why I won't be cheering for Old Notre Dame](https://www.washingtonpost.com/blogs/she-the-people/wp/2012/12/04/why-i-wont-be-cheering-for-old-notre-dame/)" *Washington Post* (4 December 2012) **sexual assault, rape content warning**
+
+- Dana Hunsinger Benbow, “[Notre Dame president challenges Lou Holtz’s RNC speech](https://www.indystar.com/story/sports/college/notre-dame/2020/08/27/notre-dame-football-coach-lou-holtz-rnc-biden-catholic-name-only/5640601002/)” *Indianapolis Star* (27 August 2020).
+
+- Margaret Fosmoe, “[Irish Fight for Justice](https://magazine.nd.edu/stories/irish-fight-for-justice/)” *Notre Dame Magazine* (19 June 2020).
 
 #### Digital Method Reading: None
 
