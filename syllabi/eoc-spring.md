@@ -21,7 +21,9 @@ This syllabus and all course materials have been prepared in conversation with a
 
 # Description and Goals
 
-![Marshmallow Peeps help familiarize students with data visualizations and analysis, Photo: Gissoo Doroudian, from Jim Casey, “Taste the Data!” Princeton Center for Digital Humanities, 15 May 2019](https://cdh.princeton.edu/media/images/peeps_img_7254.max-1536x2158.jpg)
+<p align='center'>
+ <img src="https://cdh.princeton.edu/media/images/peeps_img_7254.max-1536x2158.jpg" alt= "Marshmallow Peeps help familiarize students with data visualizations and analysis, Photo: Gissoo Doroudian, from Jim Casey, “Taste the Data!” Princeton Center for Digital Humanities, 15 May 2019">
+ </p>
 
 *Marshmallow Peeps help familiarize students with data visualizations and analysis (Photo: Gissoo Doroudian) from Jim Casey, “[Taste the Data!](https://cdh.princeton.edu/updates/2019/05/15/taste-data/)” Princeton Center for Digital Humanities (15 May 2019).*
 
