@@ -399,13 +399,11 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 1: Course overview and introductions; What do we mean by sport and big data?
 
 ### Assigned Material
-- Chris Gilliard, “[A Black Woman Invented Home Security. Why Did It Go So Wrong](https://www.wired.com/story/black-inventor-home-security-system-surveillance/)” *Wired* (14 November 2021)
-- *Coded Bias*, directed by Shalini Kantayya. 7th Empire Media, 2020. 90 minutes.
-  * [Link to access via Panopto](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5edb13f5-cc56-4231-9b68-ac7a0148e66c)
-  * [Link to stream via Netflix](https://www.netflix.com/watch/81328723) (requires subscription)
+- Brad Millington, “‘The datafication of everything’: toward a sociology of sport and big data” *Sociology of Sport Journal* 32:2 (2015): 140-160. https://doi.org/10.1123/ssj.2014-0069.
 
 ### Lab
-- [Lab: Getting started with Python](https://github.com/kwaldenphd/python-refresh)
+- RStudio: [Getting started with RStudio](https://github.com/kwaldenphd/rstudio-intro)
+- Python: [Getting started with Python](https://github.com/kwaldenphd/python-refresh)
 
 ### In-Class Work
 - Course overview, Introductions
@@ -414,17 +412,20 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### Work Due Outside Class
 - Technology intake survey
 - Introductions (discussion post)
-- Lab notebook
+- Select a lab track (Google Form)
 
 ## Week 2: Baseball, Sabermetrics, and “Moneyball” (part 1)
 
 ### Assigned Material
-- Simone Browne, “Race and Surveillance” in *Routledge Handbook of Surveillance Studies* (Routledge, 2014): 72-80. [Link to Google Drive PDF](https://drive.google.com/file/d/1Tz-4Lt6SEoZAfn6ZCWE8v0fy3YaDZ39T/view?usp=sharing).
-- Amanda Borquaye, “[The ‘Smart Wall’ Relies on Invasive and Ineffective Experimental Technology](https://www.newamerica.org/oti/blog/the-smart-wall-relies-on-invasive-and-ineffective-experimental-technology-theres-nothing-smart-about-that/)” *New America* (5 August 2021)
-  * For more on border tech activism: [#NoTechForICE reports produced by Mijente, Just Futures Law, and No Border Wall Coalition](https://notechforice.com/resources/)
+- Christopher Phillips, *Scouting and Scoring: How We Know What We Know About Baseball* (Princeton University Press, 2020). [Link to electronic access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005421693).
+  * Introduction (1-12)
+  * Chapter 1 “The Bases of Data” (13-32)
+  * Chapter 4 “From Project Scoresheet to Big Data” (97-135)
+    * 68 total pages
 
 ### Lab
-- [Lab: Getting started with Python](https://github.com/kwaldenphd/python-refresh)
+- RStudio: [Getting started with RStudio](https://github.com/kwaldenphd/rstudio-intro)
+- Python: [Getting started with Python](https://github.com/kwaldenphd/python-refresh)
 
 ### In-Class Work
 - Discussion
@@ -437,12 +438,16 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 3: Baseball, Sabermetrics, and “Moneyball” (part 2)
 
 ### Assigned Material
-- Virginia Eubanks, *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor* (St. Martin’s, 2017).
-  * [Introduction: Red Flags (1-14)](https://drive.google.com/file/d/1h22SQd7_qZzsaHbLug-hh7f7AtSJ-KRn/view?usp=sharing)
-  * [Chapter 1, From Poorhouse to Database (14-38)](https://drive.google.com/file/d/1jb3MZo9gOPcoFB_7WDt-FcWg-pPnD4oF/view?usp=sharing)
+- Christopher Phillips, *Scouting and Scoring: How We Know What We Know About Baseball* (Princeton University Press, 2020). [Link to electronic access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005421693).
+  * Chapter 7 “A Machine for Objectivity” (200-242)
+  * Conclusion (243-254)
+    * 53 pages total
+
+- Film: *Moneyball*, dir. Bennett Miller, Columbia Pictures, 2011. 133 minutes. [Link to streaming access through Hesburgh Libraries](https://digitalcampus.swankmp.net/nd270436/watch/C43779DCE6F7DE2C?referrer=direct).
 
 ### Lab
-- [Lab: Getting started with Pandas (for machine learning)](https://github.com/kwaldenphd/pandas-machine-learning-intro)
+- RStudio: [Introduction to tidy data in R](https://github.com/kwaldenphd/tidy-data-r-intro)
+- Python: [Web APIs in Python](https://github.com/kwaldenphd/apis-python)
 
 ### In-Class Work
 - Discussion
@@ -455,13 +460,16 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 4: Data and power: historical, social, and cultural context
 
 ### Assigned Material
-- Angela Saini, *Superior: The Return of Race Science* (Beacon Press, 2020).
-  * [Chapter 2 (25-37)](https://drive.google.com/file/d/19RREWQWeD_Fw8ithqAPnEulxTMA6VSnq/view?usp=sharing)
-  * [Chapter 3 (38-52)](https://drive.google.com/file/d/1WVubogX1mi8cVQ_WSaUF-kW42thFkG_H/view?usp=sharing)
+- Virginia Eubanks, *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor* (St. Martin’s, 2017).
+  * [Introduction: Red Flags (1-14)](https://drive.google.com/file/d/1h22SQd7_qZzsaHbLug-hh7f7AtSJ-KRn/view?usp=sharing)
+  * [Chapter 1, From Poorhouse to Database (14-38)](https://drive.google.com/file/d/1jb3MZo9gOPcoFB_7WDt-FcWg-pPnD4oF/view?usp=sharing)
 
+- Society for Cultural Anthropology, “[Scientific Racism](https://www.vox.com/22528334/race-norming-medical-racism)” *AnthroBites podcast* (29 August 2017) *17 minutes*
+  * Something we’ll read later in the semester that folks might want to browse along with the podcast: Fabio Cineas, “[‘Race norming’ and the long legacy of medical racism, explained](https://www.vox.com/22528334/race-norming-medical-racism)” *Vox* (9 July 2021)
 
 ### Lab
-- [Lab: Building a job screening algorithm in Python](https://github.com/kwaldenphd/job-screening-algorithm)
+- RStudio: [Data wrangling in R using dplyr](https://github.com/kwaldenphd/dplyr-intro)
+- Python: [Introduction to Pandas](https://github.com/kwaldenphd/pandas-intro)
 
 ### In-Class Work
 - Discussion
@@ -475,15 +483,23 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 5: Policing Gender (at the Olympics) (part 1)
 
 ### Assigned Material
-- OPTIONAL: Society for Cultural Anthropology, “[Scientific Racism](https://culanth.org/fieldsights/anthrobites-scientific-racism)” *AnthroBites podcast* (29 August 2017) 17 minutes
-- Sidney Fussell, “How Surveillance Has Always Reinforced Racism” *Wired* (19 June 2020)
-  * [Interview with Dr. Simone Browne](https://www.wired.com/story/how-surveillance-reinforced-racism/)
-  * [Podcast](https://megaphone.link/CNE5532925482)
-- Brenda Medina and Thomas Frank, “[TSA Agents Say They’re Not Discriminating Against Black Women, But Their Body Scanners Might Be](https://www.propublica.org/article/tsa-not-discriminating-against-black-women-but-their-body-scanners-might-be)” *ProPublica* (17 April 2019)
-  * See also: Jess Kung, Gene Demby, and Shereen Marison Meraji, “[Is ‘race science’ making a comeback?](https://www.npr.org/sections/codeswitch/2019/07/10/416496218/is-race-science-making-a-comeback)” *Code Switch Podcast* (10 June 2019), NPR. 
+- OPTION #1: Gender, nutrition, conditioning
+  * Maggie Mertens, “[Sports Science is Changing How Female Olympians Train. It Could Help You, Too](https://www.npr.org/sections/health-shots/2021/08/03/1024257250/sports-science-is-changing-how-female-olympians-train-it-could-help-you-too)” *NPR* (3 August 2021)
+  * Ken Goe, “[Women athletes allege body shaming within Oregon Ducks track and field program](https://www.oregonlive.com/trackandfield/2021/10/women-athletes-allege-body-shaming-within-oregon-ducks-track-and-field-program.html)” *Oregonian* (25 October 2021)
+  * Dvora Meyers, “[Time for the end of the teen gymnast](https://fivethirtyeight.com/features/gymnasts-age-olympics/)” *FiveThirtyEight* (27 July 2021)
+    * See also:
+      * Patti Neighmond, “[To thrive, many young female athletes need a lot more food](https://www.npr.org/sections/health-shots/2015/08/31/435294539/to-thrive-many-young-female-athletes-need-a-lot-more-food)” *NPR Morning Edition* (31 August 2015)
+      * Lucy Hucks, “[For young female athletes, losing weight may not improve performance](https://www.science.org/content/article/young-female-athletes-losing-weight-may-not-improve-performance)” *Science*(29 July 2020)
+
+- OPTION #2: Sex verification testing
+  * Jaime Schultz, “Women’s Sport and the Questionable Sex” in *Qualifying Times: Points of Change in U.S. Women’s Sport* (University of Illinois Press, 2014): 103-122. [Link to electronic access through Hesburgh Library](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005237787).
+  * Louis J. Elsas, et al., “Gender verification of female athletes” *Genetics in Medicine* 2:4 (2000): 249-254. https://doi.org/10.1097/00125817-200007000-00008
+  * Vox, “[The problem with sex testing in sports](https://youtu.be/MiCftTLUzCI)” *YouTube* (29 June 2019) 13 minutes
+    * See also: Human Rights Watch, “[‘They’re Chasing Us Away from Sport”: Human Rights Violations in Sex Testing of Elite Women Athletes](https://www.hrw.org/report/2020/12/04/theyre-chasing-us-away-sport/human-rights-violations-sex-testing-elite-women)” 2020 report.
 
 ### Lab
-- [Lab: Introduction to machine learning and predictive models in Python](https://github.com/kwaldenphd/machine-learning-intro)
+- RStudio: [Merging and joining in R using dplyr](https://github.com/kwaldenphd/merging-joining-rstudio)
+- Python: [Data wrangling with Pandas](https://github.com/kwaldenphd/eda-pandas)
 
 ### In-Class Work
 - Discussion
@@ -496,11 +512,20 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 6: Policing Gender (at the Olympics) (part 2)
 
 ### Assigned Material
-- Ruha Benjamin, *Race After Technology: Abolitionist Tools for the New Jim Code* (Polity, 2019). [Link to electronic access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005503708).
-  * Pages 1-96 (Introduction through Chapter 2)
+- Background: CHOOSE ONE
+  * Mary Louise Adams, “Sequins, Soundtracks, and Spirals: Producing Gender Difference on the Ice” in *Artistic Impressions: Figure Skating, Masculinity, and the Limits of Sport* (University of Toronto Press, 2011): 197-232. [Link to electronic access via Hesburgh Libraries](https://doi-org.proxy.library.nd.edu/10.3138/9781442695603).
+  * Jaime Schultz, "Reading the Catsuit: Serena Williams and the Production of Blackness at the 2002 U.S. Open" *Journal of Sport and Social Issues* 29:3 (2005): 338-357. [Link to electronic access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_cdi_crossref_primary_10_1177_0193723505276230).
+
+- Articles: FOR EVERYONE
+  * Alex Abad-Santos, “[The Simone Biles scoring controversy, explained](https://www.vox.com/22575301/simone-biles-olympics-scoring-explained-gymnastics-yurchenko-double-pike)” *Vox* (24 July 2021)
+    * For more on Biles: Juliet Macur, “[Simone Biles Dials Up the Difficulty, ‘Because I Can’](https://www.nytimes.com/2021/05/24/sports/olympics/simone-biles-yurchenko-double-pike.html)” *New York Times* (24 May 2021)
+  * Joseph D. Lyons, “[Here’s How Figure Skating Judges ACTUALLY Come Up With Those Scores](https://www.bustle.com/p/how-do-figure-skating-judges-score-performances-at-the-winter-olympics-things-get-complicated-8120361)” *Bustle* (7 February 2018)
+  * Mia Mercado, “[Men & Women’s Figure Skating Are Scored Differently - Here’s Why](https://www.bustle.com/p/do-men-figure-skaters-have-different-scoring-than-women-figure-skaters-yes-heres-why-8162680)” *Bustle* (8 February 2018)
+    * For more background on Olympic figure skating scoring: Jessica Bloustein Marshall, “[A Guide to Scoring Figure Skating at the Olympics](https://www.mentalfloss.com/article/55137/guide-scoring-figure-skating-olympics)” *Mental Floss* (16 February 2018)
 
 ### Lab
-- [Lab: Building your own machine learning model in Python (part 1)](https://github.com/kwaldenphd/building-a-ml-model)
+- RStudio: [Data scraping in R using rvest](https://github.com/kwaldenphd/data-scraping-rvest)
+- Python: [Data scraping in Python]([https://github.com/kwaldenphd/data-scraping-rvest](https://github.com/kwaldenphd/data-scraping-python))
 
 ### In-Class Work
 - Discussion
@@ -513,11 +538,19 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 7: Race, Power, and the National Football League (part 1)
 
 ### Assigned Material
-- Ruha Benjamin, *Race After Technology: Abolitionist Tools for the New Jim Code* (Polity, 2019). [Link to electronic access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005503708).
-  * Pages 97-197 (Chapters 3-5)
+- Thomas Oates and Meenakshi Gigi Durham, “The mismeasure of masculinity: the male body, ‘race,’ and power in the enumerative discourses of the NFL draft” *Patterns of Prejudice* 38:3 (2004), 301-320. [Link to electronic access via Hesburgh Libraries](https://doi-org.proxy.library.nd.edu/10.1080/0031322042000250475).
+- Tracie Canada and Chelsey R. Carter, “[The NFL’s Racist ‘Race Norming’ Is an Afterlife of Slavery](https://www.scientificamerican.com/article/the-nfls-racist-race-norming-is-an-afterlife-of-slavery/)” *Scientific American* (8 July 2021)
+- Fabio Cineas, “[‘Race norming’ and the long legacy of medical racism, explained](https://www.vox.com/22528334/race-norming-medical-racism)” *Vox* (9 July 2021)
+
+- For more on racialized media discourses…
+  * Not something we’re going to be able to cover in class, but linguist Kelly E. Wright is doing cutting-edge work on an algorithm that predicts athlete race based on language used in media coverage. 
+  * Kelly E. Wright, “[Why do we see the Myles Garrett incident as ‘criminal’?](https://theundefeated.com/features/why-do-we-see-the-myles-garrett-incident-as-criminal/)” *Undefeated* (19 November 2021)
+  * Jesse Spector, “[Have You Ever Heard of a ‘Raw and Toolsy,’ ‘Well-Spoken’ White Player?](https://deadspin.com/have-you-ever-heard-of-a-raw-and-toolsy-well-spoken-wh-1844101472)” *Deadspin* (20 June 2020)
+  * End of Sport Podcast, “[The Language of Race and Sport with Kelly E. Wright](https://www.theendofsport.com/episodes/p2g66wr0wb5cboahvau3uuzu80p0zp)” *Podcast* (16 July 2020)
 
 ### Lab
-- [Lab: Building your own machine learning model in Python (part 2)](https://github.com/kwaldenphd/building-a-ml-model)
+- RStudio: [Data visualization in R using ggplot2](https://github.com/kwaldenphd/ggplot-intro)
+- Python: [Introduction to Matplotlib](https://github.com/kwaldenphd/matplotlib-intro)
 
 ### In-Class Work
 - Discussion
@@ -530,18 +563,18 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 8: Race, Power, and the National Football League (part 2)
 
 ### Assigned Material
-- Julia Angwin, Jeff Larson, Surya Mtatu, and Lauren Kirchner, “[Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)” *ProPublica* (23 May 2016). 
-- Jeff Larson, Surya Mattu, Lauren Kirchner, and Julia Angwin, “How We Analyzed the COMPAS Recidivism Algorithm” *ProPublica* (23 May 2016).
-- Explore:
-  * [Google Drive folder that contains following items](https://drive.google.com/drive/folders/1-by_FJK2wi86flevOi2WKmomE6wL93yB?usp=sharing):
-    * Northpointe document collection gathered by ProPublica team
-    * Sentencing reports that include risk assessment, gathered by ProPublica team
-  * [GitHub repository with data files and Jupyter notebook for ProPublica analysis of COMPAS risk scores](https://github.com/propublica/compas-analysis)
+- Thomas Oates, “Chapter 4: Man Mangement: Football Gaming and the ‘Financialization of Daily Life’” in *Football and Manliness: An Unauthorized Feminist Account of the NFL* (University of Illinois Press, 2017): 129-154. [Link to electronic access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph004548467).
+- Colin Dwyer, “[California Governor Signs Bill Allowing College Athletes to Profit From Endorsements](https://www.npr.org/2019/09/30/765700141/california-governor-signs-bill-allowing-college-athletes-to-profit-from-endorsem)” *NPR* (30 September 2019)
+- Andrew Brandt, “[Business of Football:  The Supreme Court Sends a Message to the NCAA](https://www.si.com/nfl/2021/06/29/business-of-football-supreme-court-unanimous-ruling)” *Sports Illustrated* (29 June 2021)
 
-  * See also: Jerry Iannellli, “[Florida’s ‘secret’ formulas to calculate release dates may be trapping people in prison](https://theappeal.org/floridas-secret-formulas-to-calculate-release-dates-may-be-trapping-people-in-prison/)” *Appeal* (20 May 2021)
+- For more context and recent developments:
+  * Dan Murphy, “[Everything you need to know about the NCAA’s NIL debate](https://www.espn.com/college-sports/story/_/id/31086019/everything-need-know-ncaa-nil-debate)” *ESPN* (1 September 2021)
+  * Jimmy Golen, “[Memo from NLRB Lawyer Says College Football Players are Employees](https://chicago.suntimes.com/2021/9/29/22700818/northwestern-nlrb-lawyer-memo-ollege-football-players-are-employees)” *Chicago Sun Times* (29 September 2021)
+  * Notre Dame Law School, “[The Changing Landscape of NCAA Student-Athlete Compensation](https://youtu.be/yZ8EfzYJ3Ws)” *YouTube* (25 October 2021)
 
 ### Lab
-- [Lab: ProPublica COMPAS analysis](https://github.com/kwaldenphd/propublica-compas-lab)
+- RStudio: [Getting started with statistics in R](https://github.com/kwaldenphd/intro-statistics-rstudio)
+- Python: [More with Matplotlib/Plotting with Pandas](https://github.com/kwaldenphd/more-with-matplotlib)
 
 ### In-Class Work
 - Discussion
@@ -556,22 +589,18 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 10: Basketball, Analytics, and  the Geography of Moving Dots (part 1)
 
 ### Assigned Material
-- Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism* (New York University Press, 2018). [Link to electronic access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005505291).
-  * Chapter 1 (15-63)
-  * Chapter 3 (110-118)
+- Yago Colás, *Numbers Don’t Lie: New Adventures in Counting and What Counts in Basketball Analytics* (University of Nebraska Press, 2020). [Link to electronic access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/3qusnn/ndu_aleph005971147).
+  * Introduction (1-18)
+  * Chapter 1 “The Science of Moving Dots” (50-72)
+  * Chapter 5 “Counting for Character” (118-132)
+  * Chapter 7 “Counting for Commerce in College Basketball” (160-171)
+  * Chapter 8 “Counting for Commerce in the NBA” (176-190)
+    * *78 total pages*
 
-- U.S. House of Representatives Permanent Select Committee on Intelligence, “[Exposing Russia’s Effort to Sow Discord Online: The Internet Research Agency and Advertisements](https://intelligence.house.gov/social-media-content/default.aspx)” *U.S. House of Representatives* (16 February 2018).
 
-- EXPLORE:
-  * U.S. House of Representatives Permanent Select Committee on Intelligence, “[Social Media Advertisements](https://intelligence.house.gov/social-media-content/social-media-advertisements.htm)” *U.S. House of Representatives* (2018).
-  * Ed Summers, “[Internet Research Facebook ads as structured data](https://github.com/umd-mith/irads)” *GitHub repository*.
-  * [Internet Research Agency Ads digital project](https://archive.mith.umd.edu/irads/), Maryland Institute for Technology and the Humanities.
-  * Simon Willison’s “Analyzing US Election Russian Facebook Ads”
-    * [Blog post](https://simonwillison.net/2018/Aug/6/russian-facebook-ads/)
-    * [Searchable interface](https://russian-ira-facebook-ads.datasettes.com/)
-
-### Lab:
-- [Lab: Social media, feed curation, and targeted advertising](https://github.com/kwaldenphd/social-media-targeted-advertising)
+### Lab
+- RStudio: [Interactive visualization in R with Plotly](https://github.com/kwaldenphd/plotly-intro-r/tree/sport-data)
+- Python: [Interactive visualization in Python](https://github.com/kwaldenphd/interactive-visualization-python)
 
 ### In-Class Work
 - Discussion
@@ -585,29 +614,13 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 11: Basketball, Analytics, and  the Geography of Moving Dots (part 2)
 
 ### Assigned Material
-- Claire Galligan, Hannah Rosenfeld, Molly Kleinman, Shobita Parthasarathy, “[Cameras in the Classroom: Facial Recognition Technology in Schools](https://stpp.fordschool.umich.edu/research/research-report/cameras-classroom-facial-recognition-technology-schools)” *University of Michigan’s Science, Technology, and Public Policy Program* (25 August 2020)
-  * The whole report is 115 pages- we’ll focus on the [13 page executive summary](https://stppstage.fordschool.umich.edu/sites/stpp/files/2021-07/cameras_in_the_classroom_executive_summary.pdf)
+- Kirk Goldsberry and Aaron Dana, *Sprawlball: A Visual Tour of the New Era of the NBA* (Houghton Mifflin Harcourt, 2019). [Link to electronic access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005100657).
+  * Introduction (2-35)
+  * Chapter 1 (36-69)
+  * Chapter 7 (190-230)
+    * *106 total pages (with LOTS of pictures/figures)*
 
-- Jack Gillum and Jeff Kao, with photography by Adrienne Grunwald, “[Aggression Detectors: The Unproven, Invasive Surveillance Technology Schools Are Using to Monitor Students](https://features.propublica.org/aggression-detector/the-unproven-invasive-surveillance-technology-schools-are-using-to-monitor-students/)” *ProPublica* (25 June 2019)
-
-- Jennifer Smith Richards, Jodi S. Cohen, and Lakeidra Chavis, with photography by Zbigniew Bzdak, “[The Quiet Rooms: Children are being locked away, alone and terrified, in schools across Illinois. Often, it’s against the law](https://features.propublica.org/illinois-seclusion-rooms/school-students-put-in-isolated-timeouts/)” *ProPublica Illinois* (19 November 2019)
-  * [More reporting from this investigation](https://www.propublica.org/series/illinois-school-seclusions-timeouts-restraints), a collaboration between ProPublica Illinois and the Chicago Tribune
-
-- Coshandra Dillard, “[Envisioning School Safety Without Police](https://www.learningforjustice.org/magazine/fall-2021/envisioning-school-safety-without-police)” *Learning for Justice* (Fall 2021)
-
-- See also:
-  * Georgetown Law’s Center on Poverty and Inequality has an Initiative on Gender Justice and Opportunity doing [ongoing research on education and pushout for girls of color](https://genderjusticeandopportunity.georgetown.edu/school-and-pushout/)
-  * American Civil Liberties Union, et al, “[The Cost of School Policing: What Florida’s students have paid for a pretense of security](https://www.aclufl.org/en/publications/cost-school-policing)” *ACLU Florida* (2 September 2020)
-  * Two-part ACLU report:
-    * UCLA Center for Civil Rights Remedies and ACLU of Southern California, “[11 Million Days Lost: Race, Discipline, and Safety and U.S. Public Schools](https://www.aclu.org/report/11-million-days-lost-race-discipline-and-safety-us-public-schools-part-1)” *ACLU* (24 August 2018)
-    * ACLU et al, “[Cops and no Counselors: How the Lack of School Mental Health Staff is Harming Students](https://www.aclu.org/report/cops-and-no-counselors)” *ACLU* (4 May 2019)
-  * Meribah Knight and Ken Armstrong, “[Black Children Were Jailed for a Crime That Doesn’t Exist. Almost Nothing Happened to the Adults in Charge](https://www.propublica.org/article/black-children-were-jailed-for-a-crime-that-doesnt-exist)” *ProPublica* (8 October 2021)
-  * Colin Lecher and Maddy Varner, “[NYC’s School Algorithms Cement Segregation. This Data Shows How](https://themarkup.org/news/2021/05/26/nycs-school-algorithms-cement-segregation-this-data-shows-how)” *Markup* (26 May 2021)
-  * Mark Keierleber, “[Gaggle Surveils Millions of Kids in the Name of Safety. Targeted Families Argue it’s ‘Not That Smart’](https://www.the74million.org/article/gaggle-surveillance-minnesapolis-families-not-smart-ai-monitoring/)” *74 Million* (12 October 2021)
-  * Heather Schlitz, “[Schools often use AI to find students in crisis - one software-monitoring company reported 5,000 self-harm situations in a single week](https://www.businessinsider.com/school-students-communication-monitoring-ai-software-self-harm-suicide-risks-2021-9)” *Insider* (21 September 2021)
-
-### Lab:
-- [Lab: Race and surveillance tech in K12 education](https://github.com/kwaldenphd/race-surveillance-education)
+### Lab: NONE
 
 ### In-Class Work
 - Discussion
@@ -619,31 +632,41 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 12: Current Issues (part 1): Measuring Diversity
 
 ### Assigned Material
-- Last Week Tonight with John Oliver, “[Facial Recognition](https://youtu.be/jZjmlJPJgug)” *YouTube* (15 June 2020)
+- NCAA Gender Equity Reviews (pick one):
+  * Phase 1 (basketball championships, 2021 tournament)
+    * [Press Release](https://ncaagenderequityreview.com/phase-i-report-announcement/)
+    * [Executive Summary](https://kaplanhecker.app.box.com/s/xc1v5gjnmk4ndku1s2n2n1net4fwczeh)
+    * [Full Report](https://kaplanhecker.app.box.com/s/6fpd51gxk9ki78f8vbhqcqh0b0o95oxq)
 
-- EXPLORE: [Gender Shades project website](http://gendershades.org/index.html), MIT Media Lab.
-  * See also:
-    * Joy Buolamwini and Timnit Gebru, “[Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)” *Proceedings of Machine Learning Research Conference on Fairness, Accountability, and Transparency 81* (2018): 1-15.
-    * Todd Feathers, “[Google’s New Dermatology App Wasn’t Designed for People With Darker Skin](https://www.vice.com/en/article/m7evmy/googles-new-dermatology-app-wasnt-designed-for-people-with-darker-skin)” *Vice* (20 May 2021)
+  * Phase 2 (media/sponsorships, baseball/softball, hockey, lacrosse, volleyball, gymnastics, tennis, swimming/diving, soccer, golf, single-gender sports)
+    * [Press Release](https://ncaagenderequityreview.com/phase-ii-report-announcement/)
+    * [Executive Summary](https://kaplanhecker.app.box.com/s/h7hn9iz9i0sxtjbitroognr1ptm43z5g)
+    * [Full Report](https://kaplanhecker.app.box.com/s/y17pvxpap8lotzqajjan9vyye6zx8tmz)
 
-- Kashmir Hill, “[Wrongfully Accused by an Algorithm](https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html)” *New York Times* (24 June 2020).
+  * For more background on the 2021 basketball championships and phase I report:
+    * Becky Sullivan, “[Under fire, the NCAA apologizes and unveils new weight room for women’s tournament](https://www.npr.org/2021/03/20/979596524/under-fire-the-ncaa-apologizes-and-unveils-new-weight-room-for-womens-tournament)” *NPR* (20 March 2021)
+    * Morgan Campbell, “[NCAA’s weight-room fiasco, clumsy attempts to explain it are the real March Madness](https://www.cbc.ca/sports/ncaa-s-weight-room-fiasco-clumsy-attempts-to-explain-it-are-the-real-march-madness-1.5960760)” *CBC* (23 March 2021)
+    * Athletic Staff, “[Gender equity review: NCAA’s focus on revenue drives inequity](https://theathletic.com/news/gender-equity-review-ncaas-focus-on-revenue-drives-inequity/0DrYIuXB8KWI/)” *Athletic* (26 October 2021)
+    * Associated Press, “[NCAA to pay officials same in both basketball tournaments](https://www.espn.com/womens-college-basketball/story/_/id/32889830/ncaa-pay-officials-same-basketball-tournaments)” *ESPN* (17 December 2021)
+  * For more background on 2021 women’s college world series and phase II report:
+    * Ryan Aber, “[‘I want to help this sport’: OU coach Patty Gasso happy to be voice for change in college softball](https://www.oklahoman.com/story/sports/2021/06/24/ou-softball-sooners-coach-patty-gasso-embraces-role-college-softball-advocate/7779706002/)” *Oklahoman* (24 June 2021)
+    * ESPN, “[OU coach sounds off on ‘unfair’ WCWS schedule](http://www.espn.com/video/clip?id=31580108)” *NCAA Softball* (June 2021)
 
-- Ryan Mac, Caroline Haskins, Brianna Sacks, and Logan McDonald, "[Surveillance Nation: How A Facial Recognition Tool Found Its Way Into Hundreds Of US Police Departments, Schools, And Taxpayer-Funded Organizations](https://www.buzzfeednews.com/article/ryanmac/clearview-ai-local-police-facial-recognition)" *BuzzFeed News* (6 April 2021).
+- Adam Rittenberg and ESPN Creative Studio, “[Black Hires in College Football Leadership](https://www.espn.com/espn/feature/story/_/id/31905530/the-history-black-hires-college-football-leadership)” *ESPN* (May 2021)
+  * For more on FBS head-coach demographics:
+    * Adam Rittenberg, “[Even with the recent push for diversity, fewer Black coaches getting top FBS head-coaching jobs](https://theundefeated.com/features/even-with-the-recent-push-for-diversity-fewer-black-coaches-getting-top-fbs-head-coaching-jobs/)” *Undefeated* (19 May 2021)
 
-- SKIM: Todd Feathers, “[Gunshot-detecting tech is summoning armed police to black neighborhoods](https://www.vice.com/en/article/88nd3z/gunshot-detecting-tech-is-summoning-armed-police-to-black-neighborhoods)” *Vice* (19 July 2021)
-  * ShotSpotter responds: Lachlan Cartwright and Maxwell Tani, “[Vice hit with $300M suit from controversial surveillance company](https://www.thedailybeast.com/vice-hit-with-dollar300m-suit-from-spotshooter)” *Vice* (12 October 2021)
-  * For more on ShotSpotter:
-    * Brooke Jarvis, “[Listening for Gunshots](https://story.californiasunday.com/shotspotter-gunshot-surveillance/)” *California Sunday Magazine* (29 September 2016)
-    * Garance Burke, Martha Mendoza, Juliet Linderman, and Michael Tarm, “[How AI-powered tech landed man in jail with scant evidence](https://apnews.com/article/artificial-intelligence-algorithm-technology-police-crime-7e3345485aa668c97606d4b54f9b6220)” *Associated Press* (19 August 2021)
+- [The Institute for Diversity and Ethics in Sport](https://www.tidesport.org/) (TIDES) annual reports (choose most recent report for one organization/league):
+  * [NBA](https://www.tidesport.org/nba)
+  * [NFL](https://www.tidesport.org/nfl)
+  * [MLB](https://www.tidesport.org/mlb)
+  * [MLS](https://www.tidesport.org/mls)
+  * [WNBA](https://www.tidesport.org/wnba)
+  * [NCAA](https://www.tidesport.org/college)
+  * [D1 FBS NCAA leadership](https://www.tidesport.org/division-1-leadership)
+  * [Sports Media](https://www.tidesport.org/associated-press-sports-editors)
 
-- See also: 
-  * Federal law enforcement: Rachel Metz, “[Facial recognition tech has been widely used across the US government for years, a new report shows](https://www.cnn.com/2021/06/30/tech/government-facial-recognition-use-gao-report/index.html?utm_source=optzlynewmarketribbon)” *CNN* (30 June 2021)
-  * Urban surveillance in New Orleans: Michael Isaaca Stein, Caroline Sinders and Winnie Yoe, “[Neighborhoods watched: the rise of urban mass surveillance](https://surveillance.thelensnola.org/)” *Lens* (21 October 2021) 
-  * Clare Garvie, Alvaro Bedoya, Jonathan Frankle, “[The Perpetual Line-Up: Unregulated Police Face Recognition in America](https://www.perpetuallineup.org/)” *Georgetown Law Center on Privacy and Technology* (18 October 2016)
-  * Nicholas Bogel-Burroughs and Frances Robles, “[When Police Lie, the Innocent Pay. Some Are Fighting Back](https://www.nytimes.com/2021/08/28/us/false-police-statements.html)” *New York Times* (28 August 2021)
-
-### Lab:
-- [Lab: Facial recognition and racialized surveillance in law enforcement](https://github.com/kwaldenphd/facial-recognition)
+### Lab: NONE
 
 ### In-Class Work
 - Discussion
@@ -656,25 +679,26 @@ Assigned material not openly available online is available through Hesburgh Libr
 ## Week 13: Current Issues (part 2): What Gets Counted Counts
 
 ### Assigned Material
-- Read:
-  * Joy Buolamwini, “[We Must Fight Face Surveillance to Protect Black Lives: An Urgent Letter from the Algorithmic Justice League](https://onezero.medium.com/we-must-fight-face-surveillance-to-protect-black-lives-5ffcd0b4c28a),” *OneZero* (3 June 2020). 
-    * Explore: [Algorithmic Justice League organization website](https://www.ajl.org/library/home)
-  * Caroline Haskins and Ryan Mac, “[Here are the Minneapolis Police’s Tools to Identify Protestors](https://www.buzzfeednews.com/article/carolinehaskins1/george-floyd-protests-surveillance-technology)” *Buzzfeed* (29 May 2020). 
+- Brakkton Booker, “[MLB recognizes Negro Leagues as ‘Major League’ - correcting a ‘longtime oversight’](https://www.npr.org/2020/12/16/947226542/mlb-corrects-longtime-oversight-now-recognizes-negro-league-as-major-league)” *NPR* (16 December 2020)
+- Tyler Kepner, “[Baseball Rights a Wrong by Adding Negro Leagues to Official Records](https://www.nytimes.com/2020/12/16/sports/baseball/mlb-negro-leagues.html)” *New York Times* (16 December 2020)
+- Howard Bryant, “[MLB can add Negro Leagues to official records but can never change what it did to Black players](https://www.espn.com/mlb/story/_/id/30540089/mlb-add-negro-leagues-official-records-never-change-did-black-players)” *ESPN* (18 December 2020)
 
-- Explore:
-  * Electronic Frontier Foundation, “[Street-Level Surveillance](https://www.eff.org/issues/street-level-surveillance)” project
-  * Electronic Frontier Foundation, “[Atlas of Surveillance: Documenting Police Tech in Our Communities with Open Source Research](https://atlasofsurveillance.org/about)” project
-  * Electronic Frontier Foundation, “[Spot the Surveillance: A VR Experience for Keeping an Eye on Big Brother](https://www.eff.org/pages/spot-surveillance-vr-experience-keeping-eye-big-brother)” project
+- See also:
+  * Major League Baseball, “[MLB officially designates the Negro Leagues as ‘Major League’](https://www.mlb.com/press-release/press-release-mlb-officially-designates-the-negro-leagues-as-major-league)” *Major League Baseball* (17 December 2020)
+  * Clinton Yates, “[MLB elevating the status of Negro Leagues is the problem, not the solution](https://theundefeated.com/features/mlb-elevating-the-status-of-negro-leagues-is-the-problem-not-the-solution/)” *Undefeated* (16 December 2020)
 
-- Additional resources:
-  * Charlie Warzel and Stuart A. Thompson, “[How Your Phone Betrays Democracy](https://www.nytimes.com/interactive/2019/12/21/opinion/location-data-democracy-protests.html)” *New York Times* (21 December 2019)
-  * Dave Biscobing, “[‘Prime for abuse’: Lack of oversight lets Phoenix police add protesters to gang database](https://www.abc15.com/news/local-news/investigations/protest-arrests/prime-for-abuse-lack-of-oversight-lets-phoenix-police-add-protesters-to-gang-database)” *ABC15 Arizona* (24 May 2021)
-  * Matt Cagle, “[Recordings show the California Highway Patrol’s aerial  surveillance of racial justice protests](https://www.aclunc.org/blog/recordings-show-california-highway-patrol-s-aerial-surveillance-racial-justice-protests)” *ACLU Northern California* (16 November 2021)
-  * Urban surveillance in New Orleans: Michael Isaaca Stein, Caroline Sinders and Winnie Yoe, “[Neighborhoods watched: the rise of urban mass surveillance](https://surveillance.thelensnola.org/)” *Lens* (21 October 2021)
-  * Domestication of prison tech: Erin McElroy, Meredith Whitaker, and Nicole E. Weber, “[Prison Tech Comes Home](http://www.publicbooks.org/prison-tech-comes-home/)” *Public Books* (18 August 2021)
+- Baseball Reference, “[The Negro Leagues are Major Leagues](https://www.baseball-reference.com/negro-leagues-are-major-leagues.shtml)” *Baseball Reference* (June 2021)
 
-### Lab:
-- [Lab: Data visceralization and environmental scan](https://github.com/kwaldenphd/data-visceralization)
+- Gary Ashwill, “[Building the Seamheads Negro League Database](https://www.baseball-reference.com/articles/building-the-seamheads-negro-league-database-gary-ashwill.shtml)” *Baseball Reference* (June 2021)
+
+- See also:
+  * Sports Reference, [*The Negro Leagues are Major Leagues podcast*](https://anchor.fm/sports-reference/) (summer 2021)
+  * James Wagner, “[Baseball Reference Adds Negro Leagues Statistics, Rewriting Its Record Book](https://www.nytimes.com/2021/06/15/sports/baseball/baseball-reference-negro-leagues.html)” *New York Times* (15 June 2021)
+  * Bill Chappell, “[Museum Head: Baseball’s Embrace of Negro Leagues is an Atonement, Not a Validation](https://www.npr.org/2021/06/18/1007196761/baseball-negro-leagues-black-players-history-reference)” *NPR* (18 June 2021)
+
+- See also: Sports Reference, “[Changing Player Identification Names from Player Nicknames to Given Names](https://www.sports-reference.com/blog/2021/04/sports-reference-changing-player-identification-names-from-player-nicknames-to-given-names/)” *Sports Reference* (30 April 2021)
+
+### Lab: NONE
 
 ### In-Class Work
 - Discussion
