@@ -326,7 +326,7 @@ Assigned material not openly available online is available through Hesburgh Libr
   * “Introduction” (1-22)
 
 - Murray Sperber, *Shake Down the Thunder: The Creation of Notre Dame Football* (Holt and Company, 1993). [Link to online access via Internet Archive](https://archive.org/details/shakedownthunder00sper).
-  * Chapters 1-5 (3-36) PDF on Canvas, [link to access via Google Drive](https://drive.google.com/file/d/1OnYRzVAWt4fhnAKrvn3R5j-OO0d4rEN2/view?usp=sharing)
+  * Chapters 1-5 (3-36) PDF on Canvas, [link to access via Google Drive](https://drive.google.com/file/d/1fskkb5nSsJtG0c_tueIUZfSCzBX3jI_r/view?usp=sharing)
 
 #### Digital Method Readings
 - David J. Staley, “Computers, Visualization, and the Representation of History” *Historically Speaking* 4:4 (2003): 40-42. [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_cdi_crossref_primary_10_1353_hsp_2003_0065).
@@ -349,7 +349,7 @@ Assigned material not openly available online is available through Hesburgh Libr
   * “Chapter 2" (65-100)
 
 - Murray Sperber, *Shake Down the Thunder: The Creation of Notre Dame Football* (Holt and Company, 1993). [Link to online access via Internet Archive](https://archive.org/details/shakedownthunder00sper).
-  * Chapter 10 (67-70), Chapter 11 (71-78), Chapter 12 (79-83). [Link to Google Drive PDF]().
+  * Chapter 10 (67-70), Chapter 11 (71-78), Chapter 12 (79-83). [Link to Google Drive PDF](https://drive.google.com/file/d/1Bj70lOJFKSp3yBlxIAUjpmt8oq30Rp3S/view?usp=sharing).
 
 #### Digital Method Readings
 - Kirsten Bussière, “[Chapter 4- Text Analysis](https://carletonu.pressbooks.pub/digh5000/chapter/chapter-4-text-analysis/)” in *Digital Humanities: A Primer* (Carleton University).
@@ -407,7 +407,7 @@ Assigned material not openly available online is available through Hesburgh Libr
   * Chapter 20, Blast-off (163-172)
   * Chapter 21, The Four Horsemen--Grantland Rice versus Reality (173-182)
   * Chapter 24, Knute Rockne Inc (223-240)
-  * [Link to Google Drive PDF]()
+  * [Link to Google Drive PDF](https://drive.google.com/file/d/1yMKCoByWwOht1uhAi7w6U9HxjMEEFIbU/view?usp=sharing)
 
 #### Digital Method Readings
 - No assigned materials- primary source research and textual analysis methods research as needed for the lab.
@@ -433,7 +433,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Murray Sperber, *Shake Down the Thunder: The Creation of Notre Dame Football* (Holt and Company, 1993). [Link to online access via Internet Archive](https://archive.org/details/shakedownthunder00sper).
   * Chapter 25, Anti-aircraft Fire from the College Sports Reformers (241-272)
   * Chapter 27, Rockne Attacks the College Sports Reformers (296-322)
-  * [Link to Google Drive PDF]()
+  * [Link to Google Drive PDF](https://drive.google.com/file/d/1glI7RjAiUDsmoQhDRJgw8ho39LfURWhJ/view?usp=sharing)
 
 #### Digital Method Readings
 - Miriam Posner, “[Humanities Data: A Necessary Contradiction](https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)” *Keynote at Harvard Purdue Data Management Symposium( (25 June 2015)
@@ -455,7 +455,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Murray Sperber, *Shake Down the Thunder: The Creation of Notre Dame Football* (Holt and Company, 1993). [Link to online access via Internet Archive](https://archive.org/details/shakedownthunder00sper).
   * Chapter 29, The Death and Reform of Rockne (347-364)
   * Chapter 31, After Rockne in 1931 (371-387)
-  * [Link to Google Drive PDF]()
+  * [Link to Google Drive PDF](https://drive.google.com/file/d/1JEmcwDXF98-qBDGXCQ3GJAmaTJBsQwXC/view?usp=sharing)
 
 
 - Jaime Schultz, *Moments of Impact: Injury, Racialized Memory, and Reconciliation in College Football* (University of Nebraska Press, 2016). [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph004319131).
@@ -490,7 +490,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 - Murray Sperber, *Shake Down the Thunder: The Creation of Notre Dame Football* (Holt and Company, 1993). [Link to online access via Internet Archive](https://archive.org/details/shakedownthunder00sper).
   * Chapter 36, Beginning Knute Rockne--All American (464-472)
   * Chapter 37, Filming Knute Rockne--All American (473-483)
-  * [Link to Google Drive PDF]()
+  * [Link to Google Drive PDF](https://drive.google.com/file/d/1L0MM8RFyXTk3Zy57xpCABSX3myYLGzkO/view?usp=sharing)
 
 - Sherry Lindquist, “Memorializing Knute Rockne at the University of Notre Dame: Collegiate Gothic Architecture and Institutional Identity” *Winterthur Portfolio* 46:1 (2012): 1-24. [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_cdi_crossref_primary_10_1086_665045).
 
@@ -526,21 +526,21 @@ Assigned material not openly available online is available through Hesburgh Libr
   * Chapter 38, The End of the Rockne Era (484-494)
   * Chapter 39, The End of the Creation of Notre Dame Football (495-498)
   * Epilogue (499-502)
-  * [Link to Google Drive PDF]()
+  * [Link to Google Drive PDF](https://drive.google.com/file/d/1qXud531kA98UfCigy4EN69dHvql-yT7U/view?usp=sharing)
 
 - Assorted materials related to Frank Leahy (skim):
   * Wells Twombly, *Shake Down the Thunder! The Official Biography of Notre Dame’s Frank Leahy* (Chilton, 1972).
     * Prologue (xi-xiii)
     * Table of contents
-    * [Link to Google Drive PDF]()
+    * [Link to Google Drive PDF](https://drive.google.com/file/d/1tN68OSNrqmGWDJEUSW33MZxeQj-8GwGR/view?usp=sharing)
  
- * Jack Connor, *Leahy’s Lads: The Story of the Famous Notre Dame Football Teams of the 1940s* (Diamond Communications, 1997).
+ * Jack Connor, *Leahy’s Lads: The Story of the Famous Notre Dame Football Teams of the 1940s* (Diamond Communications, 1997). [Link to online access via Internet Archive](https://archive.org/details/leahysladsstoryo0000conn).
     * Chapter 1, Leahy’s Early Years (1-8)
     * Chapter 2, Notre Dame (9-19) 
     * Chapter 14, Looking Back (265-293)
     * Epilogue (312-314)
     * Leahy’s Lads, Team Rosters (321-329)
-    * [Link to Google Drive PDF]().
+    * [Link to Google Drive PDF](https://drive.google.com/file/d/1Efa3so7U8AY59QkkUTLWgvutvbU72wVe/view?usp=sharing).
 
 #### Digital Method Readings
 - Explore select digital projects- [link to prompt]() (prompt also on Canvas)
@@ -575,7 +575,7 @@ Assigned material not openly available online is available through Hesburgh Libr
   * Foreword (ix-x)
   * Preface (xi-xiv)
   * Chapter 1, Playing Football in Ara’s Era (3-18)
-  * [Link to Google Drive PDF]()
+  * [Link to Google Drive PDF](https://drive.google.com/file/d/1s8nv9Nhx_xxBlAHP12JFOS5e73Wh-Wpx/view?usp=sharing)
 
 #### Digital Method Readings: None
 
@@ -602,7 +602,7 @@ Assigned material not openly available online is available through Hesburgh Libr
     * Chapter 3, The Game of the Century (37-52)
     * Excerpt from Chapter 4, Politics, Protest, and the Athletics Revolution (62-65)
     * Chapter 5, Laying the Groundwork for Professional College Sport (67-80)
-    * [Link to Google Drive PDF]()
+    * [Link to Google Drive PDF](https://drive.google.com/file/d/1_kfyMSxHPX4wAFIMiVsPTBBpU2JsxIsf/view?usp=sharing)
 
 #### Digital Method Readings: None
 
@@ -638,7 +638,7 @@ Assigned material not openly available online is available through Hesburgh Libr
     * Chapter 7, Building an Industry on Athletes’ Backs (111-126)
     * Chapter 8, Fighting for Market Share in the 1990s (127-143)
     * Chapter 10, College Sports in the Age of Academic Capitalism (161-179)
-    * [Link to Google Drive PDF]()
+    * [Link to Google Drive PDF](https://drive.google.com/file/d/1ZRdoHlGCyGtzeJuqBl50Ka1EFhTtv-xz/view?usp=sharing)
 
 #### Digital Method Readings
 
