@@ -21,7 +21,10 @@ This syllabus and all course materials have been prepared in conversation with a
 
 # Description and Goals
 
-![Tweet image from Asha Rosa. "These boxes visualize Chicago’s city budget. The tall stack is the $1.8 billion police budget. Housing & public health each only have one box. #DefundPolice #DefundCPD" (4 July 2020)](https://pbs.twimg.com/media/EcGpQNIWAAUUFFz?format=jpg&name=900x900)
+<p align='center'>
+ <img src="https://pbs.twimg.com/media/EcGpQNIWAAUUFFz?format=jpg&name=900x900" alt= "Tweet image from Asha Rosa. "These boxes visualize Chicago’s city budget. The tall stack is the $1.8 billion police budget. Housing & public health each only have one box. #DefundPolice #DefundCPD" (4 July 2020)">
+ </p>
+
 *[Tweet image from Asha Rosa](https://twitter.com/ashapoesis/status/1279489934576046085?s=20). "These boxes visualize Chicago’s city budget. The tall stack is the $1.8 billion police budget. Housing & public health each only have one box. #DefundPolice #DefundCPD" (4 July 2020)*
 
 Feminism isn't only about women, nor is feminism only for women. Feminism is about power - about who has it and who doesn't. And in today's world, data is power. Data can be used to create communities, advance research, and expose injustice. But data can also be used to discriminate, marginalize, and surveil. This course will draw intersectional feminist theory and activism to identify models for challenging existing power differentials in data science, with the aim of using data science methods and tools to work towards justice. Class meetings will be split between discussions of theoretical readings and explorations of data science tools and methods (such as Tableau, RStudio, and Python). This course will also examine the data advocacy and activism work undertaken by groups like Our Data Bodies, Data for Black Lives, the Anti-Eviction Mapping Project, and Chicago-based Citizens Police Data Project. Over the course of the semester, students will develop original research projects that use data to intervene in issues of inequality and injustice. This course is not about gaining mastery of particular data science tools or methods, therefore familiarity with statistical analysis or data science tools (R, RStudio, Python, etc.) is NOT a prerequisite for this course. 
