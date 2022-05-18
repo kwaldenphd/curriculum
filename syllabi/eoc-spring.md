@@ -22,6 +22,7 @@ This syllabus and all course materials have been prepared in conversation with a
 # Description and Goals
 
 ![Marshmallow Peeps help familiarize students with data visualizations and analysis, Photo: Gissoo Doroudian, from Jim Casey, “Taste the Data!” Princeton Center for Digital Humanities, 15 May 2019](https://cdh.princeton.edu/media/images/peeps_img_7254.max-1536x2158.jpg)
+
 *Marshmallow Peeps help familiarize students with data visualizations and analysis (Photo: Gissoo Doroudian) from Jim Casey, “[Taste the Data!](https://cdh.princeton.edu/updates/2019/05/15/taste-data/)” Princeton Center for Digital Humanities (15 May 2019).*
 
 This course covers intermediate level programming in Python, building on concepts covered in Elements of Computing I. Topics we will cover include data structures; relational database systems; and data manipulation, analysis, and communication in a Python programming environment. Along the way, we will be considering how data can be used to create communities, advance research, and expose injustice. But data can also be used to discriminate, marginalize, and surveil. This course will equip you to work with data in a programming environment while also considering larger questions around data and its social and cultural impact.
