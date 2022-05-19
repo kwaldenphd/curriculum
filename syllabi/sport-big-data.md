@@ -5,6 +5,7 @@
 
 ## Table of Contents
 
+- [Past Syllabi](#past-syllabi)
 - [Description and Goals](#description-and-goals)
 - [Textbook](#textbook)
 - [Technology](#technology)
@@ -18,6 +19,12 @@
 ## Acknowledgements
 
 This syllabus and all course materials have been prepared in conversation with and adapted from the examples and work of many generous colleagues, including but not limited to: Dr. Liz Rodrigues, Dr. Lindsay K. Mattock, Dr. Anelise Hanson-Shrout, Dr. Jesse Stommel, Professor Sean Michael Morris, Dr. Alfie Kohn, Dr. Peter Elbow, Dr. Lauren F. Klein, Dr. Catherine D’Ignazio, Dr. Shannon Mattern, Dr. Virginia Eubanks, the #DataFeminism book club, Dr. Miriam Posner, and Jarren Santos. Previous cohorts of students who have taken this class have also provided critical feedback on their experiences, and this feedback is instrumental in shaping future iterations of the course.
+
+# Past Syllabi
+
+Google Docs (ND users only):
+- [Spring 2021](https://docs.google.com/document/d/1CJBWcJ00WbYResMf11z0VUt9gaXL16wqqcsDFo3uAE0/edit?usp=sharing)
+- [Spring 2022](https://docs.google.com/document/d/1f7wedl56M7mBPpPDJ8VTEhMf3NzOXsr5q-b0qNMFRG0/edit?usp=sharing)
 
 # Description and Goals
 
