@@ -4,6 +4,16 @@
 <a href="https://github.com/kwaldenphd/">Katherine Walden</a> has licensed this content under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 # Table of Contents
+- [Introduction](#introduction)
+- [Chapter 1: Examine Power](#chapter-1-examine-power)
+- [Chapter 2: Challenge Power](#chapter-2-challenge-power)
+- [Chapter 3: Elevate Emotion and Embodiment](#chapter-3-elevate-emotion-and-embodiment)
+- [Chapter 4: Rethink Binaries and Hierarchies](#chapter-4-rethink-binaries-and-hierarchies)
+- [Chapter 5: Embrace Pluralism](#chapter-5-embrace-pluralism)
+- [Chapter 6: Consider Context](#chapter-6-consider-context)
+- [Chapter 7: Make Labor Visible](#chapter-7-make-labor-visible)
+- [Conclusion](#conclusion)
+- [Other](#other)
 
 # Introduction
 ## Materials
@@ -18,6 +28,10 @@
   * [Google Drive](https://drive.google.com/drive/folders/1NH2pQoPFy4kl9qJtOGTqNeoX0Q3u4rQl?usp=sharing)
 - [Sample slide deck](https://docs.google.com/presentation/d/1huP4IpgFchYWqBgIEP0lN3ZEW7DnslmGgwzNxUzcwJk/edit?usp=sharing)
 - [Google Doc template](https://docs.google.com/document/d/1ojry06G_GTrLLo6CJ4Ej2FeC28r-jijWNBEzVw_9a0Q/edit?usp=sharing)
+
+## Labs
+- Data Feminism (RStudio): [Getting started with RStudio](https://github.com/kwaldenphd/rstudio-intro)
+- Elements of Computing: [Web APIs in Python](https://github.com/kwaldenphd/apis-python)
 
 # Chapter 1: Examine Power
 ## Materials
@@ -36,6 +50,9 @@
 - [Sample slide deck](https://docs.google.com/presentation/d/1MY91S-JXs0IMKQz4O95ZWFZklFbBzNElDbacwPJ8Zio/edit?usp=sharing)
 - [Google Doc template](https://bit.ly/datafeminism-sept7)
 
+## Labs
+- Data Feminism (RStudio): [Tidy data with tidyr](https://github.com/kwaldenphd/tidy-data-r-intro)
+- Elements of Computing: [Final project, identifying a data source checkpoint](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/assignment-prompt.md#identify-a-data-source)
 # Chapter 2: Challenge Power
 ## Materials
 - Reading
@@ -52,6 +69,10 @@
   * [Google Drive](https://drive.google.com/drive/folders/1NH2pQoPFy4kl9qJtOGTqNeoX0Q3u4rQl?usp=sharing)
 - [Sample slide deck](https://docs.google.com/presentation/d/1huP4IpgFchYWqBgIEP0lN3ZEW7DnslmGgwzNxUzcwJk/edit?usp=sharing)
 - [Google Doc template](https://docs.google.com/document/d/1ojry06G_GTrLLo6CJ4Ej2FeC28r-jijWNBEzVw_9a0Q/edit?usp=sharing)
+
+## Labs
+- Data Feminism (RStudio): [Data wrangling with dplyr](https://github.com/kwaldenphd/dplyr-intro)
+- Elements of Computing: [SQL Queries and Joins](https://github.com/kwaldenphd/sql-queries-joins)
 
 # Chapter 3: Elevate Emotion and Embodiment
 ## Materials
@@ -73,6 +94,10 @@
   * [Haraway article](https://docs.google.com/presentation/d/1JRWQ4PVXwP2rwki_Sstlj9INq3UvEvsQjEqtq8OzlWs/edit?usp=sharing)
 - [Google Doc template](https://bit.ly/df-sept21)
 
+## Labs
+- Data Feminism (RStudio): [Merging and joining with dplyr](https://github.com/kwaldenphd/merging-joining-rstudio)
+- Elements of Computing: [More with Matplotlib/Plotting in Pandas](https://github.com/kwaldenphd/more-with-matplotlib)
+
 # Chapter 4: Rethink Binaries and Hierarchies
 ## Materials
 - Reading
@@ -91,6 +116,10 @@
 - [Sample slide deck](https://docs.google.com/presentation/d/1ey0-6unufTiCq1aG7Thkd68ok8vkbHr8ovHVM5MggDw/edit?usp=sharing)
 - [Google Doc template](https://docs.google.com/document/d/1ojry06G_GTrLLo6CJ4Ej2FeC28r-jijWNBEzVw_9a0Q/edit?usp=sharing)
 
+## Labs
+- Data Feminism (RStudio): [Scraping web data using rvest](https://github.com/kwaldenphd/data-scraping-rvest)
+- Elements of Computing: [Final project, build a data model](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/assignment-prompt.md#build-a-data-model)
+
 # Chapter 5: Embrace Pluralism
 ## Materials
 - Reading
@@ -106,6 +135,10 @@
   * [Original](http://datafeminism.io/blog/book/data-feminism-reading-group/)
   * [Google Drive](https://drive.google.com/drive/folders/1NH2pQoPFy4kl9qJtOGTqNeoX0Q3u4rQl?usp=sharing)
 - [Sample slide deck](https://docs.google.com/presentation/d/1vw4uPr9EouLdaQjADIKNXy6PSgn44pBysqP6b-BpnPM/edit?usp=sharing)
+
+## Labs
+- Data Feminism (RStudio): [Data visualization with ggplot2](https://github.com/kwaldenphd/ggplot-intro)
+- Elements of Computing: [Tidy data](https://github.com/kwaldenphd/tidy-data-principles)
 
 # Chapter 6: Consider Context
 ## Materials
@@ -124,6 +157,10 @@
   * [Google Drive](https://drive.google.com/drive/folders/1NH2pQoPFy4kl9qJtOGTqNeoX0Q3u4rQl?usp=sharing)
 - [Sample slide deck](https://docs.google.com/presentation/d/1oBlFd29uu3IWR0WGfo6YZ2PDyys1asssJwXR4u7Dsc0/edit?usp=sharing)
 - [Google Doc template](https://bit.ly/df-oct12)
+
+## Labs
+- Data Feminism (RStudio): [Getting started with statistics](https://github.com/kwaldenphd/intro-statistics-rstudio)
+- Elements of Computing: [Data wrangling with Pandas](https://github.com/kwaldenphd/eda-pandas)
 
 # Chapter 7: Make Labor Visible
 ## Materials
@@ -145,6 +182,10 @@
 - [Sample slide deck](https://docs.google.com/presentation/d/18MjMEWh6tkC6e4sdozvLKZE15X1Wncu1TN_xOtBk6RM/edit?usp=sharing)
 - [Google Doc template](https://bit.ly/df-oct26)
 
+## Labs
+- Data Feminism (RStudio): [Interactive visualization with ggplot2 and plotly](https://github.com/kwaldenphd/plotly-intro-r)
+- Elements of Computing: [Interactive visualization in Python](https://github.com/kwaldenphd/interactive-visualization-python)
+
 # Conclusion
 ## Materials
 - Reading
@@ -159,6 +200,10 @@
   * [Google Drive](https://drive.google.com/drive/folders/1NH2pQoPFy4kl9qJtOGTqNeoX0Q3u4rQl?usp=sharing)
 - [Sample slide deck](https://docs.google.com/presentation/d/1y84BlPcsukUVNVluaZzl_DogoEv-tko5whuYMo_LDW8/edit?usp=sharing)
 - [Padlet template](https://padlet.com/kwaldenphd/df_nov2)
+
+## Labs
+- Data Feminism (RStudio): None
+- Elements of Computing: None
 
 # Other
 - [Link to Coded Bias discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/coded-bias.md)
