@@ -226,6 +226,11 @@ PLACEHOLDER
 
 ## What This Looks Like in Practice
 
+## Resources
+- [Sample form to complete grade contract](https://docs.google.com/forms/d/e/1FAIpQLScelrfxlExpfIrnQgjXraHbdpRtMXmCEQcnu2f7pf7t-xxJRg/viewform?usp=sf_link)
+- [Sample student grade tracking spreadsheet](https://docs.google.com/spreadsheets/d/1i81cPFswa-T7Si61SeP-pA2_IZh3PgDSd_xANRYskiM/edit?usp=sharing)
+- [Sample instructor grade tracking spreadsheet](https://docs.google.com/spreadsheets/d/1Lali7n_rAV3pY3ypnWAzpwMobrHbPgpr2GPekRVtxcI/edit?usp=sharing)
+
 ## Grade Requirements
 
 ## FAQs
