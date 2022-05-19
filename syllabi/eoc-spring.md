@@ -5,6 +5,7 @@
 
 ## Table of Contents
 
+- [Past Syllabi](#past-syllabi)
 - [Description and Goals](#description-and-goals)
 - [Textbook](#textbook)
 - [Technology](#technology)
@@ -18,6 +19,12 @@
 ## Acknowledgements
 
 This syllabus and all course materials have been prepared in conversation with and adapted from the example of many generous colleagues, including but not limited to: those who taught prior iterations of this course as well as CSC 105 at Grinnell College, Dr. Corey Pennycuff, Dr. Peter Bui, Dr. Jerod Weinman, Dr. Samuel A. Rebelsky, Dr. Ursula Wolz, Dr. Janet Davis, Dr. Liz Rodrigues, Dr. Lindsay K. Mattock, Dr. Anelise Hanson-Shrout, Dr. Dave Eichmann, Megan Adams, Julia Bauder, and Jarren Santos.
+
+# Past Syllabi
+
+Google Docs (ND users only):
+- [Spring 2021](https://docs.google.com/document/d/1CBKYR1kx39T7DjA0BBIY1aqvvDNMglggMdcT39uC_Vw/edit?usp=sharing)
+- [Spring 2022](https://docs.google.com/document/d/1jsJWCMQFQEnjiDJJwI9kkn4R7ElQfGtHZKiKB0ZkxAc/edit?usp=sharing)
 
 # Description and Goals
 
