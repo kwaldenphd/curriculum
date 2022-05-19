@@ -5,6 +5,7 @@
 
 ## Table of Contents
 
+- [Past Syllabi](#past-syllabi)
 - [Description and Goals](#description-and-goals)
 - [Textbook](#textbook)
 - [Technology](#technology)
@@ -18,6 +19,11 @@
 ## Acknowledgements
 
 This syllabus and all course materials have been prepared in conversation with and adapted from the examples and work of many generous colleagues, including but not limited to: Dr. Liz Rodrigues, Dr. Lindsay K. Mattock, Dr. Anelise Hanson-Shrout, Dr. Jesse Stommel, Professor Sean Michael Morris, Dr. Alfie Kohn, Dr. Peter Elbow, Dr. Cathy Davidson, Dr. Asao Inoue, Dr. Abby Mullen, Dr. Miriam Posner, Dr. Soraya Chemaly, Professor Megan Knight, Professor Rachel Kirby, Dr. Tracie Canada, Dr. Cara Ocobock, Dr. Seth Tannenbaum, Dr. Andrew McGregor, and Dr. Tom Oates. Previous cohorts of students who have taken this class have also provided critical feedback on their experiences, and this feedback is instrumental in shaping future iterations of the course.
+
+# Past Syllabi
+
+Google Docs (ND users only):
+- [Fall 2021](https://docs.google.com/document/d/1NmdfCIvRwnPr-wOsanCLnpoOc_maODyf_5bQmU38Bqc/edit?usp=sharing)
 
 # Description and Goals
 
