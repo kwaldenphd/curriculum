@@ -322,8 +322,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### In-Class Work
 - Course overview, Introductions; Coded Bias film discussion
   * [Sample slide deck](https://docs.google.com/presentation/d/12jpIQyFWHzQxchsjMCsNnEMgO_qBqrWA394SukoevfE/edit?usp=sharing)
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/coded-bias.md)
 - Eubanks reading discussion; Getting started with RStudio
   * [Sample slide deck](https://docs.google.com/presentation/d/1-gw4t5wLCI9gu9KEgXnwdFK1pBM5pSTJ2cZQ_bEi9Oc/edit?usp=sharing)
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/eubanks-automating-inequality.md)
 
 ### Work Due Outside Class
 - Technology intake survey
@@ -344,6 +346,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### In-Class Work
 - Discussion
   * [Sample slide deck](https://docs.google.com/presentation/d/1huP4IpgFchYWqBgIEP0lN3ZEW7DnslmGgwzNxUzcwJk/edit?usp=sharing)
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#introduction)
 - Lab work time
   * [Sample slide deck](https://docs.google.com/presentation/d/1RI84OEM-UOmOt7duCQW-n6sADJxFPLJdJ8Cw8BBRR84/edit?usp=sharing)
 
@@ -363,6 +366,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### In-Class Work
 - Discussion
   * [Sample slide deck](https://docs.google.com/presentation/d/1MY91S-JXs0IMKQz4O95ZWFZklFbBzNElDbacwPJ8Zio/edit?usp=sharing)
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#chapter-1-examine-power)
 - Lab work time
   * [Sample slide deck](https://docs.google.com/presentation/d/1lGPrLiS5g6vRDpisrnKs-rGf_OFkcdedcf0kswVOncs/edit?usp=sharing)
 
@@ -382,6 +386,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### In-Class Work
 - Discussion
   * [Sample slide deck](https://docs.google.com/presentation/d/1C9D-OYCPBXXcpT-Ig9uBlEvItiCNJGxrQR9GNc5-fzY/edit?usp=sharing)
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#chapter-2-challenge-power)
 - Lab work time
   * [Sample slide deck](https://docs.google.com/presentation/d/1U4alGmfi-vT8peBP_WmXgbC3FdVjwij3PR3AstadaUU/edit?usp=sharing)
 
@@ -403,6 +408,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### In-Class Work
 - Discussion
   * [Sample slide deck](https://docs.google.com/presentation/d/1ioItTDwtG2UMchLJs2ONeQaA7-57i21MRr8u4zeiqUo/edit?usp=sharing)
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#chapter-3-elevate-emotion-and-embodiment)
 - Lab work time
   * [Sample slide deck](https://docs.google.com/presentation/d/1JRWQ4PVXwP2rwki_Sstlj9INq3UvEvsQjEqtq8OzlWs/edit?usp=sharing)
 
@@ -423,6 +429,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### In-Class Work
 - Discussion
   * [Sample slide deck](https://docs.google.com/presentation/d/1ey0-6unufTiCq1aG7Thkd68ok8vkbHr8ovHVM5MggDw/edit?usp=sharing)
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#chapter-4-rethink-binaries-and-hierarchies)
 - Lab work time
   * [Sample slide deck](https://docs.google.com/presentation/d/1PqqWtUs37vdhcrdAeyk1n0eh96MvqO8G2zCRocnCw1s/edit?usp=sharing)
 
@@ -446,6 +453,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### In-Class Work
 - Discussion
   * [Sample slide deck](https://docs.google.com/presentation/d/1vw4uPr9EouLdaQjADIKNXy6PSgn44pBysqP6b-BpnPM/edit?usp=sharing)
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#chapter-5-embrace-pluralism)
 - Lab work time
   * [Sample slide deck](https://docs.google.com/presentation/d/1kvHTMr6oVrKFMbgC0mQ2KUnMtwNVYxVxCJIsG8Gpb9U/edit?usp=sharing)
 
@@ -466,6 +474,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### In-Class Work
 - Discussion
   * [Sample slide deck](https://docs.google.com/presentation/d/1oBlFd29uu3IWR0WGfo6YZ2PDyys1asssJwXR4u7Dsc0/edit?usp=sharing)
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#chapter-6-consider-context)
 - Lab work time
   * [Sample slide deck](https://docs.google.com/presentation/d/1ysyGAEZGzIvhcwlcM8VX8E6Z99lFlyI77_jQcB5TdwA/edit?usp=sharing)
 
@@ -489,6 +498,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### In-Class Work
 - Discussion
   * [Sample slide deck](https://docs.google.com/presentation/d/18MjMEWh6tkC6e4sdozvLKZE15X1Wncu1TN_xOtBk6RM/edit?usp=sharing)
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#chapter-7-make-labor-visible)
 - Lab work time
   * [Sample slide deck](https://docs.google.com/presentation/d/1s6LJrKac_1fr0d0BP_3BymbLEfrIV_-aM0DIglgDpQM/edit?usp=sharing)
 
@@ -518,6 +528,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### In-Class Work
 - Discussion
   * [Sample slide deck](https://docs.google.com/presentation/d/1y84BlPcsukUVNVluaZzl_DogoEv-tko5whuYMo_LDW8/edit?usp=sharing)
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#conclusion)
 - Final project overview
   * [Sample slide deck](https://docs.google.com/presentation/d/1wAPIRq_RgT4hH0rTkxkddGsLeA7SKWc3lkCUHXU_-AM/edit?usp=sharing)
 
@@ -536,6 +547,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 ### In-Class Work
 - Discussion
   * [Sample slide deck](https://docs.google.com/presentation/d/1x19x6prunJvDaRdZUWJQ2KQnU0oT19hzDxDotT_ix-w/edit?usp=sharing)
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/thorp-living-data.md)
 - Final project proposal workshop
   * [Sample slide deck](https://docs.google.com/presentation/d/1Dh9S7N2a5DiecWxnkewWs8YNssXN2UfGNXcc_DyQbjM/edit?usp=sharing)
 
@@ -555,7 +567,8 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### In-Class Work
 - Discussion
-  * [Sample slide deck]([https://docs.google.com/presentation/d/1x19x6prunJvDaRdZUWJQ2KQnU0oT19hzDxDotT_ix-w/edit?usp=sharing](https://docs.google.com/presentation/d/17wDcGPNGgvbqnZapFbUYH-rcrNqpdvAiJ2jVzkHwScU/edit?usp=sharing))
+  * [Sample slide deck](https://docs.google.com/presentation/d/17wDcGPNGgvbqnZapFbUYH-rcrNqpdvAiJ2jVzkHwScU/edit?usp=sharing)
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/data-for-black-lives.md)
 - Final project work time
   * [Sample slide deck]([https://docs.google.com/presentation/d/1Dh9S7N2a5DiecWxnkewWs8YNssXN2UfGNXcc_DyQbjM/edit?usp=sharing](https://docs.google.com/presentation/d/1aT_WWvAhonpx5r3L0vmN30ltskLTJQuKcoimWPGw8uo/edit?usp=sharing))
 
@@ -564,8 +577,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ## Week 14: Final project work
 
-### Assigned Material
-- Catherine D’Ignazio and Lauren F. Klein, “Conclusion” from from *Data Feminism* (MIT Press, 2020): 203-214. https://doi.org/10.7551/mitpress/11805.001.0001
+### Assigned Material: None
 
 ### Lab: None
 
