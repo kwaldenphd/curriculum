@@ -429,7 +429,7 @@ Quotes to consider
 From this chapter:
 - “Many twentieth-century feminist scholars attempted to address the social construction of gender by treating gender as something separate from sex. But that distinction is increasingly breaking down. Both gender and sex are social constructs” (100)
 
-<figure><img src="https://image.isu.pub/191213160705-9726e0b3a9eea48353a0e623ac9949d8/jpg/page_1.jpg" alt="Congregation for Catholic Education “‘Male and Female He Created Them’: Towards a Path of Dialogue on the Question of Gender Theory in Education” (Vatican City, 2019)"><figcaption>Congregation for Catholic Education “<a href="http://www.educatio.va/content/dam/cec/Documenti/19_0997_INGLESE.pdf">‘Male and Female He Created Them’: Towards a Path of Dialogue on the Question of Gender Theory in Education</a>” (Vatican City, 2019)</figcaption></figure>
+<table><tr><td><img src="https://image.isu.pub/191213160705-9726e0b3a9eea48353a0e623ac9949d8/jpg/page_1.jpg" alt="Congregation for Catholic Education “‘Male and Female He Created Them’: Towards a Path of Dialogue on the Question of Gender Theory in Education” (Vatican City, 2019)"></td><td>Congregation for Catholic Education “<a href="http://www.educatio.va/content/dam/cec/Documenti/19_0997_INGLESE.pdf">‘Male and Female He Created Them’: Towards a Path of Dialogue on the Question of Gender Theory in Education</a>” (Vatican City, 2019)</td></tr></table>
 
 From "[The Spirit of Inclusion](https://news.nd.edu/news/university-has-published-a-statement-of-inclusion-in-accordance-with-the-teachings-of-jesus-christ/)" (University of Notre Dame, August 1997):
 - “We prize the uniqueness of all persons as God’s creatures. We welcome all people, regardless of color, gender, religion, ethnicity, sexual orientation, social or economic class, and nationality, for example, precisely because of Christ’s calling to treat others as we desire to be treated. We value gay and lesbian members of this community as we value all members of this community. We condemn harassment of any kind, and University policies proscribe it. We consciously create an environment of mutual respect, hospitality and warmth in which none are strangers and all may flourish.”
@@ -770,10 +770,6 @@ A few core concepts from this chapter:
 **Questions to consider:**
 - What concepts and terms did you have questions about? What wasn't clear? What else should be on this list?
 - How do these terms or concepts relate to the work of data science and our principle for this week?
-
-#### Big Dick Data
-
-<figure><img src="http://datafeminism.io/wp-content/uploads/2020/03/Data-feminism-06-B.png"><figcaption>“Big Dick Data is a formal, academic term that denotes big data projects that are characterized by masculinist, totalizing fantasies of world domination as enacted through data capture and analysis. Bick Dick Data projects ignore context, fetishize size, and inflate their technical and scientific capabilities” (151)</figcaption></figure>
 
 ### Data Journalism and Making Labor Visible
 
