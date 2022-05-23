@@ -336,7 +336,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### In-Class Work
 - Course overview, Introductions
+  * [Sample slide deck]()
+  * [Discussion prompt]()
 - Lab work time
+  * [Sample slide deck]()
 
 ### Work Due Outside Class
 - Technology intake survey
@@ -353,7 +356,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### In-Class Work
 - Discussion
+  * [Sample slide deck]()
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#introduction)
 - Lab work time
+  * [Discussion prompt]()
 
 ### Work Due Outside Class
 - Reflection
@@ -369,7 +375,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### In-Class Work
 - Discussion
-- Final project work
+  * [Sample slide deck]()
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#chapter-1-examine-power)
+- Lab work time
+  * [Discussion prompt]()
 
 ### Work Due Outside Class
 - Reflection
@@ -385,7 +394,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### In-Class Work
 - Discussion
+  * [Sample slide deck]()
+  * [Discussion prompt]()
 - Lab work time
+  * [Discussion prompt]()
 
 ### Work Due Outside Class
 - Reflection
@@ -402,7 +414,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### In-Class Work
 - Discussion
+  * [Sample slide deck]()
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#chapter-2-challenge-power)
 - Lab work time
+  * [Discussion prompt]()
 
 ### Work Due Outside Class
 - Reflection
@@ -418,7 +433,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### In-Class Work
 - Discussion
+  * [Sample slide deck]()
+  * [Discussion prompt]()
 - Lab work time
+  * [Discussion prompt]()
 
 ### Work Due Outside Class
 - Reflection
@@ -434,7 +452,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### In-Class Work
 - Discussion
-- Final project work
+  * [Sample slide deck]()
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#chapter-4-rethink-binaries-and-hierarchies)
+- Lab work time
+  * [Discussion prompt]()
 
 ### Work Due Outside Class
 - Reflection
@@ -451,7 +472,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### In-Class Work
 - Discussion
+  * [Sample slide deck]()
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#chapter-5-embrace-pluralism)
 - Lab work time
+  * [Discussion prompt]()
 
 ### Work Due Outside Class
 - Reflection
@@ -469,7 +493,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### In-Class Work
 - Discussion
+  * [Sample slide deck]()
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#chapter-6-consider-context)
 - Lab work time
+  * [Discussion prompt]()
 
 ### Work Due Outside Class
 - Reflection
@@ -487,7 +514,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### In-Class Work
 - Discussion
+  * [Sample slide deck]()
+  * [Discussion prompt]()
 - Lab work time
+  * [Discussion prompt]()
 
 ### Work Due Outside Class
 - Reflection
@@ -503,7 +533,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### In-Class Work
 - Discussion
+  * [Sample slide deck]()
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#chapter-3-elevate-emotion-and-embodiment)
 - Lab work time
+  * [Discussion prompt]()
 
 ### Work Due Outside Class
 - Reflection
@@ -519,7 +552,10 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### In-Class Work
 - Discussion
+  * [Sample slide deck]()
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#chapter-7-make-labor-visible)
 - Lab work time
+  * [Discussion prompt]()
 
 ### Work Due Outside Class
 - Reflection
