@@ -312,6 +312,7 @@ Assigned material not openly available online is available through Hesburgh Libr
   * [Sample slide deck]()
   * [Discussion prompt]()
 - Lab work time
+  * [Sample slide deck]()
 
 ### Work Due Outside Class
 - Technology intake survey
@@ -332,8 +333,11 @@ Assigned material not openly available online is available through Hesburgh Libr
 - [Lab #1: Binary math & encoding schema](https://github.com/kwaldenphd/bits-bytes)
 
 ### In-Class Work
-- Discussion
+- Course overview, Introductions
+  * [Sample slide deck]()
+  * [Discussion prompt]()
 - Lab work time
+  * [Sample slide deck]()
 
 ### Work Due Outside Class
 - Reflection
@@ -362,8 +366,11 @@ Assigned material not openly available online is available through Hesburgh Libr
 - [Lab #2: Computer Processing](https://github.com/kwaldenphd/how-computers-work)
 
 ### In-Class Work
-- Discussion
+- Course overview, Introductions
+  * [Sample slide deck]()
+  * [Discussion prompt]()
 - Lab work time
+  * [Sample slide deck]()
 
 ### Work Due Outside Class
 - Reflection
@@ -385,8 +392,11 @@ Assigned material not openly available online is available through Hesburgh Libr
 - [Lab #3: Introduction to markup languages (HTML, CSS)](https://github.com/kwaldenphd/HTML-CSS)
 
 ### In-Class Work
-- Discussion
+- Course overview, Introductions
+  * [Sample slide deck]()
+  * [Discussion prompt]()
 - Lab work time
+  * [Sample slide deck]()
 
 ### Work Due Outside Class
 - Reflection
@@ -411,8 +421,11 @@ Assigned material not openly available online is available through Hesburgh Libr
 - [Lab #4: Getting started with Python (basic syntax and data types)](https://github.com/kwaldenphd/python-intro)
 
 ### In-Class Work
-- Discussion
+- Course overview, Introductions
+  * [Sample slide deck]()
+  * [Discussion prompt]()
 - Lab work time
+  * [Sample slide deck]()
 
 ### Work Due Outside Class
 - Reflection
@@ -434,8 +447,11 @@ Assigned material not openly available online is available through Hesburgh Libr
 - [Lab #5: Lists and strings in Python](https://github.com/kwaldenphd/python-lists-strings)
 
 ### In-Class Work
-- Discussion
+- Course overview, Introductions
+  * [Sample slide deck]()
+  * [Discussion prompt]()
 - Lab work time
+  * [Sample slide deck]()
 
 ### Work Due Outside Class
 - Reflection
@@ -457,8 +473,11 @@ Assigned material not openly available online is available through Hesburgh Libr
 - [Lab #6: Dictionaries and sets in Python](https://github.com/kwaldenphd/python-dictionaries-sets)
 
 ### In-Class Work
-- Discussion
+- Course overview, Introductions
+  * [Sample slide deck]()
+  * [Discussion prompt]()
 - Lab work time
+  * [Sample slide deck]()
 
 ### Work Due Outside Class
 - Reflection
@@ -482,8 +501,11 @@ Assigned material not openly available online is available through Hesburgh Libr
 - [Lab #7: Control flow structures, iteration and recursion, and looping structures in Python](https://github.com/kwaldenphd/python-conditional-statements)
 
 ### In-Class Work
-- Discussion
+- Course overview, Introductions
+  * [Sample slide deck]()
+  * [Discussion prompt]()
 - Lab work time
+  * [Sample slide deck]()
 
 ### Work Due Outside Class
 - Reflection
@@ -509,8 +531,11 @@ Assigned material not openly available online is available through Hesburgh Libr
 - [Lab #8: Functions in Python](https://github.com/kwaldenphd/python-functions)
 
 ### In-Class Work
-- Discussion
+- Course overview, Introductions
+  * [Sample slide deck]()
+  * [Discussion prompt]()
 - Lab work time
+  * [Sample slide deck]()
 
 ### Work Due Outside Class
 - Reflection
@@ -535,8 +560,11 @@ Assigned material not openly available online is available through Hesburgh Libr
 - [Lab #9: Data structures and file I/O in Python](https://github.com/kwaldenphd/python-structured-data)
 
 ### In-Class Work
-- Discussion
+- Course overview, Introductions
+  * [Sample slide deck]()
+  * [Discussion prompt]()
 - Lab work time
+  * [Sample slide deck]()
 
 ### Work Due Outside Class
 - Reflection
@@ -556,8 +584,11 @@ Assigned material not openly available online is available through Hesburgh Libr
 - [Lab #10: Python in Jupyter Notebooks](https://github.com/kwaldenphd/python-jupyter-notebooks)
 
 ### In-Class Work
-- Discussion
+- Course overview, Introductions
+  * [Sample slide deck]()
+  * [Discussion prompt]()
 - Lab work time
+  * [Sample slide deck]()
 
 ### Work Due Outside Class
 - Reflection
@@ -577,8 +608,11 @@ Assigned material not openly available online is available through Hesburgh Libr
 - [Lab #11: Introduction to Pandas](https://github.com/kwaldenphd/pandas-intro)
 
 ### In-Class Work
-- Discussion
+- Course overview, Introductions
+  * [Sample slide deck]()
+  * [Discussion prompt](https://github.com/kwaldenphd/curriculum/blob/main/discussions/df-discussion-prompts.md#introduction)
 - Lab work time
+  * [Sample slide deck]()
 
 ### Work Due Outside Class
 - Reflection
@@ -615,8 +649,7 @@ Assigned material not openly available online is available through Hesburgh Libr
 #### Content Readings
 - Anil Dash and Ruha Benjamin, “[American as Apple Pie: How Racism Gets Baked Into Technology](https://glitch.com/glimmer/episode/function-episode-16/)” *Function* podcast (23 October 2019).
 
-#### Technical Readings
-- None
+#### Technical Readings: None
 
 ### Lab: None
 
