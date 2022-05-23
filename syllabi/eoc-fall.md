@@ -30,11 +30,8 @@ Google Docs (ND users only):
 
 # Description and Goals
 
-<p align='center'>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/L_Dorothy_Vaughan_M_Leslie_Hunter_R_Vivian_Adair.jpg/1119px-L_Dorothy_Vaughan_M_Leslie_Hunter_R_Vivian_Adair.jpg?20160418220149" alt= "L-R: Dorothy Vaughan, Lessie Hunter, Vivian Adair (Margaret Ridenhour and Charlotte Craidon in back) Human Computers: photo donated by B. Golemba, NASA" (4 July 2020)">
- </p>
-
-*Image credit: L-R: Dorothy Vaughan, Lessie Hunter, Vivian Adair (Margaret Ridenhour and Charlotte Craidon in back) Human Computers: photo donated by B. Golemba, [NASA](https://crgis.ndc.nasa.gov/crgis/images/9/93/L_Dorothy_Vaughan_M_Lessie_Hunter_R_Vivian_Adair.jpg)*
+<p align='center'><figure>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/L_Dorothy_Vaughan_M_Leslie_Hunter_R_Vivian_Adair.jpg/1119px-L_Dorothy_Vaughan_M_Leslie_Hunter_R_Vivian_Adair.jpg?20160418220149" alt= "L-R: Dorothy Vaughan, Lessie Hunter, Vivian Adair (Margaret Ridenhour and Charlotte Craidon in back) Human Computers: photo donated by B. Golemba, NASA" (4 July 2020)"><figcaption>L-R: Dorothy Vaughan, Lessie Hunter, Vivian Adair (Margaret Ridenhour and Charlotte Craidon in back) Human Computers: photo donated by B. Golemba, <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/L_Dorothy_Vaughan_M_Leslie_Hunter_R_Vivian_Adair.jpg/1119px-L_Dorothy_Vaughan_M_Leslie_Hunter_R_Vivian_Adair.jpg?20160418220149">Wikimedia</a></figcaption></p>
 
 We will explore what computer science educators have identified as seven “big ideas” in computing: creativity, abstraction, data and information, algorithms, programming, the internet, and global impacts ([AP Computer Science Principles](https://apcentral.collegeboard.org/courses/ap-computer-science-principles)). Our major learning objectives for this course include:
 - Understand the basic concepts of computers, their components, and operation
@@ -312,6 +309,8 @@ Assigned material not openly available online is available through Hesburgh Libr
 
 ### In-Class Work
 - Course overview, Introductions
+  * [Sample slide deck]()
+  * [Discussion prompt]()
 - Lab work time
 
 ### Work Due Outside Class
