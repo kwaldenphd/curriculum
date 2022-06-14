@@ -86,7 +86,7 @@ If you do not have access to a personal computer, laptops are available for chec
   <tr>
     <td>3</td>
     <td>Early College Football and Community Formation</td>
-   <td ropwspan="4"><a href="[https://github.com/kwaldenphd/tidy-data-r-intro](https://github.com/kwaldenphd/football-text-analysis)">Textual Analysis</a></td>
+   <td ropwspan="4"><a href="https://github.com/kwaldenphd/football-text-analysis">Textual Analysis</a></td>
   </tr>
   <tr>
     <td>4</td>
@@ -103,7 +103,7 @@ If you do not have access to a personal computer, laptops are available for chec
   <tr>
     <td>7</td>
     <td>Rockne Remembered</td>
-    <td colspan="2"><a href="https://github.com/kwaldenphd/football-structured-data">Data Analysis and Visualization</a></td>
+    <td rowspan="2"><a href="https://github.com/kwaldenphd/football-structured-data">Data Analysis and Visualization</a></td>
   </tr>
     <tr>
     <td>8</td>
