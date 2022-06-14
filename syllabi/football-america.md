@@ -86,7 +86,7 @@ If you do not have access to a personal computer, laptops are available for chec
   <tr>
     <td>3</td>
     <td>Early College Football and Community Formation</td>
-   <td ropwspan="4"><a href="https://github.com/kwaldenphd/football-text-analysis">Textual Analysis</a></td>
+   <td rowspan="4"><a href="https://github.com/kwaldenphd/football-text-analysis">Textual Analysis</a></td>
   </tr>
   <tr>
     <td>4</td>
